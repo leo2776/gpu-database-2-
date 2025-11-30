@@ -1,0 +1,2871 @@
+{
+  "NVIDIA": {
+    "RTX 40 Series (Ada)": [
+      "GeForce RTX 4090",
+      "GeForce RTX 4090 D",
+      "GeForce RTX 4080 SUPER",
+      "GeForce RTX 4080",
+      "GeForce RTX 4070 Ti SUPER",
+      "GeForce RTX 4070 Ti",
+      "GeForce RTX 4070 SUPER",
+      "GeForce RTX 4070",
+      "GeForce RTX 4060 Ti 16GB",
+      "GeForce RTX 4060 Ti 8GB",
+      "GeForce RTX 4060",
+      "GeForce RTX 4050",
+      "GeForce RTX 4090 OEM",
+      "GeForce RTX 4080 OEM",
+      "GeForce RTX 4070 OEM"
+    ],
+
+    "RTX 40 Laptop": [
+      "GeForce RTX 4090 Laptop GPU",
+      "GeForce RTX 4080 Laptop GPU",
+      "GeForce RTX 4070 Laptop GPU",
+      "GeForce RTX 4060 Laptop GPU",
+      "GeForce RTX 4050 Laptop GPU"
+    ],
+
+    "RTX 30 Series (Ampere)": [
+      "GeForce RTX 3090 Ti",
+      "GeForce RTX 3090",
+      "GeForce RTX 3080 Ti",
+      "GeForce RTX 3080 12GB",
+      "GeForce RTX 3080 10GB",
+      "GeForce RTX 3070 Ti",
+      "GeForce RTX 3070",
+      "GeForce RTX 3060 Ti",
+      "GeForce RTX 3060 12GB",
+      "GeForce RTX 3060 8GB",
+      "GeForce RTX 3050 8GB",
+      "GeForce RTX 3050 6GB",
+      "GeForce RTX 3090 OEM",
+      "GeForce RTX 3080 OEM",
+      "GeForce RTX 3070 OEM"
+    ],
+
+    "RTX 30 Laptop": [
+      "GeForce RTX 3080 Ti Laptop GPU",
+      "GeForce RTX 3080 Laptop GPU",
+      "GeForce RTX 3070 Ti Laptop GPU",
+      "GeForce RTX 3070 Laptop GPU",
+      "GeForce RTX 3060 Laptop GPU",
+      "GeForce RTX 3050 Ti Laptop GPU",
+      "GeForce RTX 3050 Laptop GPU"
+    ],
+
+    "RTX 20 Series (Turing)": [
+      "GeForce RTX 2080 Ti",
+      "GeForce RTX 2080 SUPER",
+      "GeForce RTX 2080",
+      "GeForce RTX 2070 SUPER",
+      "GeForce RTX 2070",
+      "GeForce RTX 2060 SUPER",
+      "GeForce RTX 2060 12GB",
+      "GeForce RTX 2060 6GB",
+      "GeForce RTX 2060 3GB",
+      "GeForce RTX 2080 OEM",
+      "GeForce RTX 2070 OEM",
+      "GeForce RTX 2060 OEM"
+    ],
+
+    "RTX 20 Laptop": [
+      "GeForce RTX 2080 Laptop GPU",
+      "GeForce RTX 2070 Laptop GPU",
+      "GeForce RTX 2060 Laptop GPU"
+    ],
+
+    "GTX 16 Series (Turing)": [
+      "GeForce GTX 1660 Ti",
+      "GeForce GTX 1660 SUPER",
+      "GeForce GTX 1660",
+      "GeForce GTX 1650 SUPER",
+      "GeForce GTX 1650 GDDR6",
+      "GeForce GTX 1650 GDDR5"
+    ],
+
+    "GTX 10 Series (Pascal)": [
+      "GeForce GTX 1080 Ti",
+      "GeForce GTX 1080",
+      "GeForce GTX 1070 Ti",
+      "GeForce GTX 1070",
+      "GeForce GTX 1060 6GB",
+      "GeForce GTX 1060 3GB",
+      "GeForce GTX 1050 Ti",
+      "GeForce GTX 1050"
+    ],
+
+    "GTX 900 Series (Maxwell)": [
+      "GeForce GTX 980 Ti",
+      "GeForce GTX 980",
+      "GeForce GTX 970",
+      "GeForce GTX 960",
+      "GeForce GTX 950"
+    ],
+
+    "GTX 700 Series (Kepler/Maxwell)": [
+      "GeForce GTX 780 Ti",
+      "GeForce GTX 780",
+      "GeForce GTX 770",
+      "GeForce GTX 760",
+      "GeForce GTX 750 Ti",
+      "GeForce GTX 750"
+    ],
+
+    "GTX 600 Series (Kepler)": [
+      "GeForce GTX 690",
+      "GeForce GTX 680",
+      "GeForce GTX 670",
+      "GeForce GTX 660 Ti",
+      "GeForce GTX 660",
+      "GeForce GTX 650 Ti BOOST",
+      "GeForce GTX 650 Ti",
+      "GeForce GTX 650"
+    ],
+
+    "GT Series (Fermi/Kepler/Maxwell)": [
+      "GeForce GT 1030",
+      "GeForce GT 1010",
+      "GeForce GT 730",
+      "GeForce GT 720",
+      "GeForce GT 710",
+      "GeForce GT 640",
+      "GeForce GT 630",
+      "GeForce GT 620",
+      "GeForce GT 610",
+      "GeForce GT 520",
+      "GeForce GT 440",
+      "GeForce GT 430"
+    ],
+
+    "NVIDIA TITAN Series": [
+      "NVIDIA Titan RTX",
+      "NVIDIA Titan V",
+      "NVIDIA Titan Xp",
+      "NVIDIA Titan X (Pascal)",
+      "NVIDIA Titan X (Maxwell)",
+      "NVIDIA Titan Z",
+      "NVIDIA Titan Black"
+    ],
+
+    "Quadro RTX / Professional": [
+      "Quadro RTX 8000",
+      "Quadro RTX 6000",
+      "Quadro RTX 5000",
+      "Quadro RTX 4000",
+      "Quadro RTX 3000",
+      "Quadro GV100",
+      "Quadro P6000",
+      "Quadro P5000",
+      "Quadro P4000",
+      "Quadro P2200",
+      "Quadro P2000",
+      "Quadro P1000",
+      "Quadro M6000",
+      "Quadro M5000",
+      "Quadro M4000",
+      "Quadro K6000",
+      "Quadro K5200",
+      "Quadro K5000",
+      "Quadro K4000",
+      "Quadro K2000",
+      "Quadro K600"
+    ],
+
+    "NVIDIA Tesla / Data Center": [
+      "NVIDIA H100",
+      "NVIDIA H200",
+      "NVIDIA A100",
+      "NVIDIA A800",
+      "NVIDIA A40",
+      "NVIDIA A30",
+      "NVIDIA A10",
+      "NVIDIA A16",
+      "NVIDIA L40",
+      "NVIDIA L40S",
+      "NVIDIA L20",
+      "NVIDIA V100",
+      "NVIDIA P100",
+      "NVIDIA T4",
+      "NVIDIA M60",
+      "NVIDIA M40",
+      "NVIDIA K80"
+    ],
+
+    "NVIDIA Mobile MX Series": [
+      "GeForce MX570",
+      "GeForce MX550",
+      "GeForce MX450",
+      "GeForce MX350",
+      "GeForce MX330",
+      "GeForce MX250",
+      "GeForce MX150"
+    ]
+  }
+}
+{
+  "AMD": {
+    "Radeon RX 7000 (RDNA 3)": [
+      "Radeon RX 7900 XTX",
+      "Radeon RX 7900 XT",
+      "Radeon RX 7900 GRE",
+      "Radeon RX 7800 XT",
+      "Radeon RX 7700 XT",
+      "Radeon RX 7600 XT",
+      "Radeon RX 7600"
+    ],
+
+    "Radeon RX 6000 (RDNA 2)": [
+      "Radeon RX 6950 XT",
+      "Radeon RX 6900 XT",
+      "Radeon RX 6800 XT",
+      "Radeon RX 6800",
+      "Radeon RX 6750 XT",
+      "Radeon RX 6700 XT",
+      "Radeon RX 6700",
+      "Radeon RX 6650 XT",
+      "Radeon RX 6600 XT",
+      "Radeon RX 6600",
+      "Radeon RX 6500 XT",
+      "Radeon RX 6400"
+    ],
+
+    "Radeon RX 5000 (RDNA 1)": [
+      "Radeon RX 5700 XT",
+      "Radeon RX 5700",
+      "Radeon RX 5600 XT",
+      "Radeon RX 5500 XT",
+      "Radeon RX 5500",
+      "Radeon RX 5300"
+    ],
+
+    "Radeon RX 500 (Polaris)": [
+      "Radeon RX 590",
+      "Radeon RX 580",
+      "Radeon RX 570",
+      "Radeon RX 560",
+      "Radeon RX 550"
+    ],
+
+    "Radeon RX 400 (Polaris)": [
+      "Radeon RX 480",
+      "Radeon RX 470",
+      "Radeon RX 460"
+    ],
+
+    "Radeon Vega Series": [
+      "Radeon VII",
+      "Radeon RX Vega 64",
+      "Radeon RX Vega 56",
+      "Radeon Vega Frontier Edition"
+    ],
+
+    "Radeon R9 / R7 / R5": [
+      "Radeon R9 Fury X",
+      "Radeon R9 Fury",
+      "Radeon R9 Nano",
+      "Radeon R9 390X",
+      "Radeon R9 390",
+      "Radeon R9 380X",
+      "Radeon R9 380",
+      "Radeon R9 370",
+      "Radeon R7 370",
+      "Radeon R7 360",
+      "Radeon R5 340"
+    ],
+
+    "FirePro / Radeon Pro": [
+      "Radeon Pro W7900",
+      "Radeon Pro W7800",
+      "Radeon Pro W6800",
+      "Radeon Pro W6600",
+      "Radeon Pro WX 9100",
+      "Radeon Pro WX 8200",
+      "FirePro W9100",
+      "FirePro W8100",
+      "FirePro W7100",
+      "FirePro W5100"
+    ],
+
+    "AMD Instinct (Data Center)": [
+      "Instinct MI300X",
+      "Instinct MI300A",
+      "Instinct MI250X",
+      "Instinct MI250",
+      "Instinct MI210",
+      "Instinct MI100",
+      "Instinct MI60",
+      "Instinct MI50"
+    ],
+
+    "AMD Laptop GPUs": [
+      "Radeon RX 7600M XT",
+      "Radeon RX 7600M",
+      "Radeon RX 6700S",
+      "Radeon RX 6800M",
+      "Radeon RX 6600M",
+      "Radeon RX 6500M",
+      "Radeon RX 6400S",
+      "Radeon Vega 8",
+      "Radeon Vega 10",
+      "Radeon RX 5300M"
+    ]
+  },
+
+  "Intel": {
+    "Intel ARC (Alchemist)": [
+      "Intel Arc A770",
+      "Intel Arc A750",
+      "Intel Arc A580",
+      "Intel Arc A380",
+      "Intel Arc A310"
+    ],
+
+    "Intel ARC Laptop": [
+      "Intel Arc A770M",
+      "Intel Arc A730M",
+      "Intel Arc A550M",
+      "Intel Arc A370M",
+      "Intel Arc A350M"
+    ],
+
+    "Intel Iris Xe (Integrated)": [
+      "Iris Xe Graphics G7",
+      "Iris Xe Graphics G4",
+      "Iris Xe MAX"
+    ],
+
+    "Intel UHD / HD (Integrated)": [
+      "Intel UHD 770",
+      "Intel UHD 730",
+      "Intel UHD 710",
+      "Intel UHD 630",
+      "Intel UHD 620",
+      "Intel HD 630",
+      "Intel HD 620",
+      "Intel HD 610",
+      "Intel HD 530",
+      "Intel HD 520",
+      "Intel HD 4600",
+      "Intel HD 4400",
+      "Intel HD 4000"
+    ]
+  },
+
+  "NVIDIA Legacy (大量型號精簡版)": {
+    "GTX 500 Series (Fermi)": [
+      "GeForce GTX 580",
+      "GeForce GTX 570",
+      "GeForce GTX 560 Ti",
+      "GeForce GTX 560",
+      "GeForce GTX 550 Ti",
+      "GeForce GTX 520"
+    ],
+
+    "GTX 400 Series (Fermi)": [
+      "GeForce GTX 480",
+      "GeForce GTX 470",
+      "GeForce GTX 465",
+      "GeForce GTX 460",
+      "GeForce GTX 450"
+    ],
+
+    "GeForce 200 Series": [
+      "GeForce GTX 295",
+      "GeForce GTX 285",
+      "GeForce GTX 280",
+      "GeForce GTX 275",
+      "GeForce GTX 260"
+    ],
+
+    "GeForce 100 Series": [
+      "GeForce GTS 150",
+      "GeForce GT 130",
+      "GeForce GT 120",
+      "GeForce G100"
+    ],
+
+    "GeForce 9 Series": [
+      "GeForce 9800 GTX+",
+      "GeForce 9800 GTX",
+      "GeForce 9800 GT",
+      "GeForce 9600 GT",
+      "GeForce 9600 GSO",
+      "GeForce 9500 GT"
+    ],
+
+    "GeForce 8 Series": [
+      "GeForce 8800 Ultra",
+      "GeForce 8800 GTX",
+      "GeForce 8800 GTS",
+      "GeForce 8600 GTS",
+      "GeForce 8600 GT",
+      "GeForce 8500 GT"
+    ],
+
+    "GeForce 7 Series": [
+      "GeForce 7950 GX2",
+      "GeForce 7900 GTX",
+      "GeForce 7900 GS",
+      "GeForce 7800 GTX",
+      "GeForce 7800 GT",
+      "GeForce 7600 GT",
+      "GeForce 7600 GS"
+    ],
+
+    "GeForce 6 Series": [
+      "GeForce 6800 Ultra",
+      "GeForce 6800 GT",
+      "GeForce 6800",
+      "GeForce 6600 GT",
+      "GeForce 6600",
+      "GeForce 6500",
+      "GeForce 6200"
+    ]
+  }
+}
+{
+  "NVIDIA_Extra": {
+    "GeForce 500 Series Extended": [
+      "GeForce GTX 590",
+      "GeForce GTX 580",
+      "GeForce GTX 570",
+      "GeForce GTX 560 Ti 448 Core",
+      "GeForce GTX 560 Ti",
+      "GeForce GTX 560 SE",
+      "GeForce GTX 560",
+      "GeForce GTX 555",
+      "GeForce GTX 550 Ti",
+      "GeForce GT 545",
+      "GeForce GT 530",
+      "GeForce GT 520",
+      "GeForce GT 510"
+    ],
+
+    "GeForce 400 Series Extended": [
+      "GeForce GTX 480",
+      "GeForce GTX 470",
+      "GeForce GTX 465",
+      "GeForce GTX 460 SE",
+      "GeForce GTX 460",
+      "GeForce GTS 450",
+      "GeForce GT 440",
+      "GeForce GT 430",
+      "GeForce GT 420",
+      "GeForce 405"
+    ],
+
+    "GeForce 300 Series (OEM)": [
+      "GeForce 315",
+      "GeForce 310",
+      "GeForce 305",
+      "GeForce 303",
+      "GeForce 301"
+    ],
+
+    "GeForce 200 Series Extended": [
+      "GeForce GTX 295",
+      "GeForce GTX 285",
+      "GeForce GTX 280",
+      "GeForce GTX 275",
+      "GeForce GTX 260 Core 216",
+      "GeForce GTX 260",
+      "GeForce GTS 250",
+      "GeForce GT 240",
+      "GeForce GT 230",
+      "GeForce GT 220",
+      "GeForce G210"
+    ],
+
+    "GeForce 100 Series (OEM)": [
+      "GeForce GT 140",
+      "GeForce GT 130",
+      "GeForce GT 120",
+      "GeForce G100"
+    ],
+
+    "GeForce 9 Series Extended": [
+      "GeForce 9800 GX2",
+      "GeForce 9800 GTX+",
+      "GeForce 9800 GTX",
+      "GeForce 9800 GT Green Edition",
+      "GeForce 9800 GT",
+      "GeForce 9600 GT",
+      "GeForce 9600 GSO 512",
+      "GeForce 9600 GSO",
+      "GeForce 9500 GT",
+      "GeForce 9400 GT",
+      "GeForce 9300 GS",
+      "GeForce 9300 GE"
+    ],
+
+    "GeForce 8 Series Extended": [
+      "GeForce 8800 Ultra",
+      "GeForce 8800 GTX",
+      "GeForce 8800 GTS 512",
+      "GeForce 8800 GTS 640",
+      "GeForce 8800 GTS 320",
+      "GeForce 8800 GT",
+      "GeForce 8800 GS",
+      "GeForce 8600 GTS",
+      "GeForce 8600 GT",
+      "GeForce 8500 GT",
+      "GeForce 8400 GS",
+      "GeForce 8300 GS"
+    ],
+
+    "GeForce 7 Series Mega": [
+      "GeForce 7950 GT",
+      "GeForce 7900 GTX",
+      "GeForce 7900 GS",
+      "GeForce 7800 GTX",
+      "GeForce 7800 GT",
+      "GeForce 7800 GS",
+      "GeForce 7600 GT",
+      "GeForce 7600 GS",
+      "GeForce 7600 LE",
+      "GeForce 7500 LE",
+      "GeForce 7300 GT",
+      "GeForce 7300 GS",
+      "GeForce 7300 LE",
+      "GeForce 7200 GS"
+    ],
+
+    "GeForce 6 Series Mega": [
+      "GeForce 6800 Ultra",
+      "GeForce 6800 GT",
+      "GeForce 6800 GS",
+      "GeForce 6800 LE",
+      "GeForce 6800",
+      "GeForce 6600 GT",
+      "GeForce 6600",
+      "GeForce 6600 LE",
+      "GeForce 6500",
+      "GeForce 6200 TurboCache",
+      "GeForce 6200",
+      "GeForce PCX 5900",
+      "GeForce PCX 5750"
+    ],
+
+    "GeForce FX Series": [
+      "GeForce FX 5950 Ultra",
+      "GeForce FX 5900 Ultra",
+      "GeForce FX 5900",
+      "GeForce FX 5800 Ultra",
+      "GeForce FX 5800",
+      "GeForce FX 5700 Ultra",
+      "GeForce FX 5700",
+      "GeForce FX 5600 Ultra",
+      "GeForce FX 5600",
+      "GeForce FX 5500",
+      "GeForce FX 5200 Ultra",
+      "GeForce FX 5200",
+      "GeForce FX 5100"
+    ],
+
+    "NVIDIA Laptop GPUs (Max-Q / Max-P / Full List)": [
+      "GeForce RTX 3080 Ti Max-Q",
+      "GeForce RTX 3080 Max-Q",
+      "GeForce RTX 3070 Ti Max-Q",
+      "GeForce RTX 3070 Max-Q",
+      "GeForce RTX 3060 Max-Q",
+      "GeForce RTX 3050 Ti Max-Q",
+      "GeForce RTX 3050 Max-Q",
+      "GeForce GTX 1660 Ti Max-Q",
+      "GeForce GTX 1650 Max-Q",
+      "GeForce GTX 1060 Max-Q",
+      "GeForce GTX 1070 Max-Q",
+      "GeForce GTX 1080 Max-Q",
+      "GeForce MX570",
+      "GeForce MX550",
+      "GeForce MX450",
+      "GeForce MX350",
+      "GeForce MX330",
+      "GeForce MX250",
+      "GeForce MX150"
+    ]
+  },
+
+  "AMD_Extra": {
+    "Radeon HD 8000 OEM": [
+      "Radeon HD 8990 OEM",
+      "Radeon HD 8970 OEM",
+      "Radeon HD 8950 OEM",
+      "Radeon HD 8870 OEM",
+      "Radeon HD 8850 OEM"
+    ],
+
+    "Radeon HD 7000 Series": [
+      "Radeon HD 7990",
+      "Radeon HD 7970",
+      "Radeon HD 7950",
+      "Radeon HD 7870",
+      "Radeon HD 7850",
+      "Radeon HD 7770",
+      "Radeon HD 7750",
+      "Radeon HD 7670",
+      "Radeon HD 7570",
+      "Radeon HD 7470"
+    ],
+
+    "Radeon HD 6000 Series": [
+      "Radeon HD 6990",
+      "Radeon HD 6970",
+      "Radeon HD 6950",
+      "Radeon HD 6870",
+      "Radeon HD 6850",
+      "Radeon HD 6790",
+      "Radeon HD 6770",
+      "Radeon HD 6750",
+      "Radeon HD 6670",
+      "Radeon HD 6570",
+      "Radeon HD 6450"
+    ],
+
+    "Radeon HD 5000 Series": [
+      "Radeon HD 5970",
+      "Radeon HD 5870",
+      "Radeon HD 5850",
+      "Radeon HD 5830",
+      "Radeon HD 5770",
+      "Radeon HD 5750",
+      "Radeon HD 5670",
+      "Radeon HD 5570",
+      "Radeon HD 5550",
+      "Radeon HD 5450"
+    ],
+
+    "Radeon HD 4000 Series": [
+      "Radeon HD 4870 X2",
+      "Radeon HD 4870",
+      "Radeon HD 4850",
+      "Radeon HD 4830",
+      "Radeon HD 4770",
+      "Radeon HD 4670",
+      "Radeon HD 4650",
+      "Radeon HD 4550",
+      "Radeon HD 4350"
+    ],
+
+    "Radeon HD 3000 Series": [
+      "Radeon HD 3870",
+      "Radeon HD 3850",
+      "Radeon HD 3830",
+      "Radeon HD 3650",
+      "Radeon HD 3470",
+      "Radeon HD 3450"
+    ],
+
+    "Radeon HD 2000 Series": [
+      "Radeon HD 2900 XT",
+      "Radeon HD 2600 XT",
+      "Radeon HD 2600 PRO",
+      "Radeon HD 2400 XT",
+      "Radeon HD 2400 PRO"
+    ]
+  },
+
+  "Intel_Extra": {
+    "Intel HD (Early Generations)": [
+      "Intel HD Graphics 3000",
+      "Intel HD Graphics 2000",
+      "Intel HD Graphics (Arrandale)",
+      "Intel HD Graphics (Clarkdale)"
+    ],
+
+    "Intel GMA (Old GPUs)": [
+      "Intel GMA 4500",
+      "Intel GMA 4500MHD",
+      "Intel GMA 3100",
+      "Intel GMA X4500",
+      "Intel GMA X3100",
+      "Intel GMA 965",
+      "Intel GMA 950",
+      "Intel GMA 900"
+    ]
+  }
+}
+{
+  "NVIDIA_Quadro_Full": {
+    "Quadro RTX Series": [
+      "Quadro RTX 8000",
+      "Quadro RTX 6000",
+      "Quadro RTX 5000",
+      "Quadro RTX 4000",
+      "Quadro RTX 3000"
+    ],
+    "Quadro GP100/GP102": [
+      "Quadro GP100",
+      "Quadro GP102",
+      "Quadro GP104"
+    ],
+    "Quadro P Series (Pascal)": [
+      "Quadro P6000",
+      "Quadro P5000",
+      "Quadro P4000",
+      "Quadro P2200",
+      "Quadro P2000",
+      "Quadro P1000",
+      "Quadro P620",
+      "Quadro P600",
+      "Quadro P500"
+    ],
+    "Quadro M Series (Maxwell)": [
+      "Quadro M6000",
+      "Quadro M5500",
+      "Quadro M5000",
+      "Quadro M4000",
+      "Quadro M2000",
+      "Quadro M1000M",
+      "Quadro M2000M",
+      "Quadro M3000M",
+      "Quadro M5000M",
+      "Quadro M6000M"
+    ],
+    "Quadro K Series (Kepler)": [
+      "Quadro K6000",
+      "Quadro K5200",
+      "Quadro K5000",
+      "Quadro K4200",
+      "Quadro K4000",
+      "Quadro K2200",
+      "Quadro K2000",
+      "Quadro K1200",
+      "Quadro K620",
+      "Quadro K600",
+      "Quadro K520",
+      "Quadro K420"
+    ],
+    "Quadro FX Series": [
+      "Quadro FX 5800",
+      "Quadro FX 5600",
+      "Quadro FX 4800",
+      "Quadro FX 4700 X2",
+      "Quadro FX 4600",
+      "Quadro FX 3800",
+      "Quadro FX 3700",
+      "Quadro FX 1800",
+      "Quadro FX 1700",
+      "Quadro FX 580",
+      "Quadro FX 380",
+      "Quadro FX 370"
+    ],
+    "Quadro NVS Series": [
+      "Quadro NVS 510",
+      "Quadro NVS 420",
+      "Quadro NVS 315",
+      "Quadro NVS 310",
+      "Quadro NVS 300"
+    ]
+  },
+
+  "NVIDIA_Tesla_Full": {
+    "Tesla A/H Series": [
+      "Tesla H100",
+      "Tesla H200",
+      "Tesla A100 80GB",
+      "Tesla A100 40GB",
+      "Tesla A40",
+      "Tesla A30",
+      "Tesla A16",
+      "Tesla A10"
+    ],
+    "Tesla V/P Series": [
+      "Tesla V100 32GB",
+      "Tesla V100 16GB",
+      "Tesla P100 16GB",
+      "Tesla P100 12GB",
+      "Tesla P40",
+      "Tesla P4"
+    ],
+    "Tesla T/M/K Series": [
+      "Tesla T4",
+      "Tesla M60",
+      "Tesla M40",
+      "Tesla M4",
+      "Tesla K80",
+      "Tesla K40",
+      "Tesla K20X",
+      "Tesla K20",
+      "Tesla K10"
+    ],
+    "Tesla C Series": [
+      "Tesla C2075",
+      "Tesla C2050",
+      "Tesla C2070",
+      "Tesla C1060"
+    ],
+    "Tesla S Series": [
+      "Tesla S1070",
+      "Tesla S2050"
+    ]
+  },
+
+  "NVIDIA_AGP_PCIe_FirstGen": {
+    "GeForce 4 Series": [
+      "GeForce4 Ti 4600",
+      "GeForce4 Ti 4400",
+      "GeForce4 Ti 4200",
+      "GeForce4 MX 460",
+      "GeForce4 MX 440",
+      "GeForce4 MX 420"
+    ],
+    "GeForce 3 Series": [
+      "GeForce3 Ti 500",
+      "GeForce3 Ti 200",
+      "GeForce3"
+    ],
+    "GeForce 2 Series": [
+      "GeForce2 Ultra",
+      "GeForce2 GTS",
+      "GeForce2 Pro",
+      "GeForce2 Ti",
+      "GeForce2 MX 400",
+      "GeForce2 MX 200"
+    ],
+    "GeForce 256 Series": [
+      "GeForce 256 DDR",
+      "GeForce 256 SDR"
+    ],
+    "NVIDIA RIVA Series": [
+      "RIVA TNT2 Ultra",
+      "RIVA TNT2 Pro",
+      "RIVA TNT2",
+      "RIVA TNT",
+      "RIVA 128"
+    ]
+  },
+
+  "AMD_Legacy_Full": {
+    "Radeon R9 Series": [
+      "Radeon R9 295X2",
+      "Radeon R9 290X",
+      "Radeon R9 290",
+      "Radeon R9 285",
+      "Radeon R9 280X",
+      "Radeon R9 280",
+      "Radeon R9 270X",
+      "Radeon R9 270"
+    ],
+    "Radeon R7 Series": [
+      "Radeon R7 265",
+      "Radeon R7 260X",
+      "Radeon R7 260",
+      "Radeon R7 250",
+      "Radeon R7 240"
+    ],
+    "Radeon R5 Series": [
+      "Radeon R5 235",
+      "Radeon R5 230",
+      "Radeon R5 220"
+    ],
+    "Radeon HD X000 Series": [
+      "Radeon X1950 XTX",
+      "Radeon X1950 Pro",
+      "Radeon X1900 XTX",
+      "Radeon X1900 XT",
+      "Radeon X1900 GT",
+      "Radeon X1800 XT",
+      "Radeon X1800 XL",
+      "Radeon X1800 GTO",
+      "Radeon X1650 XT",
+      "Radeon X1650 Pro",
+      "Radeon X1600 XT",
+      "Radeon X1600 Pro",
+      "Radeon X1550",
+      "Radeon X1300 XT",
+      "Radeon X1300 Pro",
+      "Radeon X1300"
+    ],
+    "Radeon 9000 Series": [
+      "Radeon 9800 XT",
+      "Radeon 9800 PRO",
+      "Radeon 9800",
+      "Radeon 9700 PRO",
+      "Radeon 9700",
+      "Radeon 9600 XT",
+      "Radeon 9600 PRO",
+      "Radeon 9600",
+      "Radeon 9550",
+      "Radeon 9500 PRO",
+      "Radeon 9500"
+    ],
+    "Radeon 8000/7000 Series": [
+      "Radeon 8500",
+      "Radeon 8500 LE",
+      "Radeon 7500",
+      "Radeon 7200",
+      "Radeon 7000 VE"
+    ]
+  },
+
+  "AMD_Workstation_Full": {
+    "FirePro Full List": [
+      "FirePro S9150",
+      "FirePro S9100",
+      "FirePro W9100",
+      "FirePro W8100",
+      "FirePro W7100",
+      "FirePro W5100",
+      "FirePro W4100",
+      "FirePro V7900",
+      "FirePro V5900",
+      "FirePro V4900",
+      "FirePro V3900"
+    ],
+    "Radeon Pro Advanced": [
+      "Radeon Pro W7900",
+      "Radeon Pro W7800",
+      "Radeon Pro W7700",
+      "Radeon Pro W7600",
+      "Radeon Pro W7500",
+      "Radeon Pro W5700",
+      "Radeon Pro W5500",
+      "Radeon Pro WX 8200",
+      "Radeon Pro WX 7100",
+      "Radeon Pro WX 5100",
+      "Radeon Pro WX 4100"
+    ]
+  },
+
+  "Intel_Extra_Full": {
+    "Intel Xe MAX / LP / HP": [
+      "Intel Iris Xe MAX",
+      "Intel Iris Xe LP",
+      "Intel Iris Xe HP"
+    ],
+    "Intel Early Graphics": [
+      "Intel Graphics Media Accelerator 500",
+      "Intel Graphics Media Accelerator 600",
+      "Intel Extreme Graphics 2",
+      "Intel Extreme Graphics"
+    ]
+  }
+}
+{
+  "NVIDIA_OEM_Special": {
+    "Dell OEM GPUs": [
+      "NVIDIA GeForce GTX 1650 Dell OEM",
+      "NVIDIA GeForce GTX 1660 Ti Dell OEM",
+      "GeForce RTX 3060 Dell OEM",
+      "GeForce RTX 3070 Dell OEM",
+      "GeForce RTX 3080 Dell OEM",
+      "GeForce GTX 960M Dell",
+      "GeForce GTX 860M Dell",
+      "GeForce GT 750M Dell",
+      "GeForce GT 735M Dell"
+    ],
+    "HP OEM GPUs": [
+      "NVIDIA GeForce GTX 1650 HP Edition",
+      "NVIDIA GeForce GTX 1660 SUPER HP OEM",
+      "NVIDIA GeForce RTX 3060 HP OEM",
+      "NVIDIA GeForce RTX 3070 HP OEM",
+      "Quadro K620 HP",
+      "Quadro K2200 HP",
+      "GeForce GT 730 HP",
+      "GeForce GT 720 HP"
+    ],
+    "Lenovo OEM GPUs": [
+      "NVIDIA GeForce GTX 1650 Lenovo Edition",
+      "GeForce GTX 1660 SUPER Lenovo OEM",
+      "GeForce RTX 3050 Lenovo Laptops",
+      "GeForce RTX 3060 Lenovo Laptops",
+      "GeForce RTX 3070 Lenovo Laptops",
+      "GeForce GTX 960M Lenovo",
+      "GeForce GT 650M Lenovo"
+    ],
+    "Acer OEM GPUs": [
+      "GeForce RTX 3060 Acer",
+      "GeForce RTX 3070 Acer",
+      "GeForce GTX 1650 Acer",
+      "GeForce GTX 1050 Acer"
+    ]
+  },
+
+  "NVIDIA_Quadro_Mobile": {
+    "Quadro T Series (Mobile)": [
+      "Quadro T2000",
+      "Quadro T1000",
+      "Quadro T1200",
+      "Quadro T600",
+      "Quadro T500"
+    ],
+    "Quadro P Series (Mobile)": [
+      "Quadro P5200",
+      "Quadro P4200",
+      "Quadro P3200",
+      "Quadro P2000 Mobile",
+      "Quadro P1000 Mobile",
+      "Quadro P600 Mobile"
+    ],
+    "Quadro M Series (Mobile)": [
+      "Quadro M5500",
+      "Quadro M5000M",
+      "Quadro M4000M",
+      "Quadro M3000M",
+      "Quadro M2000M",
+      "Quadro M1000M",
+      "Quadro M620"
+    ],
+    "Quadro K Series (Mobile)": [
+      "Quadro K5100M",
+      "Quadro K5000M",
+      "Quadro K4100M",
+      "Quadro K3100M",
+      "Quadro K2100M",
+      "Quadro K1100M",
+      "Quadro K610M"
+    ]
+  },
+
+  "AMD_FirePro_Mobile": {
+    "FirePro M Series": [
+      "FirePro M6100",
+      "FirePro M5100",
+      "FirePro M5000",
+      "FirePro M4170",
+      "FirePro M4000",
+      "FirePro M2000"
+    ],
+    "Radeon Pro Mobile": [
+      "Radeon Pro 5600M",
+      "Radeon Pro 5500M",
+      "Radeon Pro 5300M",
+      "Radeon Pro 455",
+      "Radeon Pro 460",
+      "Radeon Pro Vega 20",
+      "Radeon Pro Vega 16"
+    ]
+  },
+
+  "NVIDIA_Laptop_DeepList": {
+    "GTX Laptop Extra": [
+      "GeForce GTX 980 Laptop GPU",
+      "GeForce GTX 970M",
+      "GeForce GTX 965M",
+      "GeForce GTX 960M",
+      "GeForce GTX 950M",
+      "GeForce GTX 940M",
+      "GeForce GTX 930M"
+    ],
+    "GT Series Laptop": [
+      "GeForce GT 750M",
+      "GeForce GT 745M",
+      "GeForce GT 740M",
+      "GeForce GT 730M",
+      "GeForce GT 720M",
+      "GeForce GT 710M",
+      "GeForce GT 705M"
+    ],
+    "MX Series Full": [
+      "GeForce MX570",
+      "GeForce MX550",
+      "GeForce MX450",
+      "GeForce MX350",
+      "GeForce MX330",
+      "GeForce MX250",
+      "GeForce MX230",
+      "GeForce MX150",
+      "GeForce MX130",
+      "GeForce MX110"
+    ]
+  },
+
+  "NVIDIA_Classic_Pre2000": {
+    "GeForce 4 MX Full Set": [
+      "GeForce4 MX 460",
+      "GeForce4 MX 440 8x",
+      "GeForce4 MX 440",
+      "GeForce4 MX 420",
+      "GeForce4 MX 4000"
+    ],
+    "GeForce 3 Full": [
+      "GeForce3",
+      "GeForce3 Ti 200",
+      "GeForce3 Ti 500"
+    ],
+    "GeForce 2 Full": [
+      "GeForce2 GTS",
+      "GeForce2 Pro",
+      "GeForce2 Ti",
+      "GeForce2 Ultra",
+      "GeForce2 MX",
+      "GeForce2 MX 400",
+      "GeForce2 MX 200"
+    ],
+    "GeForce 256": [
+      "GeForce 256 SDR",
+      "GeForce 256 DDR"
+    ],
+    "RIVA TNT Series": [
+      "RIVA TNT",
+      "RIVA TNT2",
+      "RIVA TNT2 Pro",
+      "RIVA TNT2 Ultra",
+      "RIVA TNT2 M64"
+    ],
+    "NVIDIA Vanta/Other": [
+      "NVIDIA Vanta",
+      "NVIDIA Vanta LT",
+      "NVIDIA NV5"
+    ]
+  },
+
+  "AMD_Legacy_OldSchool": {
+    "Radeon Mobility Series": [
+      "Mobility Radeon HD 5870",
+      "Mobility Radeon HD 5850",
+      "Mobility Radeon HD 5730",
+      "Mobility Radeon HD 5650",
+      "Mobility Radeon HD 5470",
+      "Mobility Radeon X1600",
+      "Mobility Radeon X1400",
+      "Mobility Radeon X1300",
+      "Mobility Radeon 9700",
+      "Mobility Radeon 9600"
+    ],
+    "FireGL Series": [
+      "FireGL V7350",
+      "FireGL V7300",
+      "FireGL V7200",
+      "FireGL V5600",
+      "FireGL V5200",
+      "FireGL V3400"
+    ],
+    "ATI Rage / Other": [
+      "ATI Rage Fury MAXX",
+      "ATI Rage 128 Pro",
+      "ATI Rage 128",
+      "ATI Rage XL",
+      "ATI Rage LT Pro"
+    ]
+  },
+
+  "Intel_Legacy_Deep": {
+    "Intel GMA Extreme": [
+      "GMA X4500HD",
+      "GMA X3500",
+      "GMA X3100",
+      "GMA 3150",
+      "GMA 3100",
+      "GMA 3000"
+    ],
+    "Intel Extreme Graphics": [
+      "Intel Extreme Graphics 2",
+      "Intel Extreme Graphics"
+    ],
+    "Intel Early Mobile Chipsets": [
+      "Intel 855GME",
+      "Intel 852GM",
+      "Intel 845G",
+      "Intel 830MG"
+    ]
+  }
+}
+{
+  "NVIDIA_NVS_Full": {
+    "NVS Series Main": [
+      "NVS 810",
+      "NVS 510",
+      "NVS 420",
+      "NVS 315",
+      "NVS 310",
+      "NVS 300"
+    ],
+    "NVS Extended (Legacy)": [
+      "NVS 450",
+      "NVS 290",
+      "NVS 140M",
+      "NVS 135M",
+      "NVS 130M",
+      "NVS 120M",
+      "NVS 110M",
+      "NVS 55",
+      "NVS 50"
+    ],
+    "NVS PCI/AGP": [
+      "NVS 400 AGP",
+      "NVS 280 PCI",
+      "NVS 280 AGP",
+      "NVS 200 PCI",
+      "NVS 100 PCI"
+    ]
+  },
+
+  "NVIDIA_GRID_vGPU": {
+    "GRID M Series": [
+      "GRID M60",
+      "GRID M6",
+      "GRID M40"
+    ],
+    "GRID K Series": [
+      "GRID K540",
+      "GRID K520",
+      "GRID K500",
+      "GRID K340",
+      "GRID K310",
+      "GRID K280Q",
+      "GRID K260Q",
+      "GRID K240Q",
+      "GRID K220Q",
+      "GRID K200"
+    ],
+    "GRID P Series": [
+      "GRID P6",
+      "GRID P40",
+      "GRID P100"
+    ]
+  },
+
+  "NVIDIA_Tesla_OEM_Extended": {
+    "Tesla M/OEM Extended": [
+      "Tesla M2090",
+      "Tesla M2070",
+      "Tesla M2075",
+      "Tesla M1060",
+      "Tesla M1070"
+    ],
+    "Tesla S Extended": [
+      "Tesla S1075",
+      "Tesla S2050",
+      "Tesla S2055"
+    ],
+    "Tesla C OEM": [
+      "Tesla C2050 OEM",
+      "Tesla C2075 OEM",
+      "Tesla C1060 OEM"
+    ]
+  },
+
+  "NVIDIA_Quadro_OEM_Extended": {
+    "Quadro FX OEM Extended": [
+      "Quadro FX 5800 OEM",
+      "Quadro FX 5600 OEM",
+      "Quadro FX 4800 Mac Edition",
+      "Quadro FX 4500 X2",
+      "Quadro FX 4400",
+      "Quadro FX 3450",
+      "Quadro FX 3400",
+      "Quadro FX 3000"
+    ],
+    "Quadro Mobile Extra OEM": [
+      "Quadro FX 3700M",
+      "Quadro FX 2800M",
+      "Quadro FX 2700M",
+      "Quadro FX 1800M",
+      "Quadro FX 1700M",
+      "Quadro FX 770M",
+      "Quadro FX 570M",
+      "Quadro FX 360M"
+    ],
+    "Quadro K/T/P OEM Variants": [
+      "Quadro K510M",
+      "Quadro K500M",
+      "Quadro P520 OEM",
+      "Quadro P3200 OEM",
+      "Quadro T1200 OEM",
+      "Quadro T600 OEM"
+    ]
+  },
+
+  "AMD_FirePro_Mobility_Full": {
+    "FirePro Mobility": [
+      "FirePro M6100",
+      "FirePro M5100",
+      "FirePro M5000",
+      "FirePro M4000",
+      "FirePro M3900",
+      "FirePro M2000",
+      "FirePro M5950",
+      "FirePro M5800",
+      "FirePro M5750",
+      "FirePro M4000",
+      "FirePro M3600"
+    ],
+    "FirePro Graphics Legacy": [
+      "FirePro V8800",
+      "FirePro V8700",
+      "FirePro V7750",
+      "FirePro V7700",
+      "FirePro V5700",
+      "FirePro V3750"
+    ]
+  },
+
+  "AMD_Old_AGP_PCI": {
+    "Radeon X800 Series": [
+      "Radeon X800 XT PE",
+      "Radeon X800 XT",
+      "Radeon X800 XL",
+      "Radeon X800 Pro",
+      "Radeon X800 GTO",
+      "Radeon X800 SE"
+    ],
+    "Radeon X600 / X550 / X300": [
+      "Radeon X600 XT",
+      "Radeon X600 Pro",
+      "Radeon X550",
+      "Radeon X300 SE",
+      "Radeon X300"
+    ],
+    "Radeon 9000 Series Expanded": [
+      "Radeon 9250",
+      "Radeon 9200",
+      "Radeon 9200 SE",
+      "Radeon 9100",
+      "Radeon 9000 Pro",
+      "Radeon 9000"
+    ],
+    "Radeon 7000 Series Expanded": [
+      "Radeon 7500",
+      "Radeon 7200",
+      "Radeon 7000 VE",
+      "Radeon 7000 PCI"
+    ]
+  },
+
+  "Intel_Ultra_Legacy": {
+    "Intel i740/i7xx Series": [
+      "Intel i740",
+      "Intel i752",
+      "Intel i754"
+    ],
+    "Intel 800 Series": [
+      "Intel 865G",
+      "Intel 855GM",
+      "Intel 852GM",
+      "Intel 845G"
+    ],
+    "Intel 810/815 Chipset": [
+      "Intel 815",
+      "Intel 810E",
+      "Intel 810"
+    ],
+    "Intel Very Old (ISA/PCI)": [
+      "Intel 740 PCI",
+      "Intel 810 PCI",
+      "Intel 815 PCI"
+    ]
+  }
+}
+{
+  "Brand_Special_OEM": {
+    "Alienware Special GPUs": [
+      "GeForce RTX 3080 Alienware OC",
+      "GeForce RTX 3070 Alienware OC",
+      "GeForce RTX 3060 Alienware Variant",
+      "GeForce GTX 1080 Mobile Alienware OC",
+      "GeForce GTX 1070 Mobile Alienware",
+      "GeForce GTX 980M Alienware",
+      "GeForce GTX 870M Alienware",
+      "GeForce GTX 765M Alienware"
+    ],
+    "ASUS ROG Strix Editions": [
+      "ROG Strix RTX 4090 OC",
+      "ROG Strix RTX 4080 OC",
+      "ROG Strix RTX 4070 Ti OC",
+      "ROG Strix RTX 3080 OC",
+      "ROG Strix RTX 3070 OC",
+      "ROG Strix GTX 1080 OC",
+      "ROG Strix GTX 1070 OC",
+      "ROG Strix GTX 1060 OC"
+    ],
+    "MSI Gaming X Editions": [
+      "MSI RTX 3090 Gaming X Trio",
+      "MSI RTX 3080 Gaming X Trio",
+      "MSI RTX 3070 Gaming X",
+      "MSI GTX 1080 Ti Gaming X",
+      "MSI GTX 1070 Gaming X",
+      "MSI GTX 1060 Gaming X"
+    ],
+    "Gigabyte / AORUS GPUs": [
+      "AORUS RTX 4090 Master",
+      "AORUS RTX 4080 Master",
+      "AORUS RTX 3080 Master",
+      "AORUS RTX 3070 Master",
+      "AORUS RTX 3060 Master",
+      "Gigabyte GTX 1080 Windforce",
+      "Gigabyte GTX 1070 Windforce",
+      "Gigabyte GTX 1060 Windforce"
+    ]
+  },
+
+  "NVIDIA_Embedded_Jetson": {
+    "Jetson Modules": [
+      "Jetson AGX Xavier",
+      "Jetson Xavier NX",
+      "Jetson Orin Nano",
+      "Jetson Orin NX",
+      "Jetson TX2",
+      "Jetson TX1",
+      "Jetson Nano"
+    ],
+    "NVIDIA Drive / Automotive": [
+      "NVIDIA Drive PX Pegasus",
+      "NVIDIA Drive PX2",
+      "NVIDIA Drive Orin",
+      "NVIDIA Drive AGX Xavier"
+    ],
+    "NVIDIA Embedded GPU (Tegra)": [
+      "Tegra X1",
+      "Tegra X2",
+      "Tegra K1",
+      "Tegra 4",
+      "Tegra 3"
+    ]
+  },
+
+  "NVIDIA_Professional_Sync": {
+    "Quadro Sync / Mosaic": [
+      "Quadro Sync II",
+      "Quadro Sync",
+      "NVIDIA Mosaic Board",
+      "NVIDIA G-Sync Ultimate for Pro",
+      "Quadro Video Wall Controller"
+    ]
+  },
+
+  "AMD_Embedded_Radeon": {
+    "Embedded Radeon E-Series": [
+      "Radeon E9170",
+      "Radeon E9390",
+      "Radeon E9550",
+      "Radeon E4690",
+      "Radeon E6460",
+      "Radeon E8860"
+    ],
+    "Embedded R-Series": [
+      "Radeon R9 270E",
+      "Radeon R7 250E",
+      "Radeon R5 230E"
+    ]
+  },
+
+  "3dfx_Full_Series": {
+    "Voodoo Graphics (Original)": [
+      "3dfx Voodoo Graphics",
+      "3dfx Voodoo Rush"
+    ],
+    "Voodoo2 Series": [
+      "3dfx Voodoo2 8MB",
+      "3dfx Voodoo2 12MB"
+    ],
+    "Voodoo3 Series": [
+      "Voodoo3 3500",
+      "Voodoo3 3000",
+      "Voodoo3 2000"
+    ],
+    "Voodoo4/5 Series": [
+      "Voodoo4 4500",
+      "Voodoo5 5000",
+      "Voodoo5 5500",
+      "Voodoo5 6000"
+    ]
+  },
+
+  "Matrox_Full": {
+    "Matrox Parhelia Series": [
+      "Parhelia 512",
+      "Parhelia-LX",
+      "Parhelia-APVe"
+    ],
+    "Matrox Millennium Series": [
+      "Millennium G550",
+      "Millennium G450",
+      "Millennium G400 MAX",
+      "Millennium G400",
+      "Millennium G200"
+    ],
+    "Matrox Mystique": [
+      "Mystique 220",
+      "Mystique 200"
+    ]
+  },
+
+  "S3_SiS_VIA_Legacy": {
+    "S3 Graphics": [
+      "S3 Savage4",
+      "S3 Savage2000",
+      "S3 Trio3D",
+      "S3 ViRGE GX",
+      "S3 ViRGE DX"
+    ],
+    "SiS Graphics": [
+      "SiS 315",
+      "SiS 650",
+      "SiS Mirage",
+      "SiS 6326"
+    ],
+    "VIA Graphics": [
+      "VIA Chrome9",
+      "VIA Unichrome Pro",
+      "VIA CLE266"
+    ]
+  },
+
+  "Laptop_Special_Editions": {
+    "Special Max-Q Editions": [
+      "GeForce GTX 1080 Max-Q",
+      "GeForce GTX 1070 Max-Q",
+      "GeForce GTX 1060 Max-Q",
+      "GeForce RTX 2080 Max-Q",
+      "GeForce RTX 2070 Max-Q",
+      "GeForce RTX 2060 Max-Q",
+      "GeForce RTX 3050 Max-Q",
+      "GeForce RTX 3050 Ti Max-Q"
+    ],
+    "Regional OEM Laptop Variants": [
+      "GeForce MX130 China Edition",
+      "GeForce MX110 India Edition",
+      "GeForce GTX 960M SE",
+      "GeForce 940MX GDDR5",
+      "GeForce 940MX GDDR3"
+    ]
+  }
+}
+{
+  "NVIDIA_Laptop_Variants_Deep": {
+    "GTX 10 Mobile Variants": [
+      "GeForce GTX 1080 Mobile",
+      "GeForce GTX 1080 Max-Q",
+      "GeForce GTX 1070 Mobile",
+      "GeForce GTX 1070 Max-Q",
+      "GeForce GTX 1060 Mobile 6GB",
+      "GeForce GTX 1060 Mobile 3GB",
+      "GeForce GTX 1060 Max-Q",
+      "GeForce GTX 1050 Ti Mobile",
+      "GeForce GTX 1050 Mobile"
+    ],
+    "GTX 900 Mobile Variants": [
+      "GeForce GTX 980 Mobile",
+      "GeForce GTX 970M 6GB",
+      "GeForce GTX 970M 3GB",
+      "GeForce GTX 965M",
+      "GeForce GTX 960M GDDR5",
+      "GeForce GTX 960M DDR3",
+      "GeForce GTX 950M GDDR5",
+      "GeForce GTX 950M DDR3"
+    ],
+    "GT 700–900 Mobile": [
+      "GeForce GT 755M",
+      "GeForce GT 750M GDDR5",
+      "GeForce GT 750M DDR3",
+      "GeForce GT 745M",
+      "GeForce GT 740M GDDR5",
+      "GeForce GT 740M DDR3",
+      "GeForce GT 730M",
+      "GeForce GT 720M",
+      "GeForce GT 710M"
+    ],
+    "MX Series All Variants": [
+      "GeForce MX570",
+      "GeForce MX550",
+      "GeForce MX450 GDDR6",
+      "GeForce MX450 GDDR5",
+      "GeForce MX450 LP",
+      "GeForce MX350",
+      "GeForce MX330",
+      "GeForce MX250 25W",
+      "GeForce MX250 15W",
+      "GeForce MX230",
+      "GeForce MX130 China Edition",
+      "GeForce MX110 India Edition"
+    ]
+  },
+
+  "NVIDIA_GT_Special": {
+    "GT 1030 Variants": [
+      "GeForce GT 1030 GDDR5",
+      "GeForce GT 1030 DDR4",
+      "GeForce GT 1030 Low Profile",
+      "GeForce GT 1030 Silent Edition"
+    ],
+    "GT 710/730 Variants": [
+      "GeForce GT 730 GDDR5",
+      "GeForce GT 730 DDR3",
+      "GeForce GT 720 DDR3",
+      "GeForce GT 710 GDDR5",
+      "GeForce GT 710 DDR3"
+    ],
+    "GT 640/630/620/610 Variants": [
+      "GeForce GT 640 GDDR5",
+      "GeForce GT 640 DDR3",
+      "GeForce GT 630 GDDR5",
+      "GeForce GT 630 DDR3",
+      "GeForce GT 620",
+      "GeForce GT 610"
+    ]
+  },
+
+  "Brand_Gaming_Editions_Deep": {
+    "Alienware Extra": [
+      "GeForce RTX 4090M Alienware",
+      "GeForce RTX 4080M Alienware",
+      "GeForce GTX 780M Alienware",
+      "GeForce GTX 680M Alienware",
+      "GeForce GTX 675M Alienware"
+    ],
+    "ASUS ROG More Editions": [
+      "ROG Strix GTX 980 OC",
+      "ROG Strix GTX 970 OC",
+      "ROG Strix GTX 960 OC",
+      "ROG Strix RTX 2060 OC",
+      "ROG Strix RTX 2070 OC"
+    ],
+    "MSI More Editions": [
+      "MSI RTX 2080 Gaming Z",
+      "MSI RTX 2070 Gaming Z",
+      "MSI GTX 1080 Ti Lightning",
+      "MSI GTX 1070 Ti Gaming X"
+    ],
+    "Lenovo Legion GPUs": [
+      "Legion RTX 3070 Mobile",
+      "Legion RTX 3060 Mobile",
+      "Legion GTX 1660 Ti",
+      "Legion GTX 1650 Ti"
+    ],
+    "Acer Predator GPUs": [
+      "Predator RTX 3080 Mobile",
+      "Predator RTX 3070 Mobile",
+      "Predator GTX 1060 Mobile"
+    ]
+  },
+
+  "NVIDIA_Quadro_FX_HugeList": {
+    "Quadro FX Full Archive": [
+      "Quadro FX 5800",
+      "Quadro FX 5600",
+      "Quadro FX 4800",
+      "Quadro FX 4700 X2",
+      "Quadro FX 4600",
+      "Quadro FX 3800",
+      "Quadro FX 3700",
+      "Quadro FX 1800",
+      "Quadro FX 1700",
+      "Quadro FX 1500",
+      "Quadro FX 1400",
+      "Quadro FX 580",
+      "Quadro FX 570",
+      "Quadro FX 550",
+      "Quadro FX 380",
+      "Quadro FX 370",
+      "Quadro FX 3450",
+      "Quadro FX 3400",
+      "Quadro FX 3000",
+      "Quadro FX 2000",
+      "Quadro FX 1000",
+      "Quadro FX Go1400 (Mobile)",
+      "Quadro FX Go1000 (Mobile)",
+      "Quadro FX NVS variants"
+    ]
+  },
+
+  "Matrox_Expanded": {
+    "Matrox Millennium More": [
+      "Millennium G450 DualHead",
+      "Millennium G400 DualHead",
+      "Millennium G200A",
+      "Millennium PCI Edition"
+    ],
+    "Matrox Parhelia Expanded": [
+      "Parhelia 128MB",
+      "Parhelia 256MB",
+      "Parhelia PCI"
+    ],
+    "Matrox Mystique Expanded": [
+      "Matrox Mystique 220",
+      "Matrox Mystique 200",
+      "Matrox Mystique PCI"
+    ]
+  },
+
+  "3dfx_Additional": {
+    "Voodoo Rush Variants": [
+      "Voodoo Rush Alliance AT25",
+      "Voodoo Rush Macronix MX86251"
+    ],
+    "Voodoo2 Board Partners": [
+      "Diamond Monster 3D II",
+      "Creative 3D Blaster Voodoo2",
+      "Gainward Dragon 3000"
+    ]
+  },
+
+  "S3_Savage_Full": {
+    "S3 Savage": [
+      "S3 Savage3D",
+      "S3 Savage4 Pro",
+      "S3 Savage4 Extreme",
+      "S3 Savage2000"
+    ],
+    "S3 Trio Extended": [
+      "S3 Trio64V+",
+      "S3 Trio64UV+",
+      "S3 Trio32"
+    ]
+  },
+
+  "AMD_Mobility_Radeon_Deep": {
+    "Mobility Radeon Early": [
+      "Mobility Radeon 9800",
+      "Mobility Radeon 9700",
+      "Mobility Radeon 9600",
+      "Mobility Radeon 9500",
+      "Mobility Radeon 9000",
+      "Mobility Radeon 7500",
+      "Mobility Radeon 7000"
+    ],
+    "Mobility Radeon HD Full": [
+      "Mobility Radeon HD 5870",
+      "Mobility Radeon HD 5830",
+      "Mobility Radeon HD 5650",
+      "Mobility Radeon HD 5470",
+      "Mobility Radeon HD 5430",
+      "Mobility Radeon HD 4570",
+      "Mobility Radeon HD 4370",
+      "Mobility Radeon HD 4200"
+    ]
+  },
+
+  "AMD_Embedded_Radeon_Extra": {
+    "Embedded Radeon Extra": [
+      "Radeon E4690 MXM",
+      "Radeon E8860 MXM",
+      "Radeon E8950",
+      "Radeon E9170 MXM",
+      "Radeon E6460 MXM"
+    ]
+  },
+
+  "Intel_Legacy_Expanded": {
+    "Intel Extreme Early": [
+      "Intel i810 Integrated Graphics",
+      "Intel i815 Integrated Graphics",
+      "Intel i830MG",
+      "Intel i852GM",
+      "Intel i855GM",
+      "Intel i845G"
+    ],
+    "Intel GMA More": [
+      "Intel GMA 3650",
+      "Intel GMA 3600",
+      "Intel GMA 500",
+      "Intel GMA 3150",
+      "Intel GMA 3100"
+    ]
+  }
+}
+{
+  "NVIDIA_Engineering_Samples": {
+    "GeForce ES/QS": [
+      "GeForce RTX 4090 ES",
+      "GeForce RTX 4080 ES",
+      "GeForce RTX 3090 ES",
+      "GeForce RTX 3080 ES",
+      "GeForce RTX 3070 ES",
+      "GeForce RTX 2080 Ti ES",
+      "GeForce RTX 2080 ES",
+      "GeForce GTX 1080 Ti ES",
+      "GeForce GTX 1080 ES",
+      "GeForce GTX 980 Ti ES",
+      "GeForce GTX 780 Ti ES"
+    ],
+    "Quadro ES Units": [
+      "Quadro RTX 8000 ES",
+      "Quadro RTX 6000 ES",
+      "Quadro P6000 ES",
+      "Quadro K6000 ES",
+      "Quadro FX 5800 ES"
+    ],
+    "Tesla Engineering Samples": [
+      "Tesla A100 ES",
+      "Tesla V100 ES",
+      "Tesla P100 ES",
+      "Tesla K80 ES",
+      "Tesla C2075 ES",
+      "Tesla C1060 ES"
+    ]
+  },
+
+  "NVIDIA_Tesla_Enterprise_Custom": {
+    "Tesla Enterprise Variant": [
+      "Tesla M10",
+      "Tesla M6 Enterprise",
+      "Tesla X2070 HPC Edition",
+      "Tesla X2090 HPC Edition",
+      "Tesla K20M",
+      "Tesla K20S",
+      "Tesla K40M",
+      "Tesla K40S",
+      "Tesla V100 FHHL",
+      "Tesla A30X",
+      "Tesla A2 Low Profile"
+    ]
+  },
+
+  "NVIDIA_Quadro_NVS_Full_Archive": {
+    "NVS All Remaining Models": [
+      "NVS 295",
+      "NVS 285",
+      "NVS 280 PCI",
+      "NVS 280 AGP",
+      "NVS 50",
+      "NVS 55 PCI",
+      "NVS 200",
+      "NVS 210",
+      "NVS 440",
+      "NVS 510M",
+      "NVS 5200M",
+      "NVS 5400M",
+      "NVS 160M",
+      "NVS 150M",
+      "NVS 140M",
+      "NVS 120M"
+    ]
+  },
+
+  "3dfx_Historic_Fullset": {
+    "Voodoo Partner Cards": [
+      "Diamond Monster 3D",
+      "Diamond Monster 3D II",
+      "Diamond Monster Fusion",
+      "Creative Blaster Voodoo",
+      "Creative Blaster Voodoo2",
+      "Gainward Dragon 3000",
+      "Guillemot Maxi Gamer 3D",
+      "Guillemot Maxi Gamer Phoenix",
+      "Quantum3D Obsidian X-24",
+      "Quantum3D Obsidian X-16",
+      "Quantum3D Obsidian2 200SBi"
+    ],
+    "Voodoo Rush Fullset": [
+      "Voodoo Rush AT25",
+      "Voodoo Rush MX86251",
+      "Voodoo Rush Macronix",
+      "Voodoo Rush ExpertColor"
+    ],
+    "Voodoo Banshee": [
+      "Voodoo Banshee PCI",
+      "Voodoo Banshee AGP",
+      "Voodoo Banshee Velocity 100"
+    ]
+  },
+
+  "Matrox_DeepArchive": {
+    "Millennium Full Series": [
+      "Millennium G550",
+      "Millennium G450",
+      "Millennium G400 MAX",
+      "Millennium G400 DualHead",
+      "Millennium G250",
+      "Millennium G200",
+      "Millennium II",
+      "Millennium PCI"
+    ],
+    "Parhelia Variants": [
+      "Parhelia 128",
+      "Parhelia 256",
+      "Parhelia PCIe",
+      "Parhelia-512 Server Edition"
+    ],
+    "Mystique / G-Series Extra": [
+      "Mystique 220",
+      "Mystique 200",
+      "Mystique PCI",
+      "G100A",
+      "G100 PCI"
+    ]
+  },
+
+  "S3_FullHistoric": {
+    "S3 ViRGE Series": [
+      "ViRGE DX",
+      "ViRGE GX",
+      "ViRGE GX2",
+      "ViRGE MX",
+      "ViRGE VX"
+    ],
+    "S3 Trio Series": [
+      "Trio64V+",
+      "Trio64UV+",
+      "Trio32",
+      "Trio64",
+      "Trio3D/2X",
+      "Trio3D"
+    ],
+    "S3 Savage Full": [
+      "Savage3D",
+      "Savage4 Standard",
+      "Savage4 Pro",
+      "Savage4 Extreme",
+      "Savage2000"
+    ]
+  },
+
+  "SiS_VIA_OlderGPUs": {
+    "SiS Graphics Expanded": [
+      "SiS 315",
+      "SiS 330 Xabre",
+      "SiS Mirage 3",
+      "SiS Mirage",
+      "SiS 6326",
+      "SiS 530",
+      "SiS 540"
+    ],
+    "VIA Graphics Full": [
+      "VIA Chrome9",
+      "VIA Chrome9 HC",
+      "VIA UniChrome Pro",
+      "VIA CLE266",
+      "VIA KM400",
+      "VIA KN1000"
+    ]
+  },
+
+  "Cirrus_Logic_History": {
+    "CL-GD Series": [
+      "CL-GD5446",
+      "CL-GD5434",
+      "CL-GD5428",
+      "CL-GD5422"
+    ],
+    "Laguna Series": [
+      "Laguna 3D",
+      "Laguna 5465"
+    ]
+  },
+
+  "Trident_Historic": {
+    "Trident T-Series": [
+      "Trident TGUI9680",
+      "Trident TGUI9440",
+      "Trident TGUI9420"
+    ],
+    "Blade Series": [
+      "Trident Blade3D",
+      "Trident Blade XP",
+      "Trident CyberBlade i7",
+      "Trident CyberBlade i1"
+    ]
+  },
+
+  "Tseng_Labs": {
+    "ET Series": [
+      "ET4000AX",
+      "ET4000W32",
+      "ET6000"
+    ]
+  },
+
+  "Number_Nine": {
+    "Revolution Series": [
+      "Number Nine Revolution 3D",
+      "Number Nine Revolution IV"
+    ],
+    "Imagine Series": [
+      "Number Nine Imagine 128",
+      "Imagine 128 Series II"
+    ]
+  },
+
+  "AMD_Industrial_Grade": {
+    "Radeon Embedded Industrial": [
+      "Radeon E9170",
+      "Radeon E8860",
+      "Radeon E8950",
+      "Radeon E4690",
+      "Radeon E6460",
+      "Radeon E2400"
+    ],
+    "FirePro Embedded": [
+      "FirePro V4900 Embedded",
+      "FirePro V5800 Embedded",
+      "FirePro M4000 Embedded"
+    ]
+  },
+
+  "NVIDIA_Aerospace_Military": {
+    "Aviation / Military Boards": [
+      "NVIDIA MXM A1000 Aviation",
+      "NVIDIA MXM A2000 Ruggedized",
+      "NVIDIA Quadro FX Go Military Edition",
+      "NVIDIA Tegra-K1 Aviation",
+      "NVIDIA Tesla M6 Defense Variant"
+    ]
+  }
+}
+{
+  "NVIDIA_Rugged_Military": {
+    "NVIDIA Rugged (Mil-Spec)": [
+      "NVIDIA Rugged RTX A2000",
+      "NVIDIA Rugged RTX A4500",
+      "NVIDIA Rugged Tesla M6",
+      "NVIDIA Rugged MXM RTX 3000",
+      "NVIDIA Rugged MXM T1000",
+      "NVIDIA Rugged Quadro P3000",
+      "NVIDIA Rugged Quadro P5000",
+      "NVIDIA Rugged GTX 1080 MXM Type-B",
+      "NVIDIA Rugged GTX 1070 MXM Type-B"
+    ],
+    "NVIDIA Aerospace Certified": [
+      "NVIDIA AGX Xavier Aerospace",
+      "NVIDIA Orin Aerospace",
+      "NVIDIA Tegra K1 Aviation",
+      "NVIDIA Quadro FX Go Military Edition"
+    ]
+  },
+
+  "AMD_Rugged_Industrial": {
+    "AMD Rugged Radeon": [
+      "Radeon E9171 Rugged",
+      "Radeon E6465 Rugged",
+      "Radeon E8860 Rugged",
+      "Radeon MCM GDDR5 Rugged",
+      "Radeon R5 M230 Rugged"
+    ],
+    "AMD Military / Aerospace": [
+      "Radeon E4690 Aviation",
+      "Radeon V7760 Defense Edition",
+      "Radeon Pro V520 Embedded",
+      "FirePro M4000 Aviation"
+    ]
+  },
+
+  "China_OEM_GPUs": {
+    "Hasee / 神舟 OEM GPUs": [
+      "GeForce GTX 1650 HASEE",
+      "GeForce GTX 1660Ti HASEE",
+      "GeForce RTX 3050 HASEE",
+      "GeForce RTX 3060 HASEE",
+      "GeForce MX450 HASEE"
+    ],
+    "Thunderobot / 雷神 OEM": [
+      "GeForce RTX 3070 Thunderobot",
+      "GeForce RTX 3060 Thunderobot",
+      "GeForce GTX 1650 Ti Thunderobot"
+    ],
+    "TongFang 同方 OEM GPUs": [
+      "RTX 3060 TongFang",
+      "RTX 3070 TongFang",
+      "GTX 1660Ti TongFang"
+    ],
+    "Tsinghua Unis 紫光 OEM": [
+      "GeForce GTX 1050 Ti Unis",
+      "GeForce GTX 1650 Unis Edition"
+    ],
+    "Hyte / 攀升 OEM": [
+      "GeForce RTX 3060 Pangsheng",
+      "GeForce RTX 3070 Pangsheng",
+      "GeForce GTX 1660S Pangsheng"
+    ]
+  },
+
+  "Clevo_Barebone_OEM": {
+    "Clevo Notebook GPUs": [
+      "GeForce RTX 3080 Clevo",
+      "GeForce RTX 3070 Clevo",
+      "GeForce RTX 3060 Clevo",
+      "GeForce GTX 1080 Mobile Clevo",
+      "GeForce GTX 1070 Mobile Clevo",
+      "GeForce GTX 980 Mobile Clevo"
+    ],
+    "Eurocom MXM GPUs": [
+      "Eurocom RTX 2080 MXM",
+      "Eurocom GTX 1080 MXM",
+      "Eurocom GTX 1070 MXM",
+      "Eurocom RTX 3060 MXM"
+    ]
+  },
+
+  "NVIDIA_Prototypes": {
+    "NVIDIA EVT (Engineering Validation Test)": [
+      "GeForce GTX 880 EVT Sample",
+      "GeForce GTX 980 EVT",
+      "GeForce RTX 2080 EVT",
+      "GeForce RTX 3080 EVT"
+    ],
+    "NVIDIA DVT (Design Validation Test)": [
+      "GeForce GTX 780 DVT",
+      "GeForce GTX 1080 DVT",
+      "GeForce RTX 3070 DVT"
+    ],
+    "NVIDIA PVT (Production Validation Test)": [
+      "GeForce RTX 4090 PVT",
+      "GeForce RTX 4080 PVT",
+      "GeForce RTX 3090 PVT",
+      "GeForce RTX 3080 PVT"
+    ]
+  },
+
+  "AMD_Prototypes": {
+    "AMD EVT": [
+      "Radeon RX 6900XT EVT",
+      "Radeon RX 6800XT EVT",
+      "Radeon RX 5700XT EVT"
+    ],
+    "AMD DVT": [
+      "Radeon RX 480 DVT",
+      "Radeon RX 580 DVT",
+      "Radeon VII DVT"
+    ],
+    "AMD PVT": [
+      "Radeon RX 7900XTX PVT",
+      "Radeon RX 7800XT PVT"
+    ]
+  },
+
+  "Very_Old_VGA_Archive": {
+    "Tseng Labs": [
+      "ET3000",
+      "ET4000AX",
+      "ET4000W32",
+      "ET6000"
+    ],
+    "Cirrus Logic": [
+      "CL-GD5420",
+      "CL-GD5422",
+      "CL-GD5424",
+      "CL-GD5426",
+      "CL-GD5430",
+      "CL-GD5446",
+      "CL-GD5480"
+    ],
+    "Trident Microsystems": [
+      "Trident TVGA8900",
+      "Trident TVGA9000",
+      "Trident TGUI9440",
+      "Trident Cyber9320",
+      "Trident Blade3D"
+    ],
+    "Number Nine Visual": [
+      "Imagine 128",
+      "Imagine 128 Series II",
+      "Revolution 3D",
+      "Revolution IV"
+    ],
+    "S3 Vision": [
+      "S3 Vision 864",
+      "S3 Vision 964",
+      "S3 Vision 968"
+    ],
+    "Matrox Old PCI/ISA": [
+      "Matrox Impression Plus",
+      "Matrox Impression Lite",
+      "Matrox G100",
+      "Matrox G200A"
+    ]
+  },
+
+  "Ultra_Old_SVGA_1990s": {
+    "VGA/SVGA Cards (1990–1995)": [
+      "ATI Mach32",
+      "ATI Mach64",
+      "ATI Rage II",
+      "ATI Rage XL",
+      "Cirrus Logic CL-GD510",
+      "Tseng ET3000",
+      "Trident TVGA8800",
+      "S3 801",
+      "S3 805",
+      "Oak Technology OTI-87",
+      "Paradise PVGA1A",
+      "Western Digital Paradise WD90C00"
+    ]
+  },
+
+  "Global_Region_Special_Editions": {
+    "Asia-only GPU Names": [
+      "GeForce GTX 950 SE China Edition",
+      "GeForce GTX 960 LE China",
+      "GeForce GTX 1050 Ti G5 China",
+      "GeForce MX150 China Edition",
+      "GeForce GTX 660 SE Asia"
+    ],
+    "Europe-only Editions": [
+      "GeForce GTX 560 SE EU Edition",
+      "GeForce GT 630 Europe Edition",
+      "Radeon R7 360 EU Edition"
+    ],
+    "Latin America Special Editions": [
+      "GeForce GT 620 LA Edition",
+      "Radeon R5 230 Brazil Edition"
+    ]
+  }
+}
+{
+  "Ancient_ISA_VGA_EGA": {
+    "EGA/EISA/MCA GPUs (1987–1993)": [
+      "IBM VGA",
+      "IBM XGA-2",
+      "IBM 8514/A",
+      "IBM 8503 VGA",
+      "ATI EGA Wonder 800+",
+      "ATI VGA Wonder XL",
+      "Tseng Labs ET3000AX",
+      "Tseng Labs ET2000",
+      "Tseng ET4000AX ISA",
+      "Paradise PVGA1A",
+      "Paradise VGA Professional",
+      "Cirrus Logic CL-GD510",
+      "Cirrus Logic CL-GD520",
+      "Video7 VEGA VGA",
+      "Orchid ProDesigner IIs",
+      "Trident TVGA8200LX",
+      "Trident TVGA9000i",
+      "Western Digital WD90C00",
+      "Oak Technology OTI-037C",
+      "Oak Technology OTI-067"
+    ],
+    "Early SVGA (1992–1995)": [
+      "S3 801 SVGA",
+      "S3 805 SVGA",
+      "S3 928",
+      "Tseng ET4000W32i",
+      "Tseng ET6000",
+      "Cirrus Logic CL-GD5422",
+      "Cirrus Logic CL-GD5430",
+      "Trident TGUI9400CXi",
+      "Trident TGUI9440AGi",
+      "Number Nine GXE64"
+    ]
+  },
+
+  "ATI_FireGL_FireMV_Rage": {
+    "FireGL Series (Pro Workstation)": [
+      "FireGL T2",
+      "FireGL X1",
+      "FireGL Z1",
+      "FireGL V3100",
+      "FireGL V3200",
+      "FireGL V3300",
+      "FireGL V3400",
+      "FireGL V3600",
+      "FireGL V3700",
+      "FireGL V4100"
+    ],
+    "FireMV Multi-Display": [
+      "FireMV 2250",
+      "FireMV 2260",
+      "FireMV 2400",
+      "FireMV 2450",
+      "FireMV 4100"
+    ],
+    "ATI Rage Series": [
+      "ATI Rage 128",
+      "ATI Rage 128 PRO",
+      "ATI Rage Fury",
+      "ATI Rage Fury MAXX",
+      "ATI Rage XL",
+      "ATI Rage LT",
+      "ATI Rage IIc",
+      "ATI Rage Mobility"
+    ]
+  },
+
+  "NVIDIA_Industrial_Special": {
+    "Industrial Quadro / NVS": [
+      "Quadro NVS 300 Industrial",
+      "Quadro NVS 160M Industrial",
+      "Quadro FX 1700 Industrial",
+      "Quadro FX 570 Industrial",
+      "Quadro FX 380 Industrial"
+    ],
+    "NVIDIA Multi-Display Cards": [
+      "NVIDIA Quadro Mosaic 8-Display",
+      "NVIDIA Quadro Video Wall Controller",
+      "NVIDIA NVS 810 8-Head",
+      "NVS 420 4-Head",
+      "NVS 450 4-Head"
+    ]
+  },
+
+  "AMD_Embedded_APU_GPU": {
+    "Ryzen Embedded V1000 Series (iGPU Vega)": [
+      "Vega 11 Embedded",
+      "Vega 8 Embedded",
+      "Vega 6 Embedded",
+      "Vega 3 Embedded"
+    ],
+    "Ryzen Embedded V2000 Series": [
+      "Vega 7 Embedded",
+      "Vega 6 Enhanced Embedded",
+      "Vega 8 Professional Embedded"
+    ],
+    "AMD R-Series Embedded": [
+      "Radeon R4 Embedded",
+      "Radeon R5 Embedded",
+      "Radeon R6 Embedded",
+      "Radeon R7 Embedded"
+    ],
+    "AMD G-Series (Old Industrial APU)": [
+      "Radeon HD 6250 Embedded",
+      "Radeon HD 6310 Embedded",
+      "Radeon HD 8210E",
+      "Radeon HD 8330E"
+    ]
+  },
+
+  "NVIDIA_Mobile_ES_Deep": {
+    "Mobile Engineering GPUs": [
+      "GeForce GTX 965M ES",
+      "GeForce GTX 980M ES",
+      "GeForce GTX 1070 Mobile ES",
+      "GeForce RTX 2060 Mobile ES",
+      "GeForce RTX 3060 Mobile ES",
+      "GeForce RTX 4050 Mobile ES"
+    ]
+  },
+
+  "Brand_Extreme_Editions": {
+    "ROG Special Editions": [
+      "ROG Strix RTX 3090 White Edition",
+      "ROG Strix RTX 3080 White Edition",
+      "ROG Strix RTX 2080 Ti WaterCooled",
+      "ROG Poseidon GTX 1080 Hybrid",
+      "ROG Poseidon GTX 980 Hybrid"
+    ],
+    "AORUS Xtreme Editions": [
+      "AORUS RTX 3090 Xtreme Waterforce",
+      "AORUS RTX 3080 Xtreme",
+      "AORUS GTX 1080 Ti Xtreme Edition"
+    ],
+    "MSI Lightning Extreme": [
+      "MSI GTX 1080 Ti Lightning Z",
+      "MSI R9 290X Lightning",
+      "MSI RTX 2080 Ti Lightning"
+    ],
+    "EVGA Special": [
+      "EVGA RTX 3090 KINGPIN",
+      "EVGA GTX 980 Ti KINGPIN",
+      "EVGA GTX 780 Ti KINGPIN",
+      "EVGA RTX 2080 Ti HYDRO COPPER"
+    ]
+  },
+
+  "Japan_OEM_GPUs": {
+    "Panasonic / Let's Note": [
+      "GeForce MX250 Panasonic",
+      "GeForce GT 740M Panasonic"
+    ],
+    "Toshiba Dynabook GPUs": [
+      "GeForce GT 640M Toshiba",
+      "GeForce GT 630M Toshiba"
+    ],
+    "Sony VAIO GPUs": [
+      "GeForce GT 330M Sony",
+      "GeForce GT 425M Sony",
+      "AMD Radeon HD 4530 VAIO",
+      "Radeon HD 6470M VAIO"
+    ]
+  },
+
+  "Historical_Expansion": {
+    "More 80–90s SVGA Additions": [
+      "ATI Mach64 GT",
+      "ATI Mach64 VT",
+      "S3 Trio64V2",
+      "Tseng ET4000W32p",
+      "Cirrus Logic CL-GD5480",
+      "Number Nine Ticket To Ride",
+      "Video7 FastWrite VGA"
+    ]
+  }
+}
+{
+  "Ancient_PreVGA_Graphics": {
+    "CGA_EGA_MDA_Hercules (1981–1986)": [
+      "IBM MDA (Monochrome Display Adapter)",
+      "IBM CGA (Color Graphics Adapter)",
+      "IBM EGA (Enhanced Graphics Adapter)",
+      "Hercules Graphics Card (HGC)",
+      "Hercules Graphics Card Plus",
+      "Hercules InColor Card",
+      "ATI Small Wonder CGA",
+      "ATI EGA Wonder Card",
+      "Paradise PEGA 1A EGA",
+      "Supra CGA/EGA Hybrid"
+    ],
+    "Early ISA SVGA (1987–1991)": [
+      "Trident TVGA8800BR",
+      "Trident TVGA8900B",
+      "Trident TVGA9000C",
+      "Tseng Labs ET3000",
+      "Tseng Labs ET2000",
+      "Cirrus Logic CL-GD5401",
+      "Cirrus Logic CL-GD5420",
+      "Oak Technology OTI-037",
+      "Oak Technology OTI-077",
+      "Western Digital Paradise WD90C00"
+    ]
+  },
+
+  "Historic_Brand_GPU_Manufacturers": {
+    "Hercules (1987–1999)": [
+      "Hercules Dynamite 128",
+      "Hercules Dynamite 3D",
+      "Hercules Thriller 3D",
+      "Hercules Stingray 128",
+      "Hercules Stingray 128/3D",
+      "Hercules Terminator BE",
+      "Hercules Terminator 3D",
+      "Hercules Terminator 3D GLH"
+    ],
+    "Diamond Multimedia": [
+      "Diamond Stealth 24",
+      "Diamond Stealth 64",
+      "Diamond Stealth II S220",
+      "Diamond Viper V550",
+      "Diamond Viper V770",
+      "Diamond Monster 3D",
+      "Diamond Monster 3D II (Voodoo2)",
+      "Diamond FireGL 1000 Pro"
+    ],
+    "Canopus Japan": [
+      "Canopus Spectra 2500",
+      "Canopus Spectra 3200",
+      "Canopus Spectra 8800",
+      "Canopus Pure3D",
+      "Canopus Pure3D II",
+      "Canopus WinFast A250 Ultra"
+    ],
+    "ELSA Germany": [
+      "ELSA GLoria Synergy",
+      "ELSA GLoria II",
+      "ELSA GLoria DCC",
+      "ELSA ERAZOR II",
+      "ELSA ERAZOR III",
+      "ELSA ERAZOR X",
+      "ELSA Winner 1000",
+      "ELSA Winner 2000 MultiVision"
+    ]
+  },
+
+  "ATI_Early_FullArchive": {
+    "ATI Mach Series": [
+      "Mach32 VLB",
+      "Mach32 ISA",
+      "Mach64 VT2",
+      "Mach64 GT",
+      "Mach64 VTB",
+      "Mach64 GX",
+      "Mach64 GX PCI"
+    ],
+    "ATI Rage Extended": [
+      "ATI Rage Pro Turbo",
+      "ATI Rage Magnum",
+      "ATI Rage II+DVD",
+      "ATI Rage XL PCI",
+      "ATI Rage Mobility P/M",
+      "ATI Rage Fury Maxx",
+      "ATI Rage Fury Pro"
+    ]
+  },
+
+  "NVIDIA_Maximus_GRID_SYNC": {
+    "NVIDIA Maximus Hybrid GPUs": [
+      "Quadro K5000 + Tesla K20 Maximus",
+      "Quadro K4000 + Tesla K20 Maximus",
+      "Quadro M6000 + Tesla M40 Maximus",
+      "Quadro P6000 + Tesla P40 Maximus"
+    ],
+    "NVIDIA GRID (Cloud GPU)": [
+      "NVIDIA GRID K100",
+      "GRID K120Q",
+      "GRID K140Q",
+      "GRID M10",
+      "GRID M40",
+      "GRID V100D-8Q",
+      "GRID RTX6000-24Q"
+    ],
+    "NVIDIA Sync / Video Wall": [
+      "NVIDIA Quadro Sync II",
+      "NVIDIA Quadro Sync",
+      "NVIDIA Video Wall Controller 8-Channel"
+    ]
+  },
+
+  "Intel_Embedded_iGPU": {
+    "Intel Xeon CPU Integrated GPUs": [
+      "Intel P630 (Xeon E-2200)",
+      "Intel P530 (Xeon E-1200 v5)",
+      "Intel HD P4600 (Xeon E3-12xx v3)",
+      "Intel HD P4700"
+    ],
+    "Intel Embedded Long-Life GPUs": [
+      "Intel HD 505E",
+      "Intel HD 500E",
+      "Intel UHD 620E",
+      "Intel UHD 630E",
+      "Intel Iris Plus 655E"
+    ],
+    "Intel Industrial Extended": [
+      "Intel GMA 3650 Industrial",
+      "Intel GMA 3150 Industrial",
+      "Intel X4500HD Embedded",
+      "Intel X3100 Embedded"
+    ]
+  },
+
+  "Japan_OEM_Fullset": {
+    "Fujitsu Lifebook GPUs": [
+      "GeForce RTX 3050 Fujitsu",
+      "GeForce MX250 Fujitsu",
+      "AMD Radeon R6 Fujitsu"
+    ],
+    "Sharp Mebius GPUs": [
+      "GeForce GT 640M Sharp",
+      "GeForce GT 520M Sharp"
+    ],
+    "NEC LaVie GPUs": [
+      "GeForce MX130 NEC",
+      "GeForce 930M NEC",
+      "Radeon RX Vega NEC Custom"
+    ]
+  },
+
+  "VLB_SVGA_Ultra_Rare": {
+    "VLB Cards (1992–1995)": [
+      "Tseng ET4000W32 VLB",
+      "Tseng ET4000W32p VLB",
+      "S3 Vision 868 VLB",
+      "S3 Vision 964 VLB",
+      "Cirrus Logic CL-GD5428 VLB",
+      "Cirrus Logic CL-GD5434 VLB",
+      "Trident TGUI9440 VLB"
+    ]
+  },
+
+  "More_Early_SVGA_Expansions": {
+    "Additional SVGA Models": [
+      "Oak OTI-087",
+      "Oak OTI-107",
+      "Paradise Bahamas 64",
+      "Number Nine Pepper S3",
+      "Video7 VRAM VGA",
+      "Everex EV-673 SuperVGA",
+      "Genoa Systems SuperVGA 7900"
+    ]
+  }
+}
+{
+  "Prehistoric_Graphics_1978_1981": {
+    "Earliest_Graphics_Adapters": [
+      "IBM Monochrome Display Adapter Prototype (1979)",
+      "IBM CGA Prototype Rev-A (1981)",
+      "Hercules Graphics Card Prototype (1981)",
+      "Hercules HGC Engineering Board",
+      "Motorola 6845 Reference Board",
+      "Matrox ALT-256 Monochrome Adapter",
+      "North Star MDS CGA Board",
+      "Sanyo MBC Display Adapter"
+    ]
+  },
+
+  "Obscure_USA_GPU_Brands": {
+    "STB_Systems": [
+      "STB PowerGraph VGA",
+      "STB Horizon GX",
+      "STB Velocity 128",
+      "STB Velocity 4400",
+      "STB Nitro 3D",
+      "STB Lightspeed 3300"
+    ],
+    "Orchid_Technologies": [
+      "Orchid Fahrenheit 1280",
+      "Orchid Kelvin 64",
+      "Orchid Righteous 3D (Voodoo1)",
+      "Orchid Righteous 3D II (Voodoo2)",
+      "Orchid ProDesigner IIs",
+      "Orchid ProDesigner II LE"
+    ],
+    "Video7_Technologies": [
+      "Video7 FastWrite VGA",
+      "Video7 VRAM VGA",
+      "Video7 HT-216",
+      "Video7 V7 Vega Deluxe",
+      "Video7 V-RAM 1024"
+    ],
+    "Everex_SuperVGA": [
+      "Everex EV-673 SuperVGA",
+      "Everex Micro Enhancer",
+      "Everex Viewpoint VGA",
+      "Everex EV-789 VGA"
+    ]
+  },
+
+  "Professional_Workstation_Graphics": {
+    "Intergraph": [
+      "Intergraph GLZ Graphics Accelerator",
+      "Intergraph Intense3D Voodoo",
+      "Intergraph Intense3D Pro 3400",
+      "Intergraph Intense3D Pro 4500"
+    ],
+    "Evans_Sutherland": [
+      "E&S Freedom 3000",
+      "E&S Freedom 4000",
+      "E&S GT Graphics Engine"
+    ],
+    "SGI_Silicon_Graphics": [
+      "SGI Impact 10000",
+      "SGI Impact 12000",
+      "SGI VPro V8",
+      "SGI VPro V10",
+      "SGI VPro V12"
+    ],
+    "Sun_Microsystems": [
+      "Sun ZX Accelerator",
+      "Sun TurboGX",
+      "Sun Creator 3D",
+      "Sun Expert3D",
+      "Sun Elite3D m3",
+      "Sun Elite3D m6"
+    ],
+    "DEC_Digital_Equipment": [
+      "DEC PixelVision",
+      "DEC TGA (TrueVideo Graphics Adapter)",
+      "DEC ZLX-E1",
+      "DEC ZLX-L2",
+      "DEC PowerStorm 300",
+      "DEC PowerStorm 350"
+    ],
+    "HP_Workstation_Cards": [
+      "HP Visualize FX2",
+      "HP Visualize FX4",
+      "HP Visualize FX6",
+      "HP fx10 Graphics",
+      "HP fx5 Pro"
+    ]
+  },
+
+  "NVIDIA_Tesla_Deep_OEM": {
+    "Enterprise_OEM_Variants": [
+      "Tesla V100 SXM2 OEM",
+      "Tesla V100 PCIe XL",
+      "Tesla K40X OEM",
+      "Tesla M2090 OEM",
+      "Tesla C2070 HPC OEM",
+      "Tesla A40 Passive Cooling",
+      "Tesla T4 Edge Optimized",
+      "Tesla P6 Mobile-HPC"
+    ]
+  },
+
+  "AMD_FirePro_Deep": {
+    "FirePro_DualChip_Rare": [
+      "FirePro S10000",
+      "FirePro S10000 Passive",
+      "FirePro R9000 Dual",
+      "FireGL X3-256 HeatPipe Edition"
+    ],
+    "FirePro_Engineering_Samples": [
+      "FirePro W9100 ES",
+      "FirePro W9000 ES",
+      "FirePro V8800 ES",
+      "FirePro V9800 ES"
+    ]
+  },
+
+  "Intel_Experimental_iGPUs": {
+    "Intel_Xe_Engineering": [
+      "Intel Xe-LP ES",
+      "Intel Xe-HPG ES",
+      "Intel Xe-HP 2-Tile Prototype",
+      "Intel Xe-HP 4-Tile Prototype",
+      "Intel Ponte Vecchio GPU Tile"
+    ],
+    "Intel_HPC_Integrated": [
+      "Intel Iris Pro P580 (Server)",
+      "Intel Iris Pro P6300",
+      "Intel HD P4700",
+      "Intel UHD 610E",
+      "Intel UHD 730E"
+    ]
+  },
+
+  "More_OEM_Laptop_GPUs": {
+    "Sony_VAIO_Additional": [
+      "Radeon HD 5650 VAIO",
+      "GeForce GT 540M VAIO",
+      "GeForce 9300M GS VAIO"
+    ],
+    "Toshiba_More": [
+      "Radeon HD 5165 Toshiba",
+      "GeForce GT 335M Toshiba"
+    ],
+    "Fujitsu_Extra": [
+      "Radeon HD 6630M Fujitsu",
+      "GeForce 310M Fujitsu"
+    ]
+  }
+}
+{
+  "Earliest_Pre_MDA_Displays_1975_1978": {
+    "Terminal_Graphics_Adapters": [
+      "Datapoint 2200 CRT Controller",
+      "Hewlett Packard 2647A Terminal Graphics",
+      "Digital VT105 Vector Graphics Unit",
+      "Digital VT55 Color Graphics",
+      "Tektronix 4010 Vector Display Adapter",
+      "Sanyo MBC-1000 Video Board Pre-VGA",
+      "Motorola 6845 Prototype Board (CRTC)",
+      "Commodore PET Video Adapter Pre-VGA"
+    ]
+  },
+
+  "Chips_and_Technologies_Full": {
+    "C&T_82xx_Series": [
+      "Chips & Tech 82C425",
+      "C&T 82C441",
+      "C&T 82C451",
+      "C&T 82C452",
+      "C&T 82C453",
+      "C&T 82C455"
+    ],
+    "C&T_Wingine_Series": [
+      "C&T Wingine 82C545",
+      "C&T Wingine 82C548",
+      "C&T Wingine VESA Local Bus"
+    ],
+    "C&T_Laptop_Video": [
+      "C&T 65530",
+      "C&T 65535",
+      "C&T 65545",
+      "C&T 65548",
+      "C&T 65555",
+      "C&T 69000",
+      "C&T 69030"
+    ]
+  },
+
+  "Genoa_Ahead_Realtek_Graphics": {
+    "Genoa_Systems": [
+      "Genoa 5300 SuperVGA",
+      "Genoa 5400 SuperVGA",
+      "Genoa 7900 VGA",
+      "Genoa 8500 VLB"
+    ],
+    "Ahead_Technologies": [
+      "Ahead A&B VGA",
+      "Ahead V5000",
+      "Ahead V6000 SVGA"
+    ],
+    "Realtek_VGA": [
+      "Realtek RTG3100",
+      "Realtek RTG3105",
+      "Realtek RTG3120",
+      "Realtek RTL3000 VGA"
+    ]
+  },
+
+  "Rare_European_Workstation_GPUs": {
+    "Wyse_Terminal_GPUs": [
+      "Wyse WY-200 Graphics Adapter",
+      "Wyse WY-370 Color Board"
+    ],
+    "Tulip_Computers": [
+      "Tulip VG-200 VGA",
+      "Tulip Multigraph 2010"
+    ],
+    "Olivetti_GPUs": [
+      "Olivetti GO481 VGA Adapter",
+      "Olivetti EVC-1 Graphics Controller"
+    ]
+  },
+
+  "SGI_SUN_DEC_Expanded": {
+    "SGI_More": [
+      "SGI Extreme Graphics",
+      "SGI High Impact",
+      "SGI Max Impact",
+      "SGI RE2 Graphics Engine",
+      "SGI InfiniteReality Graphics"
+    ],
+    "Sun_Extra": [
+      "Sun GT Graphics Accelerator",
+      "Sun GS Graphics",
+      "Sun PGX64",
+      "Sun PGX32",
+      "Sun GXT1300",
+      "Sun GXT2000"
+    ],
+    "DEC_Alpha_Graphics": [
+      "DEC PowerStorm 4D20T",
+      "DEC PowerStorm 350T",
+      "DEC ZLXp-E2",
+      "DEC TGA2 (NextGen)"
+    ]
+  },
+
+  "AMD_APU_iGPU_FullSet": {
+    "Kaveri_APU_Graphics": [
+      "Radeon R4 (Kaveri)",
+      "Radeon R5 (Kaveri)",
+      "Radeon R6 (Kaveri)",
+      "Radeon R7 (Kaveri)"
+    ],
+    "Carrizo_APU": [
+      "Radeon R5 Carrizo",
+      "Radeon R6 Carrizo",
+      "Radeon R7 Carrizo"
+    ],
+    "Bristol_Ridge_APU": [
+      "Radeon R5 Bristol",
+      "Radeon R7 Bristol"
+    ],
+    "Raven_Ridge_APU": [
+      "Vega 3 Raven",
+      "Vega 6 Raven",
+      "Vega 8 Raven",
+      "Vega 11 Raven"
+    ]
+  },
+
+  "Intel_Xe_Prototype_Full": {
+    "Xe_LP/HPG_Prototype": [
+      "Intel Xe-LP A0 Sample",
+      "Intel Xe-LP B0 Sample",
+      "Intel Xe-HP 1-Tile Engineering",
+      "Intel Xe-HP 2-Tile Engineering",
+      "Intel Xe-HP 4-Tile Engineering"
+    ],
+    "Arc_Alchemist_Unreleased": [
+      "Intel Arc A380 ES",
+      "Intel Arc A580 ES",
+      "Intel Arc A750 ES",
+      "Intel Arc A770 ES Limited Edition"
+    ]
+  },
+
+  "NVIDIA_Unreleased_Prototype": {
+    "Cancelled_Desktop_GPU": [
+      "NVIDIA GeForce GTX 590X Prototype",
+      "NVIDIA GeForce GTX 685 (Cancelled)",
+      "NVIDIA GeForce RTX 2080 Ti SUPER (Cancelled)",
+      "NVIDIA GeForce RTX 4080 16G Early Revision"
+    ],
+    "Cancelled_Mobile_GPU": [
+      "NVIDIA RTX 2070 Max-Q ES",
+      "NVIDIA GTX 980 Mobile 8GB Prototype"
+    ],
+    "Cancelled_Workstation": [
+      "Quadro RTX 7000 Engineering",
+      "Quadro K6200 Prototype"
+    ]
+  },
+
+  "Server_Cloud_Deep_GPU": {
+    "NVIDIA_Cloud_OEM": [
+      "Tesla P4 Edge Server",
+      "Tesla M6 Mobile Rack GPU",
+      "Tesla M10D Cloud Variant",
+      "Tesla V100 SXM2 32GB OEM",
+      "Tesla T4 Telecom Edition"
+    ],
+    "AMD_Server_GPU": [
+      "AMD Instinct MI50 ES",
+      "AMD Instinct MI60 ES",
+      "AMD Instinct MI100 ES",
+      "AMD Sky500 Server GPU"
+    ]
+  }
+}

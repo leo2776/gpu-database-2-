@@ -1,0 +1,2380 @@
+{
+  "Python_Keywords": [
+    "False",
+    "None",
+    "True",
+    "and",
+    "as",
+    "assert",
+    "async",
+    "await",
+    "break",
+    "class",
+    "continue",
+    "def",
+    "del",
+    "elif",
+    "else",
+    "except",
+    "finally",
+    "for",
+    "from",
+    "global",
+    "if",
+    "import",
+    "in",
+    "is",
+    "lambda",
+    "nonlocal",
+    "not",
+    "or",
+    "pass",
+    "raise",
+    "return",
+    "try",
+    "while",
+    "with",
+    "yield"
+  ],
+
+  "Python_Primitive_Types": [
+    "int",
+    "float",
+    "str",
+    "bool",
+    "bytes",
+    "complex",
+    "NoneType"
+  ],
+
+  "Python_BuiltIn_Collections": [
+    "list",
+    "tuple",
+    "dict",
+    "set",
+    "frozenset",
+    "range",
+    "bytearray",
+    "memoryview"
+  ],
+
+  "Python_Operators": {
+
+    "Arithmetic": [
+      "+",
+      "-",
+      "*",
+      "/",
+      "//",
+      "%",
+      "**"
+    ],
+
+    "Assignment": [
+      "=",
+      "+=",
+      "-=",
+      "*=",
+      "/=",
+      "//=",
+      "%=",
+      "**=",
+      "&=",
+      "|=",
+      "^=",
+      ">>=",
+      "<<="
+    ],
+
+    "Comparison": [
+      "==",
+      "!=",
+      ">",
+      "<",
+      ">=",
+      "<="
+    ],
+
+    "Logical": [
+      "and",
+      "or",
+      "not"
+    ],
+
+    "Bitwise": [
+      "&",
+      "|",
+      "^",
+      "~",
+      "<<",
+      ">>"
+    ],
+
+    "Membership": [
+      "in",
+      "not in"
+    ],
+
+    "Identity": [
+      "is",
+      "is not"
+    ]
+  },
+
+  "Python_Statements": [
+    "if",
+    "elif",
+    "else",
+    "for",
+    "while",
+    "try",
+    "except",
+    "finally",
+    "raise",
+    "with",
+    "break",
+    "continue",
+    "return",
+    "pass",
+    "yield",
+    "import",
+    "from",
+    "global",
+    "nonlocal",
+    "assert",
+    "lambda",
+    "del"
+  ]
+}
+{
+  "Python_BuiltIn_Functions": [
+
+    "abs",
+    "aiter",
+    "all",
+    "any",
+    "anext",
+    "ascii",
+    "bin",
+    "bool",
+    "breakpoint",
+    "bytearray",
+    "bytes",
+    "callable",
+    "chr",
+    "classmethod",
+    "compile",
+    "complex",
+    "delattr",
+    "dict",
+    "dir",
+    "divmod",
+    "enumerate",
+    "eval",
+    "exec",
+    "filter",
+    "float",
+    "format",
+    "frozenset",
+    "getattr",
+    "globals",
+    "hasattr",
+    "hash",
+    "help",
+    "hex",
+    "id",
+    "input",
+    "int",
+    "isinstance",
+    "issubclass",
+    "iter",
+    "len",
+    "list",
+    "locals",
+    "map",
+    "max",
+    "memoryview",
+    "min",
+    "next",
+    "object",
+    "oct",
+    "open",
+    "ord",
+    "pow",
+    "print",
+    "property",
+    "range",
+    "repr",
+    "reversed",
+    "round",
+    "set",
+    "setattr",
+    "slice",
+    "sorted",
+    "staticmethod",
+    "str",
+    "sum",
+    "super",
+    "tuple",
+    "type",
+    "vars",
+    "zip"
+  ],
+
+  "Python_BuiltIn_Constants": [
+    "None",
+    "True",
+    "False",
+    "NotImplemented",
+    "Ellipsis",
+    "__debug__"
+  ],
+
+  "Python_BuiltIn_Exceptions": [
+
+    "BaseException",
+    "Exception",
+
+    "ArithmeticError",
+    "ZeroDivisionError",
+    "OverflowError",
+    "FloatingPointError",
+
+    "AssertionError",
+    "AttributeError",
+
+    "BufferError",
+
+    "EOFError",
+
+    "ImportError",
+    "ModuleNotFoundError",
+
+    "LookupError",
+    "IndexError",
+    "KeyError",
+
+    "MemoryError",
+
+    "NameError",
+    "UnboundLocalError",
+
+    "OSError",
+    "BlockingIOError",
+    "ChildProcessError",
+    "ConnectionError",
+      "BrokenPipeError",
+      "ConnectionAbortedError",
+      "ConnectionRefusedError",
+      "ConnectionResetError",
+    "FileExistsError",
+    "FileNotFoundError",
+    "InterruptedError",
+    "IsADirectoryError",
+    "NotADirectoryError",
+    "PermissionError",
+    "ProcessLookupError",
+    "TimeoutError",
+
+    "ReferenceError",
+
+    "RuntimeError",
+    "NotImplementedError",
+    "RecursionError",
+
+    "StopIteration",
+    "StopAsyncIteration",
+
+    "SyntaxError",
+    "IndentationError",
+    "TabError",
+
+    "SystemError",
+
+    "TypeError",
+
+    "ValueError",
+
+    "UnicodeError",
+      "UnicodeDecodeError",
+      "UnicodeEncodeError",
+      "UnicodeTranslateError",
+
+    "Warning",
+    "DeprecationWarning",
+    "PendingDeprecationWarning",
+    "RuntimeWarning",
+    "SyntaxWarning",
+    "UserWarning",
+    "FutureWarning",
+    "ImportWarning",
+    "UnicodeWarning",
+    "BytesWarning",
+    "ResourceWarning"
+  ]
+}
+{
+  "Python_Iterators_and_Generators": {
+
+    "Iterator_Protocol": [
+      "__iter__",
+      "__next__"
+    ],
+
+    "Generator_Protocol": [
+      "yield",
+      "yield from"
+    ],
+
+    "Generator_Methods": [
+      "send()",
+      "throw()",
+      "close()"
+    ],
+
+    "Async_Iterator_Protocol": [
+      "__aiter__",
+      "__anext__"
+    ]
+  },
+
+  "Python_Comprehensions": {
+
+    "List_Comprehension": [
+      "[expression for item in iterable]",
+      "[expression for item in iterable if condition]"
+    ],
+
+    "Set_Comprehension": [
+      "{expression for item in iterable}",
+      "{expression for item in iterable if condition]"
+    ],
+
+    "Dict_Comprehension": [
+      "{key: value for item in iterable}",
+      "{key: value for item in iterable if condition]"
+    ],
+
+    "Generator_Comprehension": [
+      "(expression for item in iterable)",
+      "(expression for item in iterable if condition]"
+    ]
+  },
+
+  "Python_Pattern_Matching": {
+
+    "Match_Syntax": [
+      "match value:",
+      "    case pattern:",
+      "    case pattern if condition:"
+    ],
+
+    "Case_Pattern_Types": [
+      "Literal patterns",
+      "Capture patterns",
+      "Wildcard patterns (_)",
+      "Sequence patterns",
+      "Mapping patterns",
+      "Class patterns",
+      "OR patterns (pattern1 | pattern2)",
+      "AS patterns (pattern as name)"
+    ]
+  },
+
+  "Python_Decorators": {
+
+    "Decorator_Syntax": [
+      "@decorator",
+      "@decorator(argument)"
+    ],
+
+    "Decorator_Targets": [
+      "functions",
+      "methods",
+      "classes",
+      "staticmethod",
+      "classmethod"
+    ]
+  },
+
+  "Python_Import_System": {
+
+    "Import_Syntax": [
+      "import module",
+      "import module as alias",
+      "from module import name",
+      "from module import name as alias",
+      "from module import *"
+    ],
+
+    "Module_Search_Order": [
+      "Built-in Modules",
+      "sys.modules",
+      "PYTHONPATH",
+      "Site-packages"
+    ],
+
+    "Import_Hooks": [
+      "__import__",
+      "importlib.import_module",
+      "importlib.machinery",
+      "importlib.abc.MetaPathFinder",
+      "importlib.abc.Loader"
+    ]
+  },
+
+  "Python_Magic_Methods": {
+
+    "Construction_and_Representation": [
+      "__new__",
+      "__init__",
+      "__del__",
+      "__repr__",
+      "__str__",
+      "__format__",
+      "__bytes__",
+      "__bool__"
+    ],
+
+    "Attribute_Access": [
+      "__getattr__",
+      "__getattribute__",
+      "__setattr__",
+      "__delattr__",
+      "__dir__"
+    ],
+
+    "Container_and_Iteration": [
+      "__len__",
+      "__getitem__",
+      "__setitem__",
+      "__delitem__",
+      "__iter__",
+      "__reversed__",
+      "__contains__"
+    ],
+
+    "Callable_and_Context": [
+      "__call__",
+      "__enter__",
+      "__exit__"
+    ],
+
+    "Unary_Operators": [
+      "__neg__",
+      "__pos__",
+      "__abs__",
+      "__invert__"
+    ],
+
+    "Binary_Operators": [
+      "__add__",
+      "__sub__",
+      "__mul__",
+      "__matmul__",
+      "__truediv__",
+      "__floordiv__",
+      "__mod__",
+      "__pow__",
+      "__lshift__",
+      "__rshift__",
+      "__and__",
+      "__xor__",
+      "__or__"
+    ],
+
+    "Reflected_Operators": [
+      "__radd__",
+      "__rsub__",
+      "__rmul__",
+      "__rmatmul__",
+      "__rtruediv__",
+      "__rfloordiv__",
+      "__rmod__",
+      "__rpow__",
+      "__rlshift__",
+      "__rrshift__",
+      "__rand__",
+      "__rxor__",
+      "__ror__"
+    ],
+
+    "Inplace_Operators": [
+      "__iadd__",
+      "__isub__",
+      "__imul__",
+      "__imatmul__",
+      "__itruediv__",
+      "__ifloordiv__",
+      "__imod__",
+      "__ipow__",
+      "__ilshift__",
+      "__irshift__",
+      "__iand__",
+      "__ixor__",
+      "__ior__"
+    ],
+
+    "Comparison_Operators": [
+      "__eq__",
+      "__ne__",
+      "__lt__",
+      "__le__",
+      "__gt__",
+      "__ge__"
+    ],
+
+    "Hashing_and_Bytes": [
+      "__hash__",
+      "__sizeof__"
+    ],
+
+    "Descriptor_Protocol": [
+      "__get__",
+      "__set__",
+      "__delete__",
+      "__set_name__"
+    ],
+
+    "Async": [
+      "__await__",
+      "__aiter__",
+      "__anext__",
+      "__aenter__",
+      "__aexit__"
+    ]
+  }
+}
+{
+  "Python_BuiltIn_Types": {
+
+    "str": {
+      "type": "immutable",
+      "category": "text",
+      "methods": [
+        "capitalize",
+        "casefold",
+        "center",
+        "count",
+        "encode",
+        "endswith",
+        "expandtabs",
+        "find",
+        "format",
+        "format_map",
+        "index",
+        "isalnum",
+        "isalpha",
+        "isascii",
+        "isdecimal",
+        "isdigit",
+        "isidentifier",
+        "islower",
+        "isnumeric",
+        "isprintable",
+        "isspace",
+        "istitle",
+        "isupper",
+        "join",
+        "ljust",
+        "lower",
+        "lstrip",
+        "maketrans",
+        "partition",
+        "replace",
+        "rfind",
+        "rindex",
+        "rjust",
+        "rpartition",
+        "rsplit",
+        "rstrip",
+        "split",
+        "splitlines",
+        "startswith",
+        "strip",
+        "swapcase",
+        "title",
+        "translate",
+        "upper",
+        "zfill"
+      ]
+    },
+
+    "list": {
+      "type": "mutable",
+      "category": "sequence",
+      "methods": [
+        "append",
+        "clear",
+        "copy",
+        "count",
+        "extend",
+        "index",
+        "insert",
+        "pop",
+        "remove",
+        "reverse",
+        "sort"
+      ]
+    },
+
+    "tuple": {
+      "type": "immutable",
+      "category": "sequence",
+      "methods": [
+        "count",
+        "index"
+      ]
+    },
+
+    "range": {
+      "type": "immutable",
+      "category": "numeric sequence",
+      "description": "range(start, stop[, step])",
+      "methods": [
+        "count",
+        "index"
+      ]
+    }
+  }
+}
+{
+  "Python_BuiltIn_Types_Advanced": {
+
+    "dict": {
+      "type": "mutable",
+      "category": "mapping",
+      "methods": [
+        "clear",
+        "copy",
+        "fromkeys",
+        "get",
+        "items",
+        "keys",
+        "pop",
+        "popitem",
+        "setdefault",
+        "update",
+        "values"
+      ]
+    },
+
+    "set": {
+      "type": "mutable",
+      "category": "set",
+      "methods": [
+        "add",
+        "clear",
+        "copy",
+        "discard",
+        "pop",
+        "remove",
+        "update",
+        "intersection_update",
+        "difference_update",
+        "symmetric_difference_update",
+        "union",
+        "intersection",
+        "difference",
+        "symmetric_difference",
+        "isdisjoint",
+        "issubset",
+        "issuperset"
+      ]
+    },
+
+    "frozenset": {
+      "type": "immutable",
+      "category": "set",
+      "methods": [
+        "copy",
+        "union",
+        "intersection",
+        "difference",
+        "symmetric_difference",
+        "isdisjoint",
+        "issubset",
+        "issuperset"
+      ]
+    },
+
+    "bytes": {
+      "type": "immutable",
+      "category": "binary",
+      "methods": [
+        "capitalize",
+        "center",
+        "count",
+        "decode",
+        "endswith",
+        "find",
+        "hex",
+        "index",
+        "isalnum",
+        "isalpha",
+        "isascii",
+        "isdigit",
+        "islower",
+        "isspace",
+        "istitle",
+        "isupper",
+        "join",
+        "ljust",
+        "lower",
+        "lstrip",
+        "partition",
+        "replace",
+        "rfind",
+        "rindex",
+        "rjust",
+        "rpartition",
+        "rsplit",
+        "rstrip",
+        "split",
+        "splitlines",
+        "startswith",
+        "strip",
+        "swapcase",
+        "title",
+        "translate",
+        "upper",
+        "zfill",
+        "fromhex"
+      ]
+    },
+
+    "bytearray": {
+      "type": "mutable",
+      "category": "binary",
+      "methods": [
+        "append",
+        "capitalize",
+        "center",
+        "clear",
+        "copy",
+        "count",
+        "decode",
+        "endswith",
+        "extend",
+        "find",
+        "hex",
+        "index",
+        "insert",
+        "isalnum",
+        "isalpha",
+        "isascii",
+        "isdigit",
+        "islower",
+        "isspace",
+        "istitle",
+        "isupper",
+        "join",
+        "ljust",
+        "lower",
+        "lstrip",
+        "partition",
+        "pop",
+        "remove",
+        "replace",
+        "reverse",
+        "rfind",
+        "rindex",
+        "rjust",
+        "rpartition",
+        "rsplit",
+        "rstrip",
+        "split",
+        "splitlines",
+        "startswith",
+        "strip",
+        "swapcase",
+        "title",
+        "translate",
+        "upper",
+        "zfill",
+        "fromhex"
+      ]
+    },
+
+    "memoryview": {
+      "type": "view",
+      "category": "buffer",
+      "supported_operations": [
+        "slicing",
+        "indexing",
+        "cast",
+        "tobytes",
+        "tolist",
+        "release"
+      ],
+      "readonly": [
+        "readonly",
+        "itemsize",
+        "format",
+        "ndim",
+        "shape",
+        "strides",
+        "suboffsets"
+      ]
+    }
+  }
+}
+{
+  "Python_StdLib_CoreModules": {
+
+    "sys": {
+      "category": "system",
+      "attributes": [
+        "platform",
+        "version",
+        "version_info",
+        "path",
+        "modules",
+        "stdin",
+        "stdout",
+        "stderr",
+        "argv",
+        "maxsize",
+        "byteorder",
+        "executable"
+      ],
+      "functions": [
+        "exit",
+        "getsizeof",
+        "getrecursionlimit",
+        "setrecursionlimit",
+        "getswitchinterval",
+        "setswitchinterval"
+      ]
+    },
+
+    "os": {
+      "category": "system",
+      "key_functions": [
+        "getcwd",
+        "chdir",
+        "listdir",
+        "mkdir",
+        "makedirs",
+        "rmdir",
+        "remove",
+        "rename",
+        "stat",
+        "system",
+        "getpid",
+        "getppid",
+        "environ",
+        "path.join",
+        "path.exists",
+        "path.isfile",
+        "path.isdir",
+        "path.abspath",
+        "path.dirname",
+        "path.basename",
+        "path.split",
+        "path.splitext"
+      ]
+    },
+
+    "math": {
+      "category": "numeric",
+      "constants": [
+        "pi",
+        "e",
+        "tau",
+        "inf",
+        "nan"
+      ],
+      "functions": [
+        "ceil",
+        "floor",
+        "fabs",
+        "factorial",
+        "gcd",
+        "exp",
+        "log",
+        "log10",
+        "log2",
+        "sqrt",
+        "sin",
+        "cos",
+        "tan",
+        "asin",
+        "acos",
+        "atan",
+        "degrees",
+        "radians",
+        "hypot",
+        "pow",
+        "prod"
+      ]
+    },
+
+    "random": {
+      "category": "numeric",
+      "functions": [
+        "random",
+        "seed",
+        "randint",
+        "uniform",
+        "choice",
+        "choices",
+        "shuffle",
+        "sample",
+        "randrange",
+        "getrandbits"
+      ]
+    },
+
+    "statistics": {
+      "category": "numeric",
+      "functions": [
+        "mean",
+        "median",
+        "median_low",
+        "median_high",
+        "median_grouped",
+        "mode",
+        "multimode",
+        "variance",
+        "pvariance",
+        "pstdev",
+        "stdev"
+      ]
+    },
+
+    "json": {
+      "category": "serialization",
+      "functions": [
+        "load",
+        "loads",
+        "dump",
+        "dumps"
+      ]
+    },
+
+    "re": {
+      "category": "regex",
+      "functions": [
+        "compile",
+        "match",
+        "fullmatch",
+        "search",
+        "findall",
+        "finditer",
+        "split",
+        "sub",
+        "subn"
+      ],
+      "flags": [
+        "IGNORECASE",
+        "MULTILINE",
+        "DOTALL",
+        "VERBOSE",
+        "ASCII",
+        "UNICODE"
+      ]
+    },
+
+    "subprocess": {
+      "category": "system",
+      "functions": [
+        "run",
+        "call",
+        "check_call",
+        "check_output",
+        "Popen"
+      ],
+      "Popen_methods": [
+        "communicate",
+        "poll",
+        "wait",
+        "terminate",
+        "kill"
+      ]
+    },
+
+    "pathlib": {
+      "category": "filesystem",
+      "classes": [
+        "Path",
+        "PurePath"
+      ],
+      "methods": [
+        "read_text",
+        "write_text",
+        "read_bytes",
+        "write_bytes",
+        "exists",
+        "is_dir",
+        "is_file",
+        "mkdir",
+        "glob",
+        "rglob",
+        "iterdir",
+        "unlink",
+        "rename",
+        "resolve"
+      ]
+    },
+
+    "time": {
+      "category": "time",
+      "functions": [
+        "sleep",
+        "time",
+        "ctime",
+        "localtime",
+        "gmtime",
+        "strftime",
+        "strptime"
+      ]
+    },
+
+    "datetime": {
+      "category": "time",
+      "classes": [
+        "datetime",
+        "date",
+        "time",
+        "timedelta"
+      ],
+      "methods": [
+        "now",
+        "utcnow",
+        "fromtimestamp",
+        "strftime"
+      ]
+    }
+  }
+}
+{
+  "Python_Language_Model": {
+
+    "Scope_Model_LEGB": [
+      "L = Local (函式內的變數)",
+      "E = Enclosing (巢狀函式外層閉包變數)",
+      "G = Global (模組層變數)",
+      "B = Built-in (Python 內建名稱，如 len, abs, list)"
+    ],
+
+    "Function_Call_Model": {
+      "Call_Steps": [
+        "1. 建立新 stack frame（新的執行上下文）",
+        "2. 評估所有參數（positional, keyword, default, *args, **kwargs）",
+        "3. 建立函式區域命名空間",
+        "4. 執行函式主體",
+        "5. return 回傳值，關閉 stack frame"
+      ],
+      "Parameter_Types": [
+        "positional-only",
+        "positional-or-keyword",
+        "keyword-only",
+        "var-positional (*args)",
+        "var-keyword (**kwargs)",
+        "default parameters"
+      ]
+    },
+
+    "Class_Model": {
+      "Class_Creation_Steps": [
+        "1. 收集 class body 區域名稱",
+        "2. 構造 class namespace",
+        "3. 呼叫 metaclass（預設 type）",
+        "4. 建立 class 物件"
+      ],
+      "MRO": [
+        "Method Resolution Order 使用 C3 Linearization",
+        "MRO 決定 method lookup 順序",
+        "可使用 Class.__mro__ 查看"
+      ]
+    },
+
+    "Descriptors": {
+      "Definition": "Descriptor 是實作 __get__, __set__, __delete__ 任一方法的物件。",
+      "Descriptor_Methods": [
+        "__get__(self, instance, owner)",
+        "__set__(self, instance, value)",
+        "__delete__(self, instance)"
+      ],
+      "Types": [
+        "資料 Descriptor（有 __set__ 或 __delete__）",
+        "非資料 Descriptor（只有 __get__）"
+      ],
+      "Examples": [
+        "property",
+        "staticmethod",
+        "classmethod",
+        "function objects",
+        "attribute managers"
+      ]
+    },
+
+    "Coroutine_And_Async_Model": {
+      "Coroutine_API": [
+        "__await__",
+        "__aenter__",
+        "__aexit__",
+        "__aiter__",
+        "__anext__"
+      ],
+      "Async_Keywords": [
+        "async def",
+        "await",
+        "async for",
+        "async with"
+      ],
+      "Event_Loop_Model": [
+        "協程在事件迴圈中排程執行",
+        "I/O 操作非同步轉換成 future",
+        "await 會暫停當前 coroutine"
+      ]
+    }
+  },
+
+  "Python_Typing_System": {
+
+    "Basic_Types": [
+      "int",
+      "float",
+      "str",
+      "bool",
+      "bytes",
+      "list",
+      "tuple",
+      "dict",
+      "set"
+    ],
+
+    "Core_Generic_Containers": [
+      "list[T]",
+      "tuple[T, ...]",
+      "dict[K, V]",
+      "set[T]",
+      "frozenset[T]"
+    ],
+
+    "Typing_Tools": {
+      "Special_Types": [
+        "Any",
+        "Union",
+        "Optional",
+        "Literal",
+        "Final",
+        "ClassVar",
+        "NoReturn"
+      ],
+
+      "Callable_Types": [
+        "Callable[[ArgTypes], ReturnType]",
+        "Callable[..., ReturnType]"
+      ],
+
+      "Generic_Types": [
+        "Generic[T]",
+        "TypeVar",
+        "Parameterized generics",
+        "Bounded TypeVar",
+        "Contravariant / Covariant TypeVar"
+      ],
+
+      "Container_Like": [
+        "Iterable[T]",
+        "Iterator[T]",
+        "Sequence[T]",
+        "Mapping[K, V]",
+        "MutableMapping[K, V]",
+        "Collection[T]"
+      ],
+
+      "Typed_Dict": [
+        "TypedDict",
+        "total=True/False",
+        "Required",
+        "NotRequired"
+      ],
+
+      "Protocol": [
+        "Protocol（結構化型別 / duck typing）",
+        "@runtime_checkable"
+      ],
+
+      "Annotated_Types": [
+        "Annotated[T, metadata...]",
+        "用來加入額外型別資訊"
+      ]
+    }
+  }
+}
+{
+  "Python_AST_Nodes": {
+
+    "Module": {
+      "fields": ["body", "type_ignores"]
+    },
+
+    "Interactive": {
+      "fields": ["body"]
+    },
+
+    "Expression": {
+      "fields": ["body"]
+    },
+
+    "FunctionDef": {
+      "fields": [
+        "name",
+        "args",
+        "body",
+        "decorator_list",
+        "returns",
+        "type_comment"
+      ]
+    },
+
+    "AsyncFunctionDef": {
+      "fields": [
+        "name",
+        "args",
+        "body",
+        "decorator_list",
+        "returns",
+        "type_comment"
+      ]
+    },
+
+    "ClassDef": {
+      "fields": [
+        "name",
+        "bases",
+        "keywords",
+        "body",
+        "decorator_list"
+      ]
+    },
+
+    "Return": {
+      "fields": ["value"]
+    },
+
+    "Delete": {
+      "fields": ["targets"]
+    },
+
+    "Assign": {
+      "fields": [
+        "targets",
+        "value",
+        "type_comment"
+      ]
+    },
+
+    "AugAssign": {
+      "fields": ["target", "op", "value"]
+    },
+
+    "AnnAssign": {
+      "fields": ["target", "annotation", "value", "simple"]
+    },
+
+    "For": {
+      "fields": ["target", "iter", "body", "orelse", "type_comment"]
+    },
+
+    "AsyncFor": {
+      "fields": ["target", "iter", "body", "orelse", "type_comment"]
+    },
+
+    "While": {
+      "fields": ["test", "body", "orelse"]
+    },
+
+    "If": {
+      "fields": ["test", "body", "orelse"]
+    },
+
+    "With": {
+      "fields": ["items", "body", "type_comment"]
+    },
+
+    "AsyncWith": {
+      "fields": ["items", "body", "type_comment"]
+    },
+
+    "Match": {
+      "fields": ["subject", "cases"]
+    },
+
+    "Raise": {
+      "fields": ["exc", "cause"]
+    },
+
+    "Try": {
+      "fields": ["body", "handlers", "orelse", "finalbody"]
+    },
+
+    "Assert": {
+      "fields": ["test", "msg"]
+    },
+
+    "Import": {
+      "fields": ["names"]
+    },
+
+    "ImportFrom": {
+      "fields": ["module", "names", "level"]
+    },
+
+    "Global": {
+      "fields": ["names"]
+    },
+
+    "Nonlocal": {
+      "fields": ["names"]
+    },
+
+    "Expr": {
+      "fields": ["value"]
+    },
+
+    "Pass": {},
+    "Break": {},
+    "Continue": {},
+
+    "BoolOp": {
+      "fields": ["op", "values"]
+    },
+
+    "NamedExpr": {
+      "fields": ["target", "value"]
+    },
+
+    "BinOp": {
+      "fields": ["left", "op", "right"]
+    },
+
+    "UnaryOp": {
+      "fields": ["op", "operand"]
+    },
+
+    "Lambda": {
+      "fields": ["args", "body"]
+    },
+
+    "IfExp": {
+      "fields": ["test", "body", "orelse"]
+    },
+
+    "Dict": {
+      "fields": ["keys", "values"]
+    },
+
+    "Set": {
+      "fields": ["elts"]
+    },
+
+    "ListComp": {
+      "fields": ["elt", "generators"]
+    },
+
+    "SetComp": {
+      "fields": ["elt", "generators"]
+    },
+
+    "DictComp": {
+      "fields": ["key", "value", "generators"]
+    },
+
+    "GeneratorExp": {
+      "fields": ["elt", "generators"]
+    },
+
+    "Await": {
+      "fields": ["value"]
+    },
+
+    "Yield": {
+      "fields": ["value"]
+    },
+
+    "YieldFrom": {
+      "fields": ["value"]
+    },
+
+    "Compare": {
+      "fields": ["left", "ops", "comparators"]
+    },
+
+    "Call": {
+      "fields": ["func", "args", "keywords"]
+    },
+
+    "FormattedValue": {
+      "fields": ["value", "conversion", "format_spec"]
+    },
+
+    "JoinedStr": {
+      "fields": ["values"]
+    },
+
+    "Constant": {
+      "fields": ["value", "kind"]
+    },
+
+    "Attribute": {
+      "fields": ["value", "attr", "ctx"]
+    },
+
+    "Subscript": {
+      "fields": ["value", "slice", "ctx"]
+    },
+
+    "Starred": {
+      "fields": ["value", "ctx"]
+    },
+
+    "Name": {
+      "fields": ["id", "ctx"]
+    },
+
+    "List": {
+      "fields": ["elts", "ctx"]
+    },
+
+    "Tuple": {
+      "fields": ["elts", "ctx"]
+    }
+  }
+}
+{
+  "Python_Bytecode_Opcodes": [
+    "POP_TOP",
+    "ROT_TWO",
+    "ROT_THREE",
+    "DUP_TOP",
+    "DUP_TOP_TWO",
+    "NOP",
+
+    "UNARY_POSITIVE",
+    "UNARY_NEGATIVE",
+    "UNARY_NOT",
+    "UNARY_INVERT",
+
+    "BINARY_POWER",
+    "BINARY_MULTIPLY",
+    "BINARY_MATRIX_MULTIPLY",
+    "BINARY_FLOOR_DIVIDE",
+    "BINARY_TRUE_DIVIDE",
+    "BINARY_MODULO",
+    "BINARY_ADD",
+    "BINARY_SUBTRACT",
+
+    "INPLACE_POWER",
+    "INPLACE_MULTIPLY",
+    "INPLACE_MATRIX_MULTIPLY",
+    "INPLACE_FLOOR_DIVIDE",
+    "INPLACE_TRUE_DIVIDE",
+    "INPLACE_MODULO",
+    "INPLACE_ADD",
+    "INPLACE_SUBTRACT",
+
+    "LOAD_FAST",
+    "STORE_FAST",
+    "LOAD_CONST",
+    "LOAD_GLOBAL",
+    "STORE_GLOBAL",
+    "LOAD_NAME",
+    "STORE_NAME",
+    "LOAD_ATTR",
+    "STORE_ATTR",
+    "LOAD_METHOD",
+    "CALL_METHOD",
+    "CALL",
+    "CALL_FUNCTION",
+    "CALL_FUNCTION_KW",
+    "CALL_FUNCTION_EX",
+
+    "RETURN_VALUE",
+
+    "POP_JUMP_IF_TRUE",
+    "POP_JUMP_IF_FALSE",
+    "JUMP_FORWARD",
+    "JUMP_BACKWARD",
+
+    "GET_ITER",
+    "FOR_ITER",
+
+    "BUILD_LIST",
+    "BUILD_TUPLE",
+    "BUILD_SET",
+    "BUILD_MAP",
+    "LIST_APPEND",
+    "SET_ADD",
+    "MAP_ADD",
+
+    "MAKE_FUNCTION",
+    "LOAD_CLOSURE",
+    "BUILD_TUPLE_UNPACK",
+    "BUILD_MAP_UNPACK",
+    "RAISE_VARARGS"
+  ]
+}
+{
+  "Python_Language_Structure": {
+
+    "Expressions": [
+      "literal",
+      "identifier",
+      "attribute",
+      "subscript",
+      "call",
+      "lambda",
+      "comprehension",
+      "yield",
+      "await"
+    ],
+
+    "Statements": [
+      "expression-stmt",
+      "assignment-stmt",
+      "augassign-stmt",
+      "annotated-assign",
+      "if",
+      "for",
+      "while",
+      "try",
+      "with",
+      "match",
+      "function-def",
+      "class-def",
+      "import",
+      "pass",
+      "break",
+      "continue",
+      "return",
+      "raise"
+    ],
+
+    "Operators": [
+      "arithmetic",
+      "logical",
+      "comparison",
+      "bitwise"
+    ]
+  }
+}
+{
+  "Python_Grammar_PEG": {
+
+    "file": [
+      "statements"
+    ],
+
+    "statements": [
+      "statement",
+      "statements statement"
+    ],
+
+    "statement": [
+      "compound_stmt",
+      "simple_stmt"
+    ],
+
+    "simple_stmt": [
+      "small_stmts NEWLINE",
+      "small_stmts ';' NEWLINE"
+    ],
+
+    "small_stmts": [
+      "small_stmt",
+      "small_stmts ';' small_stmt"
+    ],
+
+    "small_stmt": [
+      "expr_stmt",
+      "assign_stmt",
+      "augassign_stmt",
+      "annassign_stmt",
+      "pass_stmt",
+      "del_stmt",
+      "return_stmt",
+      "yield_stmt",
+      "raise_stmt",
+      "assert_stmt",
+      "import_stmt",
+      "global_stmt",
+      "nonlocal_stmt"
+    ],
+
+    "compound_stmt": [
+      "if_stmt",
+      "while_stmt",
+      "for_stmt",
+      "try_stmt",
+      "with_stmt",
+      "funcdef",
+      "classdef",
+      "match_stmt"
+    ],
+
+    "expr_stmt": [
+      "test",
+      "testlist"
+    ],
+
+    "assign_stmt": [
+      "targets '=' test",
+      "targets '=' yield_expr"
+    ],
+
+    "augassign_stmt": [
+      "target augassign op test"
+    ],
+
+    "annassign_stmt": [
+      "target ':' annotation",
+      "target ':' annotation '=' test"
+    ],
+
+    "pass_stmt": [
+      "PASS"
+    ],
+
+    "del_stmt": [
+      "DEL targets"
+    ],
+
+    "return_stmt": [
+      "RETURN",
+      "RETURN testlist"
+    ],
+
+    "yield_stmt": [
+      "yield_expr"
+    ],
+
+    "raise_stmt": [
+      "RAISE",
+      "RAISE test",
+      "RAISE test FROM test"
+    ],
+
+    "assert_stmt": [
+      "ASSERT test",
+      "ASSERT test ',' test"
+    ],
+
+    "import_stmt": [
+      "IMPORT dotted_as_names",
+      "FROM dotted_name IMPORT '*'",
+      "FROM dotted_name IMPORT import_as_names"
+    ],
+
+    "global_stmt": [
+      "GLOBAL names"
+    ],
+
+    "nonlocal_stmt": [
+      "NONLOCAL names"
+    ],
+
+    "if_stmt": [
+      "IF test ':' suite",
+      "IF test ':' suite ELSE ':' suite",
+      "IF test ':' suite elifs",
+      "IF test ':' suite elifs ELSE ':' suite"
+    ],
+
+    "elifs": [
+      "ELIF test ':' suite",
+      "elifs ELIF test ':' suite"
+    ],
+
+    "while_stmt": [
+      "WHILE test ':' suite",
+      "WHILE test ':' suite ELSE ':' suite"
+    ],
+
+    "for_stmt": [
+      "FOR targets IN testlist ':' suite",
+      "FOR targets IN testlist ':' suite ELSE ':' suite"
+    ],
+
+    "try_stmt": [
+      "TRY ':' suite excepts",
+      "TRY ':' suite excepts ELSE ':' suite",
+      "TRY ':' suite excepts FINALLY ':' suite",
+      "TRY ':' suite FINALLY ':' suite"
+    ],
+
+    "excepts": [
+      "EXCEPT suite",
+      "EXCEPT test suite",
+      "EXCEPT test AS NAME suite",
+      "excepts EXCEPT suite"
+    ],
+
+    "with_stmt": [
+      "WITH with_items ':' suite"
+    ],
+
+    "with_items": [
+      "with_item",
+      "with_items ',' with_item"
+    ],
+
+    "with_item": [
+      "test",
+      "test AS target"
+    ],
+
+    "funcdef": [
+      "DEF NAME parameters ':' suite",
+      "ASYNC DEF NAME parameters ':' suite"
+    ],
+
+    "classdef": [
+      "CLASS NAME ':' suite",
+      "CLASS NAME '(' arguments? ')' ':' suite"
+    ],
+
+    "match_stmt": [
+      "MATCH test ':' NEWLINE INDENT cases DEDENT"
+    ],
+
+    "suite": [
+      "simple_stmt",
+      "NEWLINE INDENT statements DEDENT"
+    ],
+
+    "test": [
+      "or_test",
+      "or_test IF or_test ELSE test",
+      "lambdef"
+    ],
+
+    "or_test": [
+      "and_test",
+      "or_test OR and_test"
+    ],
+
+    "and_test": [
+      "not_test",
+      "and_test AND not_test"
+    ],
+
+    "not_test": [
+      "NOT not_test",
+      "comparison"
+    ],
+
+    "comparison": [
+      "expr",
+      "expr comp_op expr"
+    ],
+
+    "expr": [
+      "xor_expr",
+      "expr '|' xor_expr"
+    ],
+
+    "xor_expr": [
+      "and_expr",
+      "xor_expr '^' and_expr"
+    ],
+
+    "and_expr": [
+      "shift_expr",
+      "and_expr '&' shift_expr"
+    ],
+
+    "shift_expr": [
+      "arith_expr",
+      "shift_expr LEFTSHIFT arith_expr",
+      "shift_expr RIGHTSHIFT arith_expr"
+    ],
+
+    "arith_expr": [
+      "term",
+      "arith_expr '+' term",
+      "arith_expr '-' term"
+    ],
+
+    "term": [
+      "factor",
+      "term '*' factor",
+      "term '/' factor",
+      "term '%' factor",
+      "term '//' factor"
+    ],
+
+    "factor": [
+      "'+' factor",
+      "'-' factor",
+      "'~' factor",
+      "power"
+    ],
+
+    "power": [
+      "atom_expr",
+      "atom_expr '**' factor"
+    ],
+
+    "atom_expr": [
+      "atom",
+      "atom trailers"
+    ],
+
+    "trailers": [
+      "trailer",
+      "trailers trailer"
+    ],
+
+    "trailer": [
+      "'(' arguments? ')'",
+      "'[' subscriptlist ']'",
+      "'.' NAME"
+    ],
+
+    "atom": [
+      "NAME",
+      "NUMBER",
+      "STRING+",
+      "ELLIPSIS",
+      "NONE",
+      "TRUE",
+      "FALSE",
+      "'(' testlist? ')'",
+      "'[' listmaker? ']'",
+      "'{' dictmaker? '}'"
+    ]
+  }
+}
+{
+  "Python_Runtime_Model": {
+
+    "Memory_Model": {
+      "Managed_by": [
+        "CPython Memory Manager",
+        "Python Object Allocator (obmalloc)",
+        "GC (Generational Garbage Collector)"
+      ],
+      "Regions": [
+        "Code Objects",
+        "Stack Frames",
+        "Heap Objects",
+        "Interned Strings",
+        "Free Lists",
+        "Small Object Pools"
+      ]
+    },
+
+    "Reference_Counting": {
+      "Description": "每個 Python 物件都擁有一個 refcount，表示有多少名稱/變數/其他物件指向它。",
+      "Inc_Triggers": [
+        "變數賦值 x = obj",
+        "加入到 list/dict/set",
+        "傳入函式參數",
+        "儲存為屬性"
+      ],
+      "Dec_Triggers": [
+        "變數離開作用域",
+        "移除 list/dict 中的引用",
+        "覆蓋舊變數",
+        "物件被刪除 del obj"
+      ],
+      "Free_Condition": "refcount == 0 → 物件將被立即釋放"
+    },
+
+    "Garbage_Collector": {
+      "Generations": [
+        "Gen 0 (最頻繁收集)",
+        "Gen 1",
+        "Gen 2 (最少收集)"
+      ],
+      "Collects": [
+        "Reference cycles (循環引用)",
+        "複雜容器之間的交互"
+      ],
+      "Non_Collected": [
+        "具有 __del__ 方法的物件（可能 leaked）"
+      ]
+    },
+
+    "Python_Object_Model": {
+      "All_Objects_Share": [
+        "ob_refcnt (引用計數)",
+        "ob_type (型別指標)",
+        "Memory block allocated by obmalloc"
+      ],
+      "Most_Common_Types": [
+        "PyLongObject",
+        "PyFloatObject",
+        "PyListObject",
+        "PyDictObject",
+        "PyUnicodeObject",
+        "PyTupleObject",
+        "PyFunctionObject",
+        "PyCodeObject",
+        "PyFrameObject"
+      ]
+    },
+
+    "Frame_Model": {
+      "Description": "每次 Python 呼叫函式，都建立一個 PyFrameObject。",
+      "Frame_Contains": [
+        "f_locals (區域變數表)",
+        "f_globals (模組全域變數)",
+        "f_builtins (內建名稱)",
+        "f_code (這次執行的 code object)",
+        "f_stack (operand stack)",
+        "f_back (前一個 frame)",
+        "f_lineno (目前行號)"
+      ],
+      "Lifecycle": [
+        "函式呼叫 → 建立 frame",
+        "frame 被推入 call stack",
+        "執行 bytecode",
+        "return → frame 彈出並銷毀"
+      ]
+    },
+
+    "Operand_Stack_Model": {
+      "Description": "Python bytecode VM 是一個 stack machine。",
+      "Operations": [
+        "LOAD_* 指令會 push 到 stack",
+        "BINARY_* 指令會 pop 2 operands → push result",
+        "STORE_* 指令 pop stack top → 放入 locals/globals"
+      ]
+    },
+
+    "Python_Virtual_Machine": {
+      "Core_Components": [
+        "Instruction Fetcher",
+        "Decoder",
+        "Operand Stack",
+        "Execution Loop",
+        "Frame Stack",
+        "Exception Handler",
+        "Garbage Collector"
+      ],
+      "Execution_Loop": [
+        "1. 取指令 (fetch)",
+        "2. 解析操作碼 (decode)",
+        "3. 執行對應 opcode",
+        "4. 操作 operand stack",
+        "5. 更新 frame / program counter",
+        "6. 遇到 RETURN_VALUE → 結束 frame"
+      ],
+      "Characteristics": [
+        "Stack-Based VM",
+        "Bytecode Interpreter",
+        "Optimized via adaptive instructions (3.11+)"
+      ]
+    },
+
+    "Bytecode_Execution_Cycle": {
+      "Steps": [
+        "從 frame.f_code.co_code 取得操作碼",
+        "更新程式計數器 f_lasti",
+        "根據操作碼執行不同邏輯",
+        "操作堆疊（push/pop）",
+        "必要時讀寫 locals、globals",
+        "遇到 CALL_FUNCTION → 建立新 frame",
+        "遇到 RETURN_VALUE → frame 銷毀"
+      ]
+    },
+
+    "Exception_Model": {
+      "Exception_Propagation": [
+        "1. 發生例外",
+        "2. 搜尋 try-except 區塊",
+        "3. 向上回溯堆疊（frame → frame）",
+        "4. 若無 except → 程式終止"
+      ],
+      "Stored_In_Frame": [
+        "f_exc_type",
+        "f_exc_value",
+        "f_exc_traceback"
+      ]
+    },
+
+    "Import_System": {
+      "Import_Steps": [
+        "1. 檢查 sys.modules 快取",
+        "2. 呼叫 finder 尋找模組",
+        "3. loader 載入 source/bytecode",
+        "4. 建立新 module 物件",
+        "5. 執行 module code",
+        "6. 放入 sys.modules"
+      ],
+      "File_Types": [
+        ".py (source)",
+        ".pyc (compiled bytecode)",
+        "C 扩展模块 (.so / .pyd)"
+      ]
+    },
+
+    "Code_Object_Structure": {
+      "Fields": [
+        "co_argcount",
+        "co_posonlyargcount",
+        "co_kwonlyargcount",
+        "co_nlocals",
+        "co_stacksize",
+        "co_flags",
+        "co_code (bytecode)",
+        "co_consts",
+        "co_names",
+        "co_varnames",
+        "co_freevars",
+        "co_cellvars",
+        "co_filename",
+        "co_name",
+        "co_firstlineno",
+        "co_lnotab"
+      ]
+    }
+  }
+}
+{
+  "CPython_C_API": {
+
+    "PyObject": {
+      "Description": "所有 Python 物件的共同基底結構。",
+      "Fields": [
+        "ob_refcnt  (引用計數)",
+        "ob_type    (指向 PyTypeObject)"
+      ],
+      "Notes": [
+        "每個 Python 值都是 PyObject",
+        "包含原生類型、class、function、module、frame 等"
+      ]
+    },
+
+    "PyVarObject": {
+      "Description": "可變長度物件（list/tuple/bytes 等）會繼承 PyVarObject。",
+      "Fields": [
+        "ob_base    (PyObject)",
+        "ob_size    (元素或位元數量)"
+      ]
+    },
+
+    "PyTypeObject": {
+      "Description": "Python 類別在底層是 C 結構 PyTypeObject。",
+      "Key_Fields": [
+        "tp_name          (類型名稱)",
+        "tp_basicsize     (物件大小)",
+        "tp_itemsize      (元素大小，用於變長物件)",
+        "tp_dealloc       (解構器)",
+        "tp_repr          (__repr__)",
+        "tp_str           (__str__)",
+        "tp_call          (__call__)",
+        "tp_init          (__init__)",
+        "tp_new           (__new__)",
+        "tp_getattro      (__getattr__/__getattribute__)",
+        "tp_setattro      (__setattr__)",
+        "tp_hash          (__hash__)",
+        "tp_richcompare   (比較運算)",
+        "tp_iter          (__iter__)",
+        "tp_iternext      (__next__)",
+        "tp_methods       (方法表)",
+        "tp_members       (屬性表)",
+        "tp_base          (基底類別)",
+        "tp_mro           (Method resolution order)"
+      ],
+      "Notes": [
+        "使用 C 結構指定行為，所有方法都是 type slots。",
+        "Python class 最後也會轉為 PyTypeObject。"
+      ]
+    },
+
+    "Reference_Counting": {
+      "Functions": [
+        "Py_INCREF(obj)",
+        "Py_DECREF(obj)",
+        "Py_XINCREF(obj)",
+        "Py_XDECREF(obj)"
+      ],
+      "Notes": [
+        "Py_DECREF(obj) 在 refcount == 0 時會呼叫 tp_dealloc。"
+      ]
+    },
+
+    "Garbage_Collector": {
+      "GC_Header": [
+        "gc_next",
+        "gc_prev",
+        "gc_refs"
+      ],
+      "Generations": [
+        "0: young objects",
+        "1: medium age",
+        "2: old generation"
+      ],
+      "Collected": [
+        "list",
+        "dict",
+        "set",
+        "tuple",
+        "class instances"
+      ]
+    },
+
+    "C_Level_Descriptors": {
+      "Description": "底層的 method binding 模型。",
+      "Types": [
+        "PyFunctionObject",
+        "PyMethodObject",
+        "PyCFunctionObject"
+      ],
+      "Binding_Rules": [
+        "function 變成 method: 透過 PyMethod_New(self, function)",
+        "classmethod: 利用 PyMethod_Type 與 type object 建立",
+        "staticmethod: 沒有 self，不經過 PyMethod_New"
+      ]
+    },
+
+    "PyFunctionObject": {
+      "Fields": [
+        "func_code      (PyCodeObject)",
+        "func_defaults  (預設參數值)",
+        "func_globals   (全域變數字典)",
+        "func_closure   (閉包變數)",
+        "func_doc       (__doc__)"
+      ]
+    },
+
+    "PyCodeObject": {
+      "Description": "編譯後的 Python 程式碼，是 bytecode 的容器。",
+      "Fields": [
+        "co_code       (bytecode)",
+        "co_consts     (常數表)",
+        "co_names      (名稱表)",
+        "co_varnames   (區域變數名稱)",
+        "co_cellvars   (閉包 cell 變數)",
+        "co_freevars   (free variables)",
+        "co_stacksize  (需要的堆疊深度)",
+        "co_flags      (function flags)"
+      ]
+    },
+
+    "PyFrameObject": {
+      "Fields": [
+        "f_back        (前一個 frame)",
+        "f_code        (PyCodeObject)",
+        "f_locals      (local 變數)",
+        "f_globals     (global 變數)",
+        "f_builtins    (內建變數)",
+        "f_valuestack  (operand stack)",
+        "f_lasti       (最後執行 bytecode 位置)"
+      ],
+      "Notes": [
+        "每次函式呼叫都建立 frame",
+        "frame 是 Python 呼叫堆疊的單位"
+      ]
+    },
+
+    "PVM_Eval_Loop": {
+      "EvalOrder": [
+        "1. 從 co_code 取得 bytecode",
+        "2. 根據 opcode 執行不同邏輯",
+        "3. 操作 operand stack",
+        "4. 操作 locals/globals",
+        "5. 呼叫 C Python API 與 type slots",
+        "6. 更新 f_lasti",
+        "7. 若 RETURN_VALUE → 回傳並銷毀 frame"
+      ],
+      "Adaptive_Optimization": [
+        "LOAD_GLOBAL → LOAD_GLOBAL_ADAPTIVE",
+        "BINARY_ADD → BINARY_OP_ADAPTIVE",
+        "CALL → CALL_ADAPTIVE"
+      ]
+    },
+
+    "Module_Loading": {
+      "Steps": [
+        "1. 檢查 sys.modules",
+        "2. 呼叫 finder",
+        "3. loader 載入模組",
+        "4. 建立 module 物件 (PyModuleObject)",
+        "5. 執行 module 的 PyCodeObject",
+        "6. 將 module cache 到 sys.modules"
+      ],
+      "Finders": [
+        "PathFinder",
+        "BuiltinsFinder",
+        "FrozenImporter"
+      ],
+      "Loaders": [
+        "SourceFileLoader",
+        "SourcelessFileLoader",
+        "ExtensionFileLoader"
+      ]
+    },
+
+    "PyInterpreterState": {
+      "Fields": [
+        "modules",
+        "sysdict",
+        "builtins",
+        "gc",
+        "thread states"
+      ]
+    },
+
+    "PyThreadState": {
+      "Fields": [
+        "frame",
+        "recursion_depth",
+        "async_exc",
+        "thread_id"
+      ]
+    }
+  }
+}
+{
+  "Python_Mega_JSON": {
+
+    "Language_Model": {
+      "Scope_LEGB": ["Local", "Enclosing", "Global", "Built-in"],
+      "Function_Call_Model": {
+        "Steps": [
+          "建立 frame",
+          "初始化參數區域命名空間",
+          "執行函式主體",
+          "return 銷毀 frame"
+        ]
+      },
+      "Class_Model": {
+        "Creation": ["收集 class body", "建立 namespace", "執行 class", "產生 PyTypeObject"],
+        "MRO": "C3 Linearization"
+      },
+      "Descriptor_Model": {
+        "Methods": ["__get__", "__set__", "__delete__"],
+        "Types": ["Data Descriptor", "Non-Data Descriptor"]
+      },
+      "Coroutine_Model": {
+        "Keywords": ["async", "await"],
+        "Methods": ["__await__", "__anext__", "__aenter__", "__aexit__"]
+      }
+    },
+
+    "Typing_System": {
+      "Builtins": ["int", "float", "str", "bool", "list", "dict"],
+      "Special_Types": ["Any", "Union", "Optional", "Literal", "NoReturn"],
+      "Generic_Types": ["TypeVar", "Generic[T]", "Iterable[T]", "Mapping[K,V]"],
+      "Protocols": ["Protocol", "@runtime_checkable"],
+      "TypedDict": ["TypedDict", "Required", "NotRequired"]
+    },
+
+    "StdLib_Core": {
+      "sys": {
+        "attributes": ["version", "path", "modules", "stdin", "stdout"],
+        "functions": ["exit", "getsizeof"]
+      },
+      "os": {
+        "functions": ["listdir", "mkdir", "remove", "rename"],
+        "path": ["join", "exists", "isfile", "isdir"]
+      },
+      "math": {
+        "constants": ["pi", "e", "tau"],
+        "functions": ["ceil", "floor", "sin", "cos", "tan"]
+      },
+      "json": {
+        "functions": ["load", "loads", "dump", "dumps"]
+      }
+    },
+
+    "AST_Nodes": {
+      "Module": ["body", "type_ignores"],
+      "FunctionDef": ["name", "args", "body", "decorators"],
+      "ClassDef": ["name", "bases", "body"],
+      "Assign": ["targets", "value"],
+      "Call": ["func", "args"],
+      "Return": ["value"],
+      "Name": ["id", "ctx"],
+      "Constant": ["value"]
+    },
+
+    "Bytecode_Opcodes": [
+      "POP_TOP",
+      "DUP_TOP",
+      "LOAD_CONST",
+      "LOAD_FAST",
+      "STORE_FAST",
+      "LOAD_GLOBAL",
+      "CALL",
+      "RETURN_VALUE",
+      "BINARY_ADD",
+      "BINARY_SUBTRACT",
+      "JUMP_FORWARD",
+      "POP_JUMP_IF_FALSE"
+    ],
+
+    "Python_Grammar_PEG": {
+      "file": ["statements"],
+      "statement": ["compound_stmt", "simple_stmt"],
+      "compound_stmt": ["if_stmt", "while_stmt", "for_stmt", "try_stmt"],
+      "simple_stmt": ["expr_stmt", "assign_stmt"],
+      "expr": ["atom_expr", "arith_expr"],
+      "atom": ["NAME", "NUMBER", "STRING", "( expr )"]
+    },
+
+    "Runtime_Model": {
+      "Memory": {
+        "Managed_By": ["CPython Memory Manager", "obmalloc", "GC"],
+        "Regions": ["Heap", "Stack", "Code Objects", "Interned Strings"]
+      },
+      "RefCounting": {
+        "Increase": ["賦值", "傳參數"],
+        "Decrease": ["離開作用域", "del"]
+      },
+      "GC": {
+        "Generations": ["0", "1", "2"],
+        "Collects": ["Cycle references"]
+      },
+      "Frame": {
+        "Fields": ["f_back", "f_code", "f_locals", "f_globals", "f_stack"],
+        "Lifecycle": ["建立", "執行", "回傳", "銷毀"]
+      },
+      "PVM": {
+        "Components": ["Frame Stack", "Operand Stack", "Eval Loop"],
+        "Execution_Cycle": [
+          "Fetch opcode",
+          "Decode opcode",
+          "Execute handler",
+          "操作 operand stack",
+          "遇 RETURN_VALUE → 結束 frame"
+        ]
+      }
+    },
+
+    "C_API": {
+      "PyObject": {
+        "Fields": ["ob_refcnt", "ob_type"]
+      },
+      "PyVarObject": {
+        "Fields": ["ob_size"]
+      },
+      "PyTypeObject": {
+        "Fields": [
+          "tp_name",
+          "tp_basicsize",
+          "tp_dealloc",
+          "tp_call",
+          "tp_repr",
+          "tp_str",
+          "tp_getattro",
+          "tp_setattro"
+        ]
+      },
+      "PyFunctionObject": {
+        "Fields": ["func_code", "func_globals", "func_defaults"]
+      },
+      "PyCodeObject": {
+        "Fields": ["co_code", "co_consts", "co_varnames", "co_names"]
+      }
+    }
+  }
+}

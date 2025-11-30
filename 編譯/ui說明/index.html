@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GPU Database 2 — 官方文檔</title>
+
+<style>
+/* === 基本字體 === */
+body {
+    margin: 0;
+    font-family: "Segoe UI", "Noto Sans TC", "Helvetica", "Arial", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    transition: background .3s, color .3s;
+}
+
+/* === 自動主題 === */
+@media (prefers-color-scheme: light) {
+    :root {
+        --bg: #ffffff;
+        --text: #222;
+        --nav-bg: #f7f7f7;
+        --nav-border: #ddd;
+        --nav-hover: rgba(0,0,0,0.06);
+        --code-bg: #f0f0f0;
+    }
+}
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #1a1a1a;
+        --text: #ddd;
+        --nav-bg: #111;
+        --nav-border: #333;
+        --nav-hover: rgba(255,255,255,0.1);
+        --code-bg: #000;
+    }
+}
+
+/* === 標題欄 === */
+header {
+    padding: 16px 20px;
+    background: #4a6cf7;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* === 主體 === */
+#main {
+    display: flex;
+    height: calc(100vh - 60px);
+}
+
+/* === 側邊欄 === */
+nav {
+    width: 260px;
+    background: var(--nav-bg);
+    border-right: 1px solid var(--nav-border);
+    padding: 15px;
+    overflow-y: auto;
+}
+
+nav h3 {
+    opacity: 0.6;
+    margin-top: 20px;
+    margin-bottom: 6px;
+    font-size: 14px;
+}
+
+nav a {
+    display: block;
+    padding: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration: none;
+    color: var(--text);
+}
+
+nav a:hover {
+    background: var(--nav-hover);
+}
+
+/* === 內容區 === */
+#content {
+    flex: 1;
+    padding: 22px;
+    overflow-y: auto;
+}
+
+/* === Code 區塊 === */
+pre {
+    background: var(--code-bg);
+    padding: 12px;
+    border-radius: 6px;
+    overflow-x: auto;
+    white-space: pre-wrap;
+}
+</style>
+
+</head>
+<body>
+
+<header>GPU Database 2 — 官方文檔</header>
+
+<div id="main">
+
+<!-- ===================== 側邊導航 ===================== -->
+<nav>
+    <h3>文檔目錄</h3>
+    <a onclick="load('readme')">📘 README</a>
+    <a onclick="load('install')">⚙️ 安裝指南</a>
+    <a onclick="load('edit')">✏️ 語法庫編輯指南</a>
+    <a onclick="load('build')">🛠 編譯 / 建構指南</a>
+    <a onclick="load('structure')">📁 專案結構</a>
+    <a onclick="load('contrib')">🤝 貢獻指南</a>
+    <a onclick="load('roadmap')">🚀 開發路線圖</a>
+</nav>
+
+<!-- ===================== 主內容 ===================== -->
+<div id="content">
+    <h2>歡迎來到 GPU Database 2 官方文檔</h2>
+    <p>請從左側選擇一個章節開始閱讀。</p>
+</div>
+
+</div>
+
+<script>
+/* =================== 內嵌文檔內容 =================== */
+
+const PAGES = {
+
+"readme": `
+<h2>📘 README</h2>
+<p><b>GPU Database 2</b> 是一個超大型、跨語言、跨硬體的語法與硬體資料庫。</p>
+
+<p>由 <b>leo2776</b> 開發，支援：</p>
+<ul>
+<li>GPU 型號資料庫</li>
+<li>CPU 型號資料庫</li>
+<li>HTML 語法庫</li>
+<li>CSS 語法庫</li>
+<li>JavaScript 語法庫</li>
+<li>Python 語法庫</li>
+<li>C / C++ 語法庫</li>
+<li>未來更多語言</li>
+</ul>
+
+<p>資料格式皆為 JSON，易於整合到：</p>
+<ul>
+<li>AI 模型</li>
+<li>編譯器</li>
+<li>語法分析器</li>
+<li>機器學習前端</li>
+<li>IDE 自動補全系統</li>
+<li>教育用途</li>
+</ul>
+
+<p>本文件提供完整的使用、擴充與建構指南。</p>
+`,
+
+"install": `
+<h2>⚙️ 安裝指南</h2>
+<p>以下內容說明如何安裝、準備環境、以及如何下載專案。</p>
+
+<h3>📌 1. 系統需求</h3>
+<ul>
+<li>Windows / Linux / macOS</li>
+<li>Git（推薦）</li>
+<li>任意可讀取 JSON 的語言（Python / Node / C++…）</li>
+</ul>
+
+<h3>📌 2. 下載專案</h3>
+<pre>git clone https://github.com/leo2776/gpu-database-2-
+cd gpu-database-2-
+</pre>
+
+<h3>📌 3. 如何在程式中載入 JSON？</h3>
+
+Python：
+<pre>
+import json
+data = json.load(open("json/cpu.json"))
+</pre>
+
+Node.js：
+<pre>
+const gpu = require("./json/gpu.json");
+</pre>
+
+C++（nlohmann/json）：
+<pre>
+#include <nlohmann/json.hpp>
+auto cpu = json::parse(std::ifstream("json/cpu.json"));
+</pre>
+`,
+
+"edit": `
+<h2>✏️ 語法庫編輯指南</h2>
+<p>本專案所有資料皆為 JSON，你可以直接編輯。</p>
+
+<h3>📁 JSON 放置位置</h3>
+<pre>
+/json/
+    cpu.json
+    gpu.json
+    html.json
+    css.json
+    js.json
+    py.json
+    ccpp.json
+</pre>
+
+<h3>📌 JSON 格式要求</h3>
+<ul>
+<li>UTF-8 編碼</li>
+<li>鍵（key）必須使用雙引號</li>
+<li>最後一個元素後面不能加逗號</li>
+</ul>
+
+<h3>📌 新增語言語法庫範例</h3>
+<pre>
+{
+  "Keywords": ["fn", "let", "mut"],
+  "Types": ["i32", "f32"],
+  "Operators": ["+", "-", "*"]
+}
+</pre>
+`,
+
+"build": `
+<h2>🛠 編譯 / 建構指南</h2>
+<p>如果你想讓資料庫變成 DLL / SO / EXE，可參考以下架構。</p>
+
+<h3>📁 必要資料夾（可選）</h3>
+<pre>
+/src/
+/include/
+CMakeLists.txt
+</pre>
+
+<h3>📌 CMake 範本</h3>
+<pre>
+cmake_minimum_required(VERSION 3.10)
+project(langdb)
+set(CMAKE_CXX_STANDARD 17)
+
+add_library(langdb SHARED
+    src/loader.cpp
+    src/lang.cpp
+)
+
+find_package(nlohmann_json REQUIRED)
+target_link_libraries(langdb PRIVATE nlohmann_json::nlohmann_json)
+</pre>
+`,
+
+"structure": `
+<h2>📁 專案結構</h2>
+
+<pre>
+gpu-database-2-/
+│
+├── json/             ← 所有語法庫 / 硬體資料庫
+│
+├── docs/             ← 官方文檔（就是這個 HTML）
+│
+├── README.md         ← GitHub 主頁內容
+│
+└── （可選 src/include）用於 DLL / 工具
+</pre>
+
+`,
+
+"contrib": `
+<h2>🤝 貢獻指南</h2>
+<p>歡迎任何人提交 Pull Request。</p>
+
+<h3>📌 貢獻方式</h3>
+<ol>
+<li>Fork 專案</li>
+<li>新增或修正 JSON</li>
+<li>確認格式正確（使用 jsonlint）</li>
+<li>提交 Pull Request</li>
+</ol>
+
+<h3>📌 命名規範</h3>
+<ul>
+<li>JSON 檔名全部小寫，如：rust.json</li>
+<li>分類名稱使用大寫開頭，如：Keywords</li>
+</ul>
+`,
+
+"roadmap": `
+<h2>🚀 開發路線圖</h2>
+
+<h3>✔ 已完成</h3>
+<ul>
+<li>CPU / GPU 資料庫</li>
+<li>HTML / CSS / JS / Python 語法庫</li>
+<li>C / C++ 語法庫</li>
+<li>官方文檔網站（就是這個）</li>
+</ul>
+
+<h3>📌 計畫中</h3>
+<ul>
+<li>Rust 語法庫</li>
+<li>Java 語法庫</li>
+<li>AI 解析標準化語法資料</li>
+<li>JSON 自動驗證器</li>
+</ul>
+
+<h3>🚧 未來可能</h3>
+<ul>
+<li>Web 前端可視化語法庫</li>
+<li>語言引擎解析器</li>
+<li>語法 AI 自動生成器</li>
+</ul>
+`
+};
+
+/* ========== 切換內容 ========== */
+function load(name) {
+    document.getElementById("content").innerHTML = PAGES[name];
+}
+</script>
+
+</body>
+</html>

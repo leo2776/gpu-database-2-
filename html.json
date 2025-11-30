@@ -1,0 +1,4237 @@
+{
+  "HTML_Tags_Basic_Structure": [
+    "html",
+    "head",
+    "body",
+    "title",
+    "meta",
+    "link",
+    "style",
+    "script",
+    "noscript",
+    "base"
+  ],
+
+  "HTML_Tags_Sections": [
+    "header",
+    "footer",
+    "nav",
+    "main",
+    "section",
+    "article",
+    "aside",
+    "hgroup",
+    "address"
+  ],
+
+  "HTML_Tags_Text": [
+    "p",
+    "h1",
+    "h2",
+    "h3",
+    "h4",
+    "h5",
+    "h6",
+    "span",
+    "strong",
+    "em",
+    "mark",
+    "small",
+    "del",
+    "ins",
+    "sub",
+    "sup",
+    "abbr",
+    "blockquote",
+    "cite",
+    "q",
+    "pre",
+    "code",
+    "kbd",
+    "samp",
+    "var",
+    "time",
+    "br",
+    "wbr",
+    "hr"
+  ],
+
+  "HTML_Tags_Grouping": [
+    "div",
+    "span",
+    "figure",
+    "figcaption",
+    "details",
+    "summary",
+    "dialog"
+  ],
+
+  "HTML_Tags_Lists": [
+    "ul",
+    "ol",
+    "li",
+    "dl",
+    "dt",
+    "dd",
+    "menu"
+  ]
+}
+{
+  "HTML_Tags_Forms": [
+    "form",
+    "input",
+    "button",
+    "label",
+    "textarea",
+    "select",
+    "option",
+    "optgroup",
+    "fieldset",
+    "legend",
+    "datalist",
+    "output",
+    "progress",
+    "meter"
+  ],
+
+  "HTML_Input_Types": [
+    "button",
+    "checkbox",
+    "color",
+    "date",
+    "datetime-local",
+    "email",
+    "file",
+    "hidden",
+    "image",
+    "month",
+    "number",
+    "password",
+    "radio",
+    "range",
+    "reset",
+    "search",
+    "submit",
+    "tel",
+    "text",
+    "time",
+    "url",
+    "week",
+
+    /* HTML5 擴充型別 */
+    "datetime",
+    "local-date",
+    "local-time",
+    "local-datetime",
+
+    /* 實驗 & 部分瀏覽器支持 */
+    "barcode",
+    "currency",
+    "float",
+    "integer",
+    "otp",
+    "one-time-code",
+    "list"
+  ],
+
+  "HTML_Tags_Media": [
+    "img",
+    "picture",
+    "source",
+    "audio",
+    "video",
+    "track",
+    "map",
+    "area",
+    "embed",
+    "object",
+    "param",
+    "iframe",
+    "canvas",
+    "svg"
+  ],
+
+  "HTML_Tags_Tables": [
+    "table",
+    "caption",
+    "thead",
+    "tbody",
+    "tfoot",
+    "tr",
+    "td",
+    "th",
+    "col",
+    "colgroup"
+  ],
+
+  "HTML_Tags_Interactive": [
+    "details",
+    "summary",
+    "dialog",
+    "menu",
+    "menuitem",
+    "slot",
+    "template"
+  ],
+
+  "HTML_Tags_Embedded": [
+    "iframe",
+    "embed",
+    "object",
+    "param"
+  ]
+}
+{
+  "HTML_Global_Attributes": [
+    "id",
+    "class",
+    "style",
+    "title",
+    "lang",
+    "dir",
+    "hidden",
+    "tabindex",
+    "accesskey",
+    "contenteditable",
+    "draggable",
+    "spellcheck",
+    "translate",
+    "data-*",
+    "role",
+    "is",
+    "part",
+    "slot"
+  ],
+
+  "HTML_Aria_Attributes": [
+    "aria-activedescendant",
+    "aria-atomic",
+    "aria-autocomplete",
+    "aria-busy",
+    "aria-checked",
+    "aria-colcount",
+    "aria-colindex",
+    "aria-colspan",
+    "aria-controls",
+    "aria-current",
+    "aria-describedby",
+    "aria-details",
+    "aria-disabled",
+    "aria-dropeffect",
+    "aria-errormessage",
+    "aria-expanded",
+    "aria-flowto",
+    "aria-grabbed",
+    "aria-haspopup",
+    "aria-hidden",
+    "aria-invalid",
+    "aria-keyshortcuts",
+    "aria-label",
+    "aria-labelledby",
+    "aria-level",
+    "aria-live",
+    "aria-modal",
+    "aria-multiline",
+    "aria-multiselectable",
+    "aria-orientation",
+    "aria-owns",
+    "aria-placeholder",
+    "aria-posinset",
+    "aria-pressed",
+    "aria-readonly",
+    "aria-relevant",
+    "aria-required",
+    "aria-roledescription",
+    "aria-rowcount",
+    "aria-rowindex",
+    "aria-rowspan",
+    "aria-selected",
+    "aria-setsize",
+    "aria-sort",
+    "aria-valuemax",
+    "aria-valuemin",
+    "aria-valuenow",
+    "aria-valuetext"
+  ],
+
+  "HTML_Form_Attributes": [
+    "name",
+    "value",
+    "disabled",
+    "readonly",
+    "required",
+    "placeholder",
+    "autocomplete",
+    "autofocus",
+    "min",
+    "max",
+    "step",
+    "pattern",
+    "form",
+    "formaction",
+    "formenctype",
+    "formmethod",
+    "formnovalidate",
+    "formtarget",
+    "multiple",
+    "checked",
+    "selected",
+    "size",
+    "maxlength",
+    "minlength",
+    "list",
+    "accept",
+    "capture",
+    "inputmode"
+  ],
+
+  "HTML_Input_Types_Properties": [
+    "type",
+    "accept",
+    "alt",
+    "autocomplete",
+    "autofocus",
+    "checked",
+    "dirname",
+    "disabled",
+    "formaction",
+    "formenctype",
+    "formmethod",
+    "formnovalidate",
+    "formtarget",
+    "height",
+    "width",
+    "list",
+    "max",
+    "maxlength",
+    "min",
+    "minlength",
+    "multiple",
+    "name",
+    "pattern",
+    "placeholder",
+    "readonly",
+    "required",
+    "size",
+    "src",
+    "step",
+    "value"
+  ],
+
+  "HTML_Button_Attributes": [
+    "type",
+    "disabled",
+    "autofocus",
+    "form",
+    "formaction",
+    "formenctype",
+    "formmethod",
+    "formnovalidate",
+    "formtarget",
+    "name",
+    "value"
+  ],
+
+  "HTML_Select_Attributes": [
+    "name",
+    "multiple",
+    "required",
+    "size",
+    "disabled",
+    "autofocus"
+  ],
+
+  "HTML_Textarea_Attributes": [
+    "rows",
+    "cols",
+    "wrap",
+    "maxlength",
+    "minlength",
+    "placeholder",
+    "readonly",
+    "required",
+    "disabled"
+  ],
+
+  "HTML_Image_Attributes": [
+    "src",
+    "srcset",
+    "sizes",
+    "alt",
+    "width",
+    "height",
+    "loading",
+    "decoding",
+    "referrerpolicy",
+    "crossorigin",
+    "usemap",
+    "ismap"
+  ],
+
+  "HTML_Video_Attributes": [
+    "src",
+    "poster",
+    "autoplay",
+    "controls",
+    "muted",
+    "loop",
+    "preload",
+    "width",
+    "height",
+    "playsinline",
+    "crossorigin"
+  ],
+
+  "HTML_Audio_Attributes": [
+    "src",
+    "autoplay",
+    "controls",
+    "loop",
+    "muted",
+    "preload"
+  ],
+
+  "HTML_Source_Attributes": [
+    "src",
+    "type",
+    "media",
+    "sizes",
+    "srcset"
+  ],
+
+  "HTML_Iframe_Attributes": [
+    "src",
+    "srcdoc",
+    "name",
+    "width",
+    "height",
+    "allow",
+    "allowfullscreen",
+    "referrerpolicy",
+    "loading",
+    "sandbox"
+  ],
+
+  "HTML_Embed_Object_Attributes": [
+    "src",
+    "type",
+    "width",
+    "height",
+    "data",
+    "codebase",
+    "classid"
+  ],
+
+  "HTML_Table_Attributes": [
+    "border",
+    "cellpadding",
+    "cellspacing",
+    "summary",
+    "width",
+    "align",
+    "bgcolor",
+    "span",
+    "headers"
+  ],
+
+  "HTML_Details_Dialog_Attributes": [
+    "open",
+    "method:dialog"
+  ]
+}
+{
+  "HTML_Events_Mouse": [
+    "onclick",
+    "ondblclick",
+    "onmousedown",
+    "onmouseup",
+    "onmousemove",
+    "onmouseenter",
+    "onmouseleave",
+    "onmouseover",
+    "onmouseout",
+    "oncontextmenu",
+    "ondrag",
+    "ondragstart",
+    "ondragend",
+    "ondragenter",
+    "ondragleave",
+    "ondragover",
+    "ondrop",
+    "onwheel"
+  ],
+
+  "HTML_Events_Keyboard": [
+    "onkeydown",
+    "onkeyup",
+    "onkeypress"
+  ],
+
+  "HTML_Events_Form": [
+    "oninput",
+    "onchange",
+    "onsubmit",
+    "onreset",
+    "oninvalid",
+    "onselect"
+  ],
+
+  "HTML_Events_Focus": [
+    "onfocus",
+    "onblur",
+    "onfocusin",
+    "onfocusout"
+  ],
+
+  "HTML_Events_Touch": [
+    "ontouchstart",
+    "ontouchmove",
+    "ontouchend",
+    "ontouchcancel"
+  ],
+
+  "HTML_Events_Pointer": [
+    "onpointerdown",
+    "onpointerup",
+    "onpointermove",
+    "onpointerenter",
+    "onpointerleave",
+    "onpointerover",
+    "onpointerout",
+    "onpointercancel",
+    "ongotpointercapture",
+    "onlostpointercapture"
+  ],
+
+  "HTML_Events_Clipboard": [
+    "oncopy",
+    "oncut",
+    "onpaste"
+  ],
+
+  "HTML_Events_Media": [
+    "onabort",
+    "oncanplay",
+    "oncanplaythrough",
+    "ondurationchange",
+    "onemptied",
+    "onended",
+    "onerror",
+    "onloadeddata",
+    "onloadedmetadata",
+    "onloadstart",
+    "onpause",
+    "onplay",
+    "onplaying",
+    "onprogress",
+    "onratechange",
+    "onseeked",
+    "onseeking",
+    "onstalled",
+    "onsuspend",
+    "ontimeupdate",
+    "onvolumechange",
+    "onwaiting"
+  ],
+
+  "HTML_Events_Window": [
+    "onload",
+    "onbeforeunload",
+    "onunload",
+    "onresize",
+    "onscroll"
+  ],
+
+  "HTML_Events_Animation": [
+    "onanimationstart",
+    "onanimationend",
+    "onanimationiteration"
+  ],
+
+  "HTML_Events_Transition": [
+    "ontransitionstart",
+    "ontransitionrun",
+    "ontransitionend",
+    "ontransitioncancel"
+  ],
+
+  "HTML_Events_Mutation": [
+    "onreadystatechange"
+  ],
+
+  "HTML_Events_Wheel": [
+    "onwheel"
+  ],
+
+  "HTML_Events_Misc": [
+    "onshow",
+    "ontoggle",
+    "onmessage",
+    "onmessageerror",
+    "onpointerrawupdate",
+    "onsecuritypolicyviolation"
+  ]
+}
+{
+  "HTML_Content_Model_Categories": [
+    "Metadata Content",
+    "Flow Content",
+    "Sectioning Content",
+    "Heading Content",
+    "Phrasing Content",
+    "Embedded Content",
+    "Interactive Content",
+    "Form-associated Content",
+    "Script-supporting Content",
+    "Transparent Content"
+  ],
+
+  "Metadata_Content": {
+    "Description": "Document-level information inside <head>",
+    "Tags": [
+      "base",
+      "link",
+      "meta",
+      "noscript",
+      "script",
+      "style",
+      "title"
+    ]
+  },
+
+  "Flow_Content": {
+    "Description": "Most elements that can appear in the body",
+    "Tags": [
+      "a", "abbr", "address", "article", "aside",
+      "audio", "b", "bdi", "bdo", "blockquote", "br",
+      "button", "canvas", "cite", "code", "data",
+      "datalist", "del", "details", "dfn", "dialog",
+      "div", "dl", "em", "embed", "fieldset",
+      "figure", "footer", "form", "h1", "h2", "h3",
+      "h4", "h5", "h6", "header", "hgroup", "hr",
+      "i", "iframe", "img", "input", "ins", "kbd",
+      "label", "main", "map", "mark", "math",
+      "menu", "meter", "nav", "noscript", "object",
+      "ol", "output", "p", "picture", "pre",
+      "progress", "q", "ruby", "s", "samp",
+      "script", "section", "select", "slot", "small",
+      "span", "strong", "sub", "sup", "svg",
+      "table", "template", "textarea", "time", "u",
+      "ul", "var", "video", "wbr"
+    ]
+  },
+
+  "Sectioning_Content": {
+    "Description": "Defines sections in a document outline",
+    "Tags": [
+      "article",
+      "aside",
+      "nav",
+      "section"
+    ]
+  },
+
+  "Heading_Content": {
+    "Description": "Defines headings of sections",
+    "Tags": [
+      "h1", "h2", "h3", "h4", "h5", "h6",
+      "hgroup"
+    ]
+  },
+
+  "Phrasing_Content": {
+    "Description": "Inline-level small content pieces",
+    "Tags": [
+      "a", "abbr", "audio", "b", "bdi", "bdo",
+      "br", "button", "canvas", "cite", "code",
+      "data", "datalist", "dfn", "em", "embed",
+      "i", "iframe", "img", "input", "kbd",
+      "label", "map", "mark", "math", "meter",
+      "noscript", "object", "output", "picture",
+      "progress", "q", "ruby", "s", "samp",
+      "script", "select", "slot", "small", "span",
+      "strong", "sub", "sup", "svg", "template",
+      "textarea", "time", "u", "var", "video", "wbr"
+    ]
+  },
+
+  "Embedded_Content": {
+    "Description": "Content that imports external resources",
+    "Tags": [
+      "audio",
+      "canvas",
+      "embed",
+      "iframe",
+      "img",
+      "math",
+      "object",
+      "picture",
+      "svg",
+      "video"
+    ]
+  },
+
+  "Interactive_Content": {
+    "Description": "Elements designed for user interaction",
+    "Tags": [
+      "a",
+      "button",
+      "details",
+      "dialog",
+      "embed",
+      "iframe",
+      "label",
+      "select",
+      "textarea",
+      "input",
+      "menu",
+      "video (with controls)",
+      "audio (with controls)"
+    ]
+  },
+
+  "Form_Associated_Content": {
+    "Description": "Elements that participate in form submission",
+    "Tags": [
+      "button",
+      "fieldset",
+      "input",
+      "label",
+      "meter",
+      "object",
+      "output",
+      "progress",
+      "select",
+      "textarea"
+    ]
+  },
+
+  "Script_Supporting_Content": {
+    "Description": "Does not represent visible content",
+    "Tags": [
+      "script",
+      "template"
+    ]
+  },
+
+  "Transparent_Content": {
+    "Description": "Inherit content model from parent",
+    "Tags": [
+      "a",
+      "ins",
+      "del",
+      "label",
+      "map",
+      "object",
+      "slot"
+    ]
+  }
+}
+{
+  "DOM_Node_Types": {
+    "ELEMENT_NODE": 1,
+    "ATTRIBUTE_NODE": 2,
+    "TEXT_NODE": 3,
+    "CDATA_SECTION_NODE": 4,
+    "ENTITY_REFERENCE_NODE": 5,
+    "ENTITY_NODE": 6,
+    "PROCESSING_INSTRUCTION_NODE": 7,
+    "COMMENT_NODE": 8,
+    "DOCUMENT_NODE": 9,
+    "DOCUMENT_TYPE_NODE": 10,
+    "DOCUMENT_FRAGMENT_NODE": 11,
+    "NOTATION_NODE": 12
+  },
+
+  "DOM_Core_Interfaces": [
+    "Node",
+    "Element",
+    "Document",
+    "DocumentFragment",
+    "Text",
+    "Comment",
+    "Attr",
+    "DocumentType",
+    "ProcessingInstruction",
+    "NamedNodeMap",
+    "DOMTokenList"
+  ],
+
+  "DOM_Node_Properties": [
+    "nodeType",
+    "nodeName",
+    "nodeValue",
+    "textContent",
+    "innerText",
+    "innerHTML",
+    "outerHTML",
+    "firstChild",
+    "lastChild",
+    "parentNode",
+    "parentElement",
+    "childNodes",
+    "children",
+    "nextSibling",
+    "previousSibling"
+  ],
+
+  "DOM_Node_Methods": [
+    "appendChild",
+    "removeChild",
+    "replaceChild",
+    "insertBefore",
+    "cloneNode",
+    "contains",
+    "compareDocumentPosition",
+    "normalize"
+  ],
+
+  "DOM_Element_Methods": [
+    "getAttribute",
+    "setAttribute",
+    "removeAttribute",
+    "hasAttribute",
+    "toggleAttribute",
+    "getAttributeNames",
+    "querySelector",
+    "querySelectorAll",
+    "closest",
+    "matches"
+  ],
+
+  "DOMTokenList_Methods": [
+    "add",
+    "remove",
+    "toggle",
+    "contains",
+    "replace",
+    "item"
+  ],
+
+  "DOM_Document_Methods": [
+    "createElement",
+    "createElementNS",
+    "createTextNode",
+    "createComment",
+    "createDocumentFragment",
+    "getElementById",
+    "getElementsByClassName",
+    "getElementsByTagName",
+    "importNode",
+    "adoptNode"
+  ],
+
+  "HTML_Void_Elements": {
+    "Description": "No closing tag allowed",
+    "Tags": [
+      "area",
+      "base",
+      "br",
+      "col",
+      "embed",
+      "hr",
+      "img",
+      "input",
+      "link",
+      "meta",
+      "param",
+      "source",
+      "track",
+      "wbr"
+    ]
+  },
+
+  "HTML_Raw_Text_Elements": {
+    "Description": "Content is raw text — no HTML parsing inside",
+    "Tags": [
+      "script",
+      "style"
+    ]
+  },
+
+  "HTML_Escapable_Raw_Text_Elements": {
+    "Description": "Content is raw, but entities are allowed",
+    "Tags": [
+      "textarea",
+      "title"
+    ]
+  },
+
+  "HTML_Transparent_Elements": {
+    "Description": "Content model depends on parent",
+    "Tags": [
+      "a",
+      "ins",
+      "del",
+      "label",
+      "map",
+      "object",
+      "slot"
+    ]
+  },
+
+  "HTML_Parsing_Phases": [
+    "Initial",
+    "Before HTML",
+    "Before Head",
+    "In Head",
+    "In Head Noscript",
+    "After Head",
+    "In Body",
+    "Text",
+    "In Table",
+    "In Caption",
+    "In Column Group",
+    "In Table Body",
+    "In Row",
+    "In Cell",
+    "In Select",
+    "In Select In Table",
+    "In Template",
+    "After Body",
+    "After After Body"
+  ],
+
+  "HTML_Entity_Characters": [
+    "&amp;",
+    "&lt;",
+    "&gt;",
+    "&quot;",
+    "&apos;",
+    "&nbsp;",
+    "&copy;",
+    "&reg;",
+    "&trade;",
+    "&cent;",
+    "&pound;",
+    "&yen;",
+    "&euro;",
+    "&sect;",
+    "&para;"
+  ],
+
+  "HTML_Special_Parsing_Rules": [
+    "Adjacent text nodes merge",
+    "Whitespace collapsing in inline elements",
+    "Optional closing tags (p, li, dt, dd, tr, td)",
+    "Implied end tags",
+    "Script element blocks parsing until closed",
+    "Template content is not rendered (DocumentFragment)",
+    "Auto-insertion of tbody inside table"
+  ]
+}
+{
+  "SVG_Core_Tags": [
+    "svg",
+    "g",
+    "defs",
+    "use",
+    "symbol",
+    "desc",
+    "title",
+    "metadata"
+  ],
+
+  "SVG_Shapes": [
+    "rect",
+    "circle",
+    "ellipse",
+    "line",
+    "polyline",
+    "polygon",
+    "path"
+  ],
+
+  "SVG_Painting": [
+    "linearGradient",
+    "radialGradient",
+    "stop",
+    "pattern"
+  ],
+
+  "SVG_Filters": [
+    "filter",
+    "feBlend",
+    "feColorMatrix",
+    "feComponentTransfer",
+    "feComposite",
+    "feConvolveMatrix",
+    "feDiffuseLighting",
+    "feDisplacementMap",
+    "feDropShadow",
+    "feFlood",
+    "feGaussianBlur",
+    "feImage",
+    "feMerge",
+    "feMorphology",
+    "feOffset",
+    "feSpecularLighting",
+    "feTile",
+    "feTurbulence"
+  ],
+
+  "SVG_Text": [
+    "text",
+    "tspan",
+    "textPath"
+  ],
+
+  "SVG_Animation": [
+    "animate",
+    "animateTransform",
+    "animateMotion",
+    "set"
+  ],
+
+  "SVG_Attributes_Global": [
+    "id",
+    "class",
+    "style",
+    "tabindex",
+    "xml:lang",
+    "xml:space"
+  ],
+
+  "SVG_Presentation_Attributes": [
+    "fill",
+    "stroke",
+    "stroke-width",
+    "stroke-linecap",
+    "stroke-linejoin",
+    "stroke-dasharray",
+    "stroke-dashoffset",
+    "opacity",
+    "fill-opacity",
+    "stroke-opacity",
+    "visibility",
+    "display"
+  ],
+
+  "SVG_Coordinate_Attributes": [
+    "x",
+    "y",
+    "x1",
+    "y1",
+    "x2",
+    "y2",
+    "cx",
+    "cy",
+    "r",
+    "rx",
+    "ry",
+    "width",
+    "height"
+  ],
+
+  "SVG_Path_Attributes": [
+    "d",
+    "pathLength"
+  ],
+
+  "SVG_Filter_Attributes": [
+    "in",
+    "in2",
+    "result",
+    "stdDeviation",
+    "radius",
+    "operator",
+    "mode",
+    "type",
+    "values"
+  ],
+
+  "SVG_Transform_Attributes": [
+    "transform",
+    "rotate",
+    "scale",
+    "translate",
+    "skewX",
+    "skewY"
+  ],
+
+  "SVG_ViewBox_Attributes": [
+    "viewBox",
+    "preserveAspectRatio"
+  ],
+
+  "SVG_Link_Attributes": [
+    "href",
+    "xlink:href"
+  ],
+
+  "MathML_Tags": [
+    "math",
+    "mi",
+    "mn",
+    "mo",
+    "ms",
+    "mtext",
+    "mspace",
+    "mrow",
+    "mfrac",
+    "msqrt",
+    "mroot",
+    "mstyle",
+    "merror",
+    "mpadded",
+    "mphantom",
+    "mfenced",
+    "menclose",
+    "msub",
+    "msup",
+    "msubsup",
+    "munder",
+    "mover",
+    "munderover",
+    "mtable",
+    "mtr",
+    "mtd"
+  ],
+
+  "WebComponents_Core": [
+    "template",
+    "slot",
+    "shadowRoot",
+    "customElements",
+    "HTMLElement",
+    "DocumentFragment"
+  ],
+
+  "WebComponents_Template_API": [
+    "template.content",
+    "document.importNode",
+    "document.adoptNode"
+  ],
+
+  "ShadowDOM_API": [
+    "element.attachShadow",
+    "ShadowRoot.mode",
+    "ShadowRoot.host",
+    "ShadowRoot.innerHTML",
+    "ShadowRoot.querySelector",
+    "ShadowRoot.querySelectorAll",
+    "slotchange Event"
+  ],
+
+  "ShadowDOM_Modes": [
+    "open",
+    "closed"
+  ],
+
+  "CustomElements_API": [
+    "customElements.define",
+    "customElements.get",
+    "customElements.whenDefined",
+    "class MyElement extends HTMLElement",
+    "connectedCallback",
+    "disconnectedCallback",
+    "adoptedCallback",
+    "attributeChangedCallback",
+    "observedAttributes"
+  ],
+
+  "HTML_Slot_API": [
+    "slot",
+    "slot.name",
+    "slot.assignedElements",
+    "slot.assignedNodes"
+  ],
+
+  "Element_Upgrade_Flow": [
+    "Define custom element class",
+    "customElements.define('tag-name', Class)",
+    "Browser upgrades existing matching DOM nodes",
+    "connectedCallback triggered"
+  ],
+
+  "ShadowDOM_Features": [
+    "Encapsulation",
+    "Scoped CSS",
+    "Event Retargeting",
+    "Slots for light DOM projection",
+    "No style leakage in/out"
+  ]
+}
+{
+  "DOM_Lifecycle_Events": [
+    "DOMContentLoaded",
+    "readystatechange",
+    "load",
+    "beforeunload",
+    "unload",
+    "visibilitychange",
+    "pageshow",
+    "pagehide"
+  ],
+
+  "HTML_Form_Events": [
+    "submit",
+    "reset",
+    "input",
+    "change",
+    "focus",
+    "blur",
+    "invalid",
+    "select"
+  ],
+
+  "HTML_Clipboard_Events": [
+    "copy",
+    "cut",
+    "paste"
+  ],
+
+  "HTML_Drag_Events": [
+    "drag",
+    "dragstart",
+    "dragend",
+    "dragenter",
+    "dragleave",
+    "dragover",
+    "drop"
+  ],
+
+  "HTML_Mouse_Events": [
+    "click",
+    "dblclick",
+    "mousedown",
+    "mouseup",
+    "mousemove",
+    "mouseenter",
+    "mouseleave",
+    "mouseover",
+    "mouseout",
+    "contextmenu"
+  ],
+
+  "HTML_Keyboard_Events": [
+    "keydown",
+    "keyup",
+    "keypress"
+  ],
+
+  "HTML_Touch_Events": [
+    "touchstart",
+    "touchmove",
+    "touchend",
+    "touchcancel"
+  ],
+
+  "Pointer_Events": [
+    "pointerdown",
+    "pointerup",
+    "pointermove",
+    "pointerenter",
+    "pointerleave",
+    "pointerover",
+    "pointerout",
+    "pointercancel",
+    "pointerrawupdate",
+    "gotpointercapture",
+    "lostpointercapture"
+  ],
+
+  "UI_Events": [
+    "scroll",
+    "resize",
+    "error",
+    "abort",
+    "hashchange",
+    "popstate"
+  ],
+
+  "Wheel_Events": [
+    "wheel"
+  ],
+
+  "Media_Events": [
+    "canplay",
+    "canplaythrough",
+    "durationchange",
+    "emptied",
+    "ended",
+    "loadeddata",
+    "loadedmetadata",
+    "loadstart",
+    "pause",
+    "play",
+    "playing",
+    "progress",
+    "ratechange",
+    "seeked",
+    "seeking",
+    "stalled",
+    "suspend",
+    "timeupdate",
+    "volumechange",
+    "waiting"
+  ],
+
+  "Animation_Events": [
+    "animationstart",
+    "animationend",
+    "animationiteration"
+  ],
+
+  "Transition_Events": [
+    "transitionstart",
+    "transitionrun",
+    "transitionend",
+    "transitioncancel"
+  ],
+
+  "Dialog_Events": [
+    "close",
+    "cancel"
+  ],
+
+  "FormControl_Specific_Events": [
+    "input",
+    "invalid",
+    "change",
+    "search",
+    "toggle"
+  ],
+
+  "WebComponents_Events": [
+    "slotchange",
+    "customElements.whenDefined",
+    "adoptedCallback",
+    "connectedCallback",
+    "disconnectedCallback",
+    "attributeChangedCallback"
+  ],
+
+  "ShadowDOM_Retargeting_Rules": [
+    "Events crossing shadow boundary are retargeted",
+    "Event.target becomes host if deep inside shadow root",
+    "composed: true allows passing through shadow DOM",
+    "composed: false keeps event trapped inside shadow tree",
+    "Most UI events are composed",
+    "input/change events are not composed",
+    "focus events do not cross shadow DOM"
+  ],
+
+  "ShadowDOM_Event_Properties": [
+    "event.target",
+    "event.currentTarget",
+    "event.composedPath",
+    "event.composed",
+    "event.bubbles",
+    "event.cancelable"
+  ],
+
+  "SVG_Events": [
+    "SVGLoad",
+    "SVGUnload",
+    "SVGAbort",
+    "SVGError",
+    "SVGResize",
+    "SVGScroll",
+    "SVGZoom",
+    "beginEvent",
+    "endEvent",
+    "repeatEvent"
+  ],
+
+  "SVG_Graphics_Events": [
+    "onclick",
+    "onmousedown",
+    "onmouseup",
+    "onmousemove",
+    "onmouseover",
+    "onmouseout"
+  ],
+
+  "Clipboard_API_Events": [
+    "clipboardchange",
+    "beforecopy",
+    "beforecut",
+    "beforepaste"
+  ],
+
+  "History_API_Events": [
+    "popstate",
+    "hashchange",
+    "pageshow",
+    "pagehide"
+  ],
+
+  "Networking_Events": [
+    "online",
+    "offline",
+    "fetch",
+    "workerfetch",
+    "error",
+    "rejectionhandled",
+    "unhandledrejection"
+  ],
+
+  "Workers_Events": [
+    "message",
+    "messageerror",
+    "error"
+  ],
+
+  "MutationObserver_Events": [
+    "characterData",
+    "childList",
+    "attributes"
+  ],
+
+  "IntersectionObserver_Events": [
+    "intersectionchange"
+  ],
+
+  "ResizeObserver_Events": [
+    "resize"
+  ]
+}
+{
+  "HTML_Parsing_Stages": [
+    "Tokenization",
+    "Tree Construction",
+    "DOM Construction",
+    "Script Execution",
+    "Style Resolution",
+    "Layout",
+    "Painting",
+    "Compositing"
+  ],
+
+  "HTML_Tokenization_Types": [
+    "DOCTYPE token",
+    "Start tag token",
+    "End tag token",
+    "Comment token",
+    "Character token",
+    "EOF token"
+  ],
+
+  "HTML_Tree_Construction_Rules": [
+    "Insertion mode switching",
+    "Implicit tag insertion (e.g., <tbody>)",
+    "Optional end tag rules (e.g., <li>, <p>, <td>)",
+    "Adoption agency algorithm (used by <b> <i>)",
+    "Handling mis-nested tags",
+    "Foster parenting in tables"
+  ],
+
+  "Script_Execution_Rules": [
+    "Blocking script execution",
+    "Async execution",
+    "Defer execution",
+    "Module scripts execution order",
+    "Speculative parsing when downloading scripts"
+  ],
+
+  "Rendering_Tree_Steps": [
+    "DOM Tree",
+    "CSSOM Tree",
+    "Style Computation",
+    "Render Tree",
+    "Layout",
+    "Paint",
+    "Composite Layers",
+    "GPU Rasterization"
+  ],
+
+  "CSSOM_Construct_Rules": [
+    "Parsing CSS",
+    "Building CSSOM",
+    "Resolving imports",
+    "Handling media queries",
+    "Cascade layers",
+    "Specificity resolution",
+    "Inheritance rules"
+  ],
+
+  "CSS_Cascade_Order": [
+    "User-agent stylesheet",
+    "User stylesheet",
+    "Author stylesheet",
+    "!important user",
+    "!important author",
+    "CSS Cascade Layers",
+    "Inline styles",
+    "Animation styles",
+    "Transition styles"
+  ],
+
+  "CSS_Specificity": {
+    "Inline": 1000,
+    "ID": 100,
+    "Class_Attributes_PseudoClass": 10,
+    "Element_PseudoElement": 1,
+    "Universal_Selector": 0
+  },
+
+  "CSS_Box_Model": [
+    "content-box",
+    "padding-box",
+    "border-box"
+  ],
+
+  "CSS_Box_Model_Properties": [
+    "width",
+    "height",
+    "padding",
+    "border",
+    "margin",
+    "box-sizing"
+  ],
+
+  "CSS_Layout_Modes": [
+    "normal flow",
+    "flex layout",
+    "grid layout",
+    "float layout",
+    "positioned layout",
+    "table layout"
+  ],
+
+  "CSS_Positioning_Types": [
+    "static",
+    "relative",
+    "absolute",
+    "fixed",
+    "sticky"
+  ],
+
+  "CSS_Display_Types": [
+    "block",
+    "inline",
+    "inline-block",
+    "flex",
+    "inline-flex",
+    "grid",
+    "inline-grid",
+    "table",
+    "table-row",
+    "table-cell",
+    "contents",
+    "list-item",
+    "run-in",
+    "none"
+  ],
+
+  "CSS_Flexbox_Properties": [
+    "display:flex",
+    "flex-direction",
+    "flex-wrap",
+    "flex-flow",
+    "justify-content",
+    "align-items",
+    "align-content",
+    "align-self",
+    "flex-grow",
+    "flex-shrink",
+    "flex-basis",
+    "order"
+  ],
+
+  "CSS_Grid_Properties": [
+    "display:grid",
+    "grid-template-columns",
+    "grid-template-rows",
+    "grid-template-areas",
+    "grid-column",
+    "grid-row",
+    "grid-area",
+    "grid-auto-flow",
+    "grid-auto-columns",
+    "grid-auto-rows",
+    "justify-items",
+    "align-items",
+    "justify-content",
+    "align-content"
+  ],
+
+  "CSS_LineBox_Rules": [
+    "Inline formatting context",
+    "Line box creation",
+    "Baseline alignment",
+    "Whitespace collapsing",
+    "Text wrapping"
+  ],
+
+  "CSS_Table_Layout_Rules": [
+    "table display model",
+    "anonymous table objects",
+    "auto layout algorithm",
+    "fixed layout algorithm"
+  ],
+
+  "CSS_Float_Rules": [
+    "float positioning",
+    "float avoidance",
+    "clear rules",
+    "block formatting context creation"
+  ],
+
+  "Stacking_Contexts": [
+    "z-index",
+    "opacity < 1",
+    "transform",
+    "filter",
+    "isolation:isolate",
+    "perspective",
+    "position:fixed",
+    "mix-blend-mode",
+    "will-change"
+  ],
+
+  "Painting_Order": [
+    "background color",
+    "background image",
+    "border",
+    "box-shadow",
+    "text",
+    "outline",
+    "transforms applied",
+    "filters applied"
+  ],
+
+  "Compositing_Layers": [
+    "Scrolling layers",
+    "Fixed-position layers",
+    "Transform layers",
+    "Opacity layers",
+    "Video layers",
+    "Canvas layers"
+  ],
+
+  "GPU_Acceleration_Cases": [
+    "transform:translateZ(0)",
+    "will-change:transform",
+    "video rendering",
+    "canvas acceleration",
+    "3D transforms",
+    "WebGL layers"
+  ],
+
+  "Reflow_Triggers": [
+    "offsetWidth",
+    "offsetHeight",
+    "scrollTop",
+    "scrollHeight",
+    "clientTop",
+    "clientWidth",
+    "getComputedStyle",
+    "changing font-size",
+    "changing display",
+    "adding/removing DOM elements"
+  ],
+
+  "Repaint_Triggers": [
+    "background",
+    "color",
+    "visibility",
+    "outline",
+    "box-shadow"
+  ],
+
+  "Avoiding_Reflow_Techniques": [
+    "use transform instead of top/left",
+    "avoid table layout",
+    "batch DOM changes",
+    "use DocumentFragment",
+    "use requestAnimationFrame for animations",
+    "avoid layout thrashing",
+    "avoid reading layout after writing layout"
+  ]
+}
+{
+  "HTML_Doctypes": [
+    "<!DOCTYPE html>",
+    "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\">",
+    "<!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\">",
+    "<!DOCTYPE math PUBLIC \"-//W3C//DTD MathML 2.0//EN\">"
+  ],
+
+  "HTML_MIME_Types": [
+    "text/html",
+    "text/css",
+    "text/javascript",
+    "application/javascript",
+    "application/json",
+    "application/xml",
+    "image/png",
+    "image/jpeg",
+    "image/svg+xml",
+    "video/mp4",
+    "audio/mpeg",
+    "font/woff",
+    "font/woff2"
+  ],
+
+  "HTML_Charset_Meta": [
+    "<meta charset=\"UTF-8\">",
+    "<meta charset=\"ISO-8859-1\">",
+    "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">"
+  ],
+
+  "HTML_HTTP_Equiv_Meta": [
+    "<meta http-equiv=\"refresh\" content=\"5; url=page.html\">",
+    "<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
+    "<meta http-equiv=\"content-security-policy\" content=\"default-src 'self'\">",
+    "<meta http-equiv=\"cache-control\" content=\"no-cache\">",
+    "<meta http-equiv=\"pragma\" content=\"no-cache\">",
+    "<meta http-equiv=\"expires\" content=\"0\">"
+  ],
+
+  "HTML_Viewport_Meta": [
+    "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+    "<meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1\">",
+    "<meta name=\"viewport\" content=\"viewport-fit=cover\">"
+  ],
+
+  "HTML_SEO_Meta": [
+    "<meta name=\"description\" content=\"...\">",
+    "<meta name=\"keywords\" content=\"...\">",
+    "<meta name=\"author\" content=\"...\">",
+    "<meta name=\"robots\" content=\"index, follow\">",
+    "<meta name=\"google\" content=\"notranslate\">",
+    "<meta name=\"theme-color\" content=\"#000000\">"
+  ],
+
+  "OpenGraph_Meta": [
+    "<meta property=\"og:title\" content=\"...\">",
+    "<meta property=\"og:description\" content=\"...\">",
+    "<meta property=\"og:image\" content=\"...\">",
+    "<meta property=\"og:url\" content=\"...\">",
+    "<meta property=\"og:type\" content=\"website\">",
+    "<meta property=\"og:locale\" content=\"zh_TW\">"
+  ],
+
+  "Twitter_Card_Meta": [
+    "<meta name=\"twitter:card\" content=\"summary\">",
+    "<meta name=\"twitter:title\" content=\"...\">",
+    "<meta name=\"twitter:description\" content=\"...\">",
+    "<meta name=\"twitter:image\" content=\"...\">"
+  ],
+
+  "App_Manifest_Meta": [
+    "<meta name=\"apple-mobile-web-app-capable\" content=\"yes\">",
+    "<meta name=\"apple-mobile-web-app-title\" content=\"AppName\">",
+    "<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black\">",
+    "<meta name=\"application-name\" content=\"AppName\">",
+    "<meta name=\"theme-color\" content=\"#ffffff\">"
+  ],
+
+  "HTML_Link_Rel_Types": [
+    "stylesheet",
+    "icon",
+    "shortcut icon",
+    "manifest",
+    "preload",
+    "prefetch",
+    "dns-prefetch",
+    "modulepreload",
+    "preconnect",
+    "prerender",
+    "alternate",
+    "canonical",
+    "author",
+    "help",
+    "license",
+    "next",
+    "prev",
+    "search"
+  ],
+
+  "HTML_Link_Attributes": [
+    "href",
+    "rel",
+    "type",
+    "as",
+    "crossorigin",
+    "media",
+    "sizes",
+    "imagesrcset",
+    "imagesizes",
+    "integrity",
+    "referrerpolicy"
+  ],
+
+  "Link_Preload_Examples": [
+    "<link rel=\"preload\" href=\"style.css\" as=\"style\">",
+    "<link rel=\"preload\" href=\"main.js\" as=\"script\">",
+    "<link rel=\"preload\" href=\"image.jpg\" as=\"image\">",
+    "<link rel=\"preload\" href=\"font.woff2\" as=\"font\" crossorigin>"
+  ],
+
+  "Link_Prefetch_Examples": [
+    "<link rel=\"prefetch\" href=\"next-page.html\">",
+    "<link rel=\"prefetch\" href=\"future.js\" as=\"script\">"
+  ],
+
+  "Link_Preconnect_Examples": [
+    "<link rel=\"preconnect\" href=\"https://example.com\">",
+    "<link rel=\"preconnect\" href=\"https://cdn.example.com\" crossorigin>"
+  ],
+
+  "Link_Canonical_Example": [
+    "<link rel=\"canonical\" href=\"https://example.com/page\">"
+  ],
+
+  "Link_Icon_Examples": [
+    "<link rel=\"icon\" href=\"favicon.ico\" type=\"image/x-icon\">",
+    "<link rel=\"icon\" href=\"icon.svg\" type=\"image/svg+xml\">",
+    "<link rel=\"apple-touch-icon\" href=\"apple-touch-icon.png\">"
+  ],
+
+  "HTML_HTTP_Behavior_With_Meta_And_Link": [
+    "Force rendering mode (IE compatibility)",
+    "Control caching behavior",
+    "Control content type",
+    "Control viewport scaling",
+    "Enable PWA features (manifest + theme-color)",
+    "Pre-connect to domains to improve performance",
+    "Preload critical resources",
+    "Prefetch low-priority resources",
+    "DNS-prefetch to reduce DNS lookup time",
+    "Set canonical URL for SEO ranking consistency"
+  ]
+}
+{
+  "CSP_Content_Security_Policy_Directives": [
+    "default-src",
+    "script-src",
+    "script-src-elem",
+    "script-src-attr",
+    "style-src",
+    "style-src-elem",
+    "style-src-attr",
+    "img-src",
+    "font-src",
+    "media-src",
+    "object-src",
+    "worker-src",
+    "child-src",
+    "frame-src",
+    "connect-src",
+    "manifest-src",
+    "frame-ancestors",
+    "form-action",
+    "base-uri",
+    "report-uri",
+    "report-to",
+    "prefetch-src",
+    "navigate-to",
+    "require-trusted-types-for",
+    "trusted-types",
+    "upgrade-insecure-requests",
+    "block-all-mixed-content",
+    "sandbox"
+  ],
+
+  "CSP_Common_Values": [
+    "'self'",
+    "'none'",
+    "'unsafe-inline'",
+    "'unsafe-eval'",
+    "'strict-dynamic'",
+    "'report-sample'",
+    "https:",
+    "data:",
+    "blob:",
+    "filesystem:"
+  ],
+
+  "CSP_Examples": [
+    "Content-Security-Policy: default-src 'self'",
+    "Content-Security-Policy: script-src 'self' https://cdn.com",
+    \"Content-Security-Policy: object-src 'none' \",
+    \"Content-Security-Policy: upgrade-insecure-requests\",
+    \"Content-Security-Policy: block-all-mixed-content\"
+  ],
+
+  "Iframe_Sandbox_Attributes": [
+    "allow-scripts",
+    "allow-same-origin",
+    "allow-forms",
+    "allow-modals",
+    "allow-popups",
+    "allow-popups-to-escape-sandbox",
+    "allow-presentation",
+    "allow-downloads",
+    "allow-top-navigation",
+    "allow-top-navigation-by-user-activation"
+  ],
+
+  "Iframe_Sandbox_Behavior": [
+    "Disables scripts unless allow-scripts",
+    "Blocks same-origin unless allow-same-origin",
+    "Disables form submission unless allow-forms",
+    "Blocks popups unless allow-popups",
+    "Blocks top-navigation unless allow-top-navigation",
+    "Blocks automatic downloads unless allow-downloads"
+  ],
+
+  "Referrer_Policy_Values": [
+    "no-referrer",
+    "no-referrer-when-downgrade",
+    "origin",
+    "origin-when-cross-origin",
+    "same-origin",
+    "strict-origin",
+    "strict-origin-when-cross-origin",
+    "unsafe-url"
+  ],
+
+  "Permissions_Policy_Directives": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "fullscreen",
+    "accelerometer",
+    "autoplay",
+    "battery",
+    "display-capture",
+    "document-domain",
+    "encrypted-media",
+    "gamepad",
+    "gyroscope",
+    "magnetometer",
+    "payment",
+    "picture-in-picture",
+    "speaker",
+    "usb",
+    "xr-spatial-tracking"
+  ],
+
+  "Permissions_Policy_Syntax": [
+    "Permissions-Policy: camera=(), microphone=(), geolocation=()",
+    "Permissions-Policy: fullscreen=(self), geolocation=(self https://example.com)"
+  ],
+
+  "COOP_Cross_Origin_Opener_Policy": [
+    "same-origin",
+    "same-origin-allow-popups",
+    "unsafe-none"
+  ],
+
+  "COOP_Behavior": [
+    "Blocks cross-origin window references",
+    "Isolates browsing contexts",
+    "Prevents cross-window attacks like XS-Leaks"
+  ],
+
+  "COEP_Cross_Origin_Embedder_Policy": [
+    "require-corp",
+    "unsafe-none"
+  ],
+
+  "COEP_Behavior": [
+    "Requires CORP or CORP-like headers on embeds",
+    "Necessary for SharedArrayBuffer",
+    "Required by WebAssembly threads"
+  ],
+
+  "CORP_Cross_Origin_Resource_Policy": [
+    "same-site",
+    "same-origin",
+    "cross-origin"
+  ],
+
+  "CORP_Use_Cases": [
+    "Prevents cross-site resource loading",
+    "Protects sensitive media or fonts",
+    "Used with COEP to allow SharedArrayBuffer"
+  ],
+
+  "Mixed_Content_Types": [
+    "Active Mixed Content (blocked always)",
+    "Passive Mixed Content (images, may load)",
+    "Upgradable Mixed Content"
+  ],
+
+  "Mixed_Content_Blocked_Examples": [
+    "<script src=\"http://example.com/script.js\"></script>",
+    "<iframe src=\"http://example.com\"></iframe>",
+    "<link rel=\"stylesheet\" href=\"http://example.com/style.css\">"
+  ],
+
+  "Mixed_Content_Passive_Examples": [
+    "<img src=\"http://example.com/image.jpg\">",
+    "<audio src=\"http://example.com/sound.mp3\">"
+  ],
+
+  "Mixed_Content_Auto_Upgrade": [
+    "upgrade-insecure-requests",
+    "Images automatically upgraded to HTTPS when possible"
+  ],
+
+  "SameSite_Cookie_Values": [
+    "Strict",
+    "Lax",
+    "None (Requires Secure)"
+  ],
+
+  "SameSite_Cookie_Examples": [
+    "Set-Cookie: TOKEN=abc; SameSite=Strict; Secure",
+    "Set-Cookie: SID=123; SameSite=Lax; Secure",
+    "Set-Cookie: SESSION=xyz; SameSite=None; Secure"
+  ],
+
+  "XSS_Prevention_Rules": [
+    "Use textContent instead of innerHTML",
+    "Use DOMPurify for user HTML",
+    "Enable CSP with script-src",
+    "Disable inline JavaScript",
+    "Avoid eval() / Function()",
+    "Escape dynamic data"
+  ],
+
+  "Clickjacking_Protection": [
+    "X-Frame-Options: DENY",
+    "frame-ancestors 'none'",
+    "Use same-origin + COOP"
+  ]
+}
+{
+  "Script_Loading_Types": [
+    "Classic Script",
+    "Module Script",
+    "Async Script",
+    "Defer Script",
+    "Blocking Script",
+    "Nomodule Script",
+    "Dynamic Imported Script",
+    "Inline Script"
+  ],
+
+  "Script_Tag_Attributes": [
+    "src",
+    "type",
+    "async",
+    "defer",
+    "crossorigin",
+    "integrity",
+    "nonce",
+    "referrerpolicy",
+    "blocking"
+  ],
+
+  "Script_Type_Values": [
+    "text/javascript",
+    "module",
+    "importmap",
+    "speculationrules",
+    "text/worker"
+  ],
+
+  "Module_Script_Features": [
+    "Strict mode by default",
+    "Async loading",
+    "No duplicate evaluation",
+    "Static import resolution",
+    "Top-level await",
+    "Import.meta.url"
+  ],
+
+  "Module_Import_Syntax": [
+    "import x from 'module.js'",
+    "import { a, b as c } from './file.js'",
+    "import * as Utils from './utils.js'",
+    "import('./dynamic.js')"
+  ],
+
+  "Module_Export_Syntax": [
+    "export default value",
+    "export const x",
+    "export function f(){}",
+    "export { x, y as z }",
+    "export * from './other.js'"
+  ],
+
+  "Dynamic_Import_Features": [
+    "Returns a promise",
+    "Loads modules on demand",
+    "Supports await import()",
+    "Not allowed in import maps"
+  ],
+
+  "Script_Nomodule_Behavior": [
+    "Ignored by modern browsers that support ES modules",
+    "Executed by older browsers",
+    "Used for backward compatibility"
+  ],
+
+  "Import_Map_Keys": [
+    "imports",
+    "scopes"
+  ],
+
+  "Import_Map_Examples": [
+    {
+      "imports": {
+        "react": "https://cdn.com/react.js",
+        "lib/": "/static/lib/"
+      }
+    },
+    {
+      "scopes": {
+        "https://example.com/app/": {
+          "lodash": "https://cdn.com/lodash.js"
+        }
+      }
+    }
+  ],
+
+  "Import_Map_Behavior": [
+    "Only allowed for module scripts",
+    "Must be type=\"importmap\"",
+    "Must appear before module scripts",
+    "Does not allow dynamic keys"
+  ],
+
+  "Preload_As_Values": [
+    "script",
+    "style",
+    "image",
+    "font",
+    "fetch",
+    "video",
+    "audio",
+    "track",
+    "worker",
+    "document"
+  ],
+
+  "Preconnect_Rules": [
+    "DNS lookup",
+    "TLS handshake",
+    "TCP connection prebuild"
+  ],
+
+  "Resource_Loading_Priority": [
+    "Critical (HTML/CSS/JS)",
+    "High (preload)",
+    "Low (prefetch)",
+    "Lowest (prerender)",
+    "Deferred (module + importmap)"
+  ],
+
+  "Fetch_Request_Modes": [
+    "cors",
+    "no-cors",
+    "same-origin",
+    "navigate"
+  ],
+
+  "Fetch_Credentials_Modes": [
+    "omit",
+    "same-origin",
+    "include"
+  ],
+
+  "Fetch_Cache_Modes": [
+    "default",
+    "no-store",
+    "reload",
+    "no-cache",
+    "force-cache",
+    "only-if-cached"
+  ],
+
+  "Fetch_Redirect_Modes": [
+    "follow",
+    "error",
+    "manual"
+  ],
+
+  "Fetch_Referrer_Policies": [
+    "no-referrer",
+    "same-origin",
+    "strict-origin",
+    "unsafe-url"
+  ],
+
+  "CORS_Response_Headers": [
+    "Access-Control-Allow-Origin",
+    "Access-Control-Allow-Methods",
+    "Access-Control-Allow-Headers",
+    "Access-Control-Allow-Credentials",
+    "Access-Control-Max-Age",
+    "Access-Control-Expose-Headers"
+  ],
+
+  "CORS_Request_Headers": [
+    "Origin",
+    "Access-Control-Request-Method",
+    "Access-Control-Request-Headers"
+  ],
+
+  "CORS_Preflight_Rules": [
+    "Triggered by custom headers",
+    "Triggered by PUT/PATCH/DELETE",
+    "Triggered by content-type not in simple list",
+    "Requires OPTIONS request",
+    "Server must respond with matching headers"
+  ],
+
+  "Simple_Request_Criteria": [
+    "Method: GET, POST, HEAD",
+    "Headers: Accept / Accept-Language / Content-Language",
+    "content-type: application/x-www-form-urlencoded, multipart/form-data, text/plain",
+    "No custom headers",
+    "No streaming request body"
+  ],
+
+  "CrossOrigin_Embedding_Rules": [
+    "img/video/audio allow cross-origin loading by default",
+    "script is cross-origin but read-protected",
+    "link rel=stylesheet cross-origin but CSSOM blocked",
+    "iframe requires allow-same-origin for JS access",
+    "fetch requires CORS headers"
+  ],
+
+  "Opaque_Responses": [
+    "No access to headers",
+    "No access to body",
+    "Status code always 0",
+    "Used in no-cors mode"
+  ],
+
+  "Module_Fetching_Rules": [
+    "Always use CORS mode",
+    "Must not be opaque",
+    "Reject if MIME type is wrong",
+    "Accept: application/javascript"
+  ],
+
+  "Worker_Script_Loading": [
+    "Always CORS fetch",
+    "module workers allowed (type:'module')",
+    "DedicatedWorker",
+    "SharedWorker",
+    "ServiceWorker"
+  ]
+}
+{
+  "Image_Tags": [
+    "img",
+    "picture",
+    "source",
+    "figure",
+    "figcaption"
+  ],
+
+  "Image_Attributes": [
+    "src",
+    "alt",
+    "width",
+    "height",
+    "loading",
+    "decoding",
+    "importance",
+    "crossorigin",
+    "referrerpolicy",
+    "srcset",
+    "sizes",
+    "usemap",
+    "ismap"
+  ],
+
+  "Image_Loading_Behavior": [
+    "Loads asynchronously",
+    "Decoder executes off-main-thread",
+    "Alt text rendered if image fails",
+    "Width/height prevent layout shift",
+    "Image participates in CSS object-fit",
+    "Lazy loading supported via loading=lazy"
+  ],
+
+  "Image_Decoding_Modes": [
+    "async",
+    "sync",
+    "auto"
+  ],
+
+  "Srcset_Descriptor_Types": [
+    "w descriptor (width-based)",
+    "x descriptor (pixel density-based)"
+  ],
+
+  "Srcset_Examples": [
+    "image-400.jpg 400w, image-800.jpg 800w",
+    "image@1x.png 1x, image@2x.png 2x"
+  ],
+
+  "Sizes_Syntax": [
+    "(max-width: 600px) 100vw, 50vw"
+  ],
+
+  "Picture_Element_Behavior": [
+    "Follows first matching <source>",
+    "Fallback to <img>",
+    "Used for art direction and type-switching",
+    "Supports AVIF/WebP fallback"
+  ],
+
+  "Image_Fetch_Priority": [
+    "importance=high",
+    "importance=auto",
+    "importance=low"
+  ],
+
+  "Image_Decoding_Pipeline": [
+    "Fetch image",
+    "Decode header",
+    "Decode image data",
+    "Rasterize",
+    "Transfer to GPU",
+    "Composite into frame"
+  ],
+
+  "Lazy_Loading_Rules": [
+    "loading=lazy delays fetch until near viewport",
+    "Images below fold defer load",
+    "IntersectionObserver-based",
+    "Does not delay LCP image with importance=high"
+  ],
+
+  "Video_Tags": [
+    "video",
+    "source",
+    "track"
+  ],
+
+  "Video_Attributes": [
+    "src",
+    "poster",
+    "controls",
+    "autoplay",
+    "muted",
+    "loop",
+    "playsinline",
+    "preload",
+    "crossorigin"
+  ],
+
+  "Video_Preloading_Modes": [
+    "none",
+    "metadata",
+    "auto"
+  ],
+
+  "Video_Buffering_States": [
+    "HAVE_NOTHING",
+    "HAVE_METADATA",
+    "HAVE_CURRENT_DATA",
+    "HAVE_FUTURE_DATA",
+    "HAVE_ENOUGH_DATA"
+  ],
+
+  "Video_Internal_Events": [
+    "loadstart",
+    "loadedmetadata",
+    "loadeddata",
+    "canplay",
+    "canplaythrough",
+    "playing",
+    "pause",
+    "ended",
+    "seeking",
+    "seeked",
+    "waiting",
+    "stalled",
+    "error"
+  ],
+
+  "Video_Playback_Features": [
+    "Hardware decoding (GPU)",
+    "Software decoding fallback",
+    "Resolution switching",
+    "Adaptive streaming (HLS/DASH via MSE)",
+    "Picture-in-picture mode"
+  ],
+
+  "Audio_Tags": [
+    "audio",
+    "source",
+    "track"
+  ],
+
+  "Audio_Features": [
+    "Buffered streaming",
+    "Preload metadata",
+    "Cross-origin fetch when needed",
+    "Media Session API integration"
+  ],
+
+  "Audio_Internal_Events": [
+    "play",
+    "pause",
+    "ended",
+    "timeupdate",
+    "volumechange",
+    "loadedmetadata",
+    "error"
+  ],
+
+  "Track_Types": [
+    "subtitles",
+    "captions",
+    "descriptions",
+    "chapters",
+    "metadata"
+  ],
+
+  "Font_Loading_Properties": [
+    "font-display",
+    "font-style",
+    "font-weight",
+    "font-stretch",
+    "font-family",
+    "unicode-range"
+  ],
+
+  "Font_Display_Modes": [
+    "auto",
+    "block",
+    "swap",
+    "fallback",
+    "optional"
+  ],
+
+  "Font_Loading_Behavior": [
+    "Block period (FOIT)",
+    "Swap period (FOUT)",
+    "FontFace API",
+    "Cache reuse",
+    "Preload improves performance"
+  ],
+
+  "Font_Formats": [
+    "woff",
+    "woff2",
+    "ttf",
+    "otf",
+    "eot",
+    "svg"
+  ],
+
+  "Font_Preloading_Example": [
+    "<link rel=\"preload\" href=\"font.woff2\" as=\"font\" type=\"font/woff2\" crossorigin>"
+  ],
+
+  "FontFace_API_Example": [
+    "new FontFace('MyFont', 'url(font.woff2)', { weight: '400', style: 'normal' })"
+  ],
+
+  "Media_Fetch_Priority": [
+    "LCP image = high",
+    "CSS background images = auto",
+    "Lazy media = low",
+    "Hidden media = very low"
+  ],
+
+  "Media_Error_Types": [
+    "NETWORK_EMPTY",
+    "NETWORK_IDLE",
+    "NETWORK_LOADING",
+    "NETWORK_NO_SOURCE",
+    "MEDIA_ERR_ABORTED",
+    "MEDIA_ERR_NETWORK",
+    "MEDIA_ERR_DECODE",
+    "MEDIA_ERR_SRC_NOT_SUPPORTED"
+  ],
+
+  "Media_Codec_Strings": [
+    "video/mp4; codecs=\"avc1.42E01E\"",
+    "video/mp4; codecs=\"av01.0.05M.08\"",
+    "video/webm; codecs=\"vp09.00.10.08\"",
+    "audio/mp4; codecs=\"mp4a.40.2\"",
+    "audio/webm; codecs=\"opus\""
+  ],
+
+  "Media_Capabilities_API": [
+    "navigator.mediaCapabilities.decodingInfo()",
+    "Checks hardware support",
+    "Predicts smoothness",
+    "Predicts power efficiency",
+    "Used for adaptive bitrate selection"
+  ]
+}
+{
+  "Form_Elements": [
+    "form",
+    "input",
+    "textarea",
+    "select",
+    "option",
+    "optgroup",
+    "button",
+    "label",
+    "fieldset",
+    "legend",
+    "datalist",
+    "output"
+  ],
+
+  "Form_Methods": [
+    "get",
+    "post",
+    "dialog"
+  ],
+
+  "Form_EncTypes": [
+    "application/x-www-form-urlencoded",
+    "multipart/form-data",
+    "text/plain"
+  ],
+
+  "Form_Attributes": [
+    "action",
+    "method",
+    "enctype",
+    "autocomplete",
+    "novalidate",
+    "target",
+    "rel",
+    "name",
+    "accept-charset"
+  ],
+
+  "Form_Events": [
+    "submit",
+    "reset",
+    "formdata",
+    "invalid"
+  ],
+
+  "Form_Submission_Process": [
+    "Construct entry list",
+    "URL-encode form data",
+    "Respect disabled controls",
+    "Respect readonly fields",
+    "Perform client-side validation",
+    "Trigger submit event",
+    "Submit via GET or POST",
+    "Follow target rules"
+  ],
+
+  "Form_Disabled_Rules": [
+    "fieldset disabled disables all controls",
+    "Disabled controls not submitted",
+    "Disabled controls not focusable",
+    "Disabled controls do not trigger validation"
+  ],
+
+  "Form_Autocomplete_Tokens": [
+    "on",
+    "off",
+    "name",
+    "email",
+    "username",
+    "current-password",
+    "new-password",
+    "one-time-code",
+    "address-line1",
+    "cc-name",
+    "cc-number",
+    "cc-exp",
+    "tel",
+    "country",
+    "postal-code"
+  ],
+
+  "Input_Types": [
+    "text",
+    "password",
+    "email",
+    "number",
+    "search",
+    "tel",
+    "url",
+    "range",
+    "date",
+    "datetime-local",
+    "time",
+    "month",
+    "week",
+    "color",
+    "checkbox",
+    "radio",
+    "file",
+    "hidden",
+    "button",
+    "submit",
+    "reset",
+    "image"
+  ],
+
+  "Input_Common_Attributes": [
+    "name",
+    "value",
+    "placeholder",
+    "readonly",
+    "disabled",
+    "autocomplete",
+    "required",
+    "autofocus",
+    "min",
+    "max",
+    "step",
+    "pattern",
+    "maxlength",
+    "multiple",
+    "size",
+    "form"
+  ],
+
+  "Input_Type_Specific_Rules": {
+    "email": [
+      "must contain @",
+      "must contain domain",
+      "supports multiple if attribute present"
+    ],
+    "number": [
+      "step mismatch invalid",
+      "min/max validation",
+      "valueAsNumber support"
+    ],
+    "password": [
+      "no validation built-in",
+      "no reveal toggle by default"
+    ],
+    "url": [
+      "must be valid URL",
+      "supports absolute only"
+    ],
+    "checkbox": [
+      "checked property",
+      "allows multiple fields same name"
+    ],
+    "radio": [
+      "only one with same name may be checked",
+      "required applies to group"
+    ],
+    "range": [
+      "UI slider",
+      "value must be numeric",
+      "min/max/step applied"
+    ],
+    "file": [
+      "multiple attribute",
+      "accept attribute MIME filtering",
+      "webkitdirectory folder upload"
+    ],
+    "color": [
+      "hex color format",
+      "no RGB/A support"
+    ]
+  },
+
+  "Textarea_Attributes": [
+    "cols",
+    "rows",
+    "wrap",
+    "maxlength",
+    "placeholder",
+    "readonly",
+    "required"
+  ],
+
+  "Select_Attributes": [
+    "multiple",
+    "size",
+    "required",
+    "autocomplete",
+    "disabled"
+  ],
+
+  "Option_Attributes": [
+    "value",
+    "label",
+    "selected",
+    "disabled"
+  ],
+
+  "Constraint_Validation_States": [
+    "valueMissing",
+    "typeMismatch",
+    "patternMismatch",
+    "tooLong",
+    "tooShort",
+    "rangeUnderflow",
+    "rangeOverflow",
+    "stepMismatch",
+    "badInput",
+    "customError",
+    "valid"
+  ],
+
+  "Constraint_Validation_API": [
+    "checkValidity()",
+    "reportValidity()",
+    "setCustomValidity()",
+    "willValidate",
+    "validity",
+    "validationMessage"
+  ],
+
+  "Validation_UI_Behavior": [
+    "bubbles invalid event",
+    "shows tooltip bubble",
+    "can be prevented via preventDefault",
+    "reportValidity forces UI"
+  ],
+
+  "Field_Focus_Order_Rules": [
+    "tabindex",
+    "positive tabindex first",
+    "then natural DOM order",
+    "negative tabindex unfocusable"
+  ],
+
+  "FormData_API": [
+    "new FormData(form)",
+    "append()",
+    "set()",
+    "get()",
+    "getAll()",
+    "entries()",
+    "delete()",
+    "supports file entries"
+  ],
+
+  "FormData_Submit_Event": [
+    "Fires before submit",
+    "Allows modification of FormData",
+    "Works with submitter",
+    "Useful for JavaScript-based forms"
+  ],
+
+  "Submitter_Identifier": [
+    "submit event exposes event.submitter",
+    "Identifies button used to submit",
+    "Supports formaction, formenctype, formmethod overrides"
+  ],
+
+  "Form_Associated_Custom_Elements_Face": [
+    "Element must declare formAssociated = true",
+    "Internally manage value",
+    "Participates in form submission",
+    "Participates in validation",
+    "Receives formDisabledCallback",
+    "Receives formStateRestoreCallback",
+    "Has internal form internals object"
+  ],
+
+  "FACE_Methods": [
+    "this.internals.setFormValue()",
+    "this.internals.setValidity()",
+    "this.internals.checkValidity()",
+    "this.internals.reportValidity()"
+  ],
+
+  "FACE_Use_Cases": [
+    "Custom date picker",
+    "Rich text editor as <input>",
+    "Custom color picker",
+    "Multi-select chips",
+    "Custom sliders"
+  ],
+
+  "Form_Submission_Security": [
+    "CSRF tokens",
+    "autocomplete=off for sensitive data",
+    "Must sanitize input server-side",
+    "No trust on client-side validation"
+  ]
+}
+{
+  "HTML_Elements_A": [
+    {
+      "tag": "a",
+      "category": ["Interactive", "Inline", "Flow content", "Phrasing content"],
+      "void": false,
+      "attributes": [
+        "href",
+        "target",
+        "rel",
+        "download",
+        "hreflang",
+        "type",
+        "referrerpolicy",
+        "ping"
+      ],
+      "events": ["click", "auxclick", "focus", "blur"],
+      "dom_interface": "HTMLAnchorElement",
+      "allowed_children": ["phrasing content"],
+      "special_notes": [
+        "Acts as hyperlink",
+        "Focusable",
+        "Keyboard activatable",
+        "Rel values modify security behavior"
+      ]
+    },
+
+    {
+      "tag": "abbr",
+      "category": ["Phrasing content", "Flow content"],
+      "void": false,
+      "attributes": ["title"],
+      "dom_interface": "HTMLElement",
+      "allowed_children": ["phrasing content"]
+    },
+
+    {
+      "tag": "address",
+      "category": ["Flow content"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "allowed_children": ["Flow content (no header/nav/section)"],
+      "special_notes": ["Represents contact info"]
+    },
+
+    {
+      "tag": "area",
+      "category": ["Area", "Interactive"],
+      "void": true,
+      "attributes": [
+        "alt",
+        "coords",
+        "shape",
+        "href",
+        "target",
+        "rel",
+        "download",
+        "referrerpolicy"
+      ],
+      "dom_interface": "HTMLAreaElement",
+      "special_notes": [
+        "Must be inside <map>",
+        "Can act like <a> when href provided"
+      ]
+    },
+
+    {
+      "tag": "article",
+      "category": ["Sectioning root", "Flow content"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "allowed_children": ["Flow content"]
+    },
+
+    {
+      "tag": "aside",
+      "category": ["Sectioning", "Flow content"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "allowed_children": ["Flow content"],
+      "special_notes": ["Represents tangential content"]
+    },
+
+    {
+      "tag": "audio",
+      "category": ["Audio", "Embedded"],
+      "void": false,
+      "attributes": [
+        "src",
+        "controls",
+        "autoplay",
+        "loop",
+        "muted",
+        "preload",
+        "crossorigin"
+      ],
+      "dom_interface": "HTMLMediaElement",
+      "allowed_children": ["source", "track", "transparent content"],
+      "events": [
+        "play", "pause", "ended", "timeupdate", "volumechange",
+        "waiting", "seeking", "seeked", "loadedmetadata"
+      ]
+    }
+  ]
+}
+{
+  "HTML_Elements_B": [
+
+    {
+      "tag": "b",
+      "category": ["Phrasing", "Flow content"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "allowed_children": ["phrasing content"],
+      "special_notes": ["Stylistic offset element; no semantic meaning"]
+    },
+
+    {
+      "tag": "base",
+      "category": ["Metadata content"],
+      "void": true,
+      "attributes": ["href", "target"],
+      "dom_interface": "HTMLBaseElement",
+      "special_notes": [
+        "Must appear inside <head>",
+        "A document can have only one <base>",
+        "Affects relative URLs resolution"
+      ]
+    },
+
+    {
+      "tag": "bdi",
+      "category": ["Phrasing content"],
+      "void": false,
+      "attributes": ["dir"],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "Bi-directional isolation",
+        "Used for embedding text with unknown directionality"
+      ]
+    },
+
+    {
+      "tag": "bdo",
+      "category": ["Phrasing content"],
+      "void": false,
+      "attributes": ["dir"],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "Bi-directional override",
+        "Forces text direction"
+      ]
+    },
+
+    {
+      "tag": "blockquote",
+      "category": ["Flow content", "Sectioning root"],
+      "void": false,
+      "attributes": ["cite"],
+      "dom_interface": "HTMLQuoteElement",
+      "allowed_children": ["Flow content"],
+      "special_notes": ["Used for long quotations"]
+    },
+
+    {
+      "tag": "body",
+      "category": ["Sectioning root"],
+      "void": false,
+      "attributes": [
+        "onload",
+        "onbeforeunload",
+        "onafterprint",
+        "onbeforeprint"
+      ],
+      "dom_interface": "HTMLBodyElement",
+      "allowed_children": ["Flow content"],
+      "special_notes": [
+        "Only one <body> per document",
+        "Represents document body"
+      ]
+    },
+
+    {
+      "tag": "br",
+      "category": ["Phrasing"],
+      "void": true,
+      "attributes": [],
+      "dom_interface": "HTMLBRElement",
+      "special_notes": [
+        "Line break",
+        "Creates a new line in text"
+      ]
+    },
+
+    {
+      "tag": "button",
+      "category": ["Interactive", "Flow", "Phrasing"],
+      "void": false,
+      "attributes": [
+        "type",
+        "name",
+        "value",
+        "disabled",
+        "autofocus",
+        "form",
+        "formaction",
+        "formenctype",
+        "formmethod",
+        "formnovalidate",
+        "formtarget"
+      ],
+      "dom_interface": "HTMLButtonElement",
+      "allowed_children": ["phrasing content"],
+      "events": ["click", "focus", "blur"],
+      "special_notes": [
+        "Default type is submit",
+        "Cannot contain interactive content"
+      ]
+    },
+
+    {
+      "tag": "big",
+      "category": ["Phrasing"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "<big> is obsolete",
+        "Used to increase font size"
+      ]
+    },
+
+    {
+      "tag": "bgsound",
+      "category": ["Obsolete"],
+      "void": true,
+      "attributes": ["src", "loop", "volume"],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["IE-only legacy audio autoplay element"]
+    },
+
+    {
+      "tag": "blink",
+      "category": ["Obsolete"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Legacy text blinking, unsupported in modern browsers"]
+    },
+
+    {
+      "tag": "basefont",
+      "category": ["Obsolete"],
+      "void": true,
+      "attributes": ["size", "color", "face"],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Deprecated font control element"]
+    }
+  ]
+}
+{
+  "HTML_Elements_C": [
+
+    {
+      "tag": "canvas",
+      "category": ["Embedded", "Flow"],
+      "void": false,
+      "attributes": ["width", "height"],
+      "dom_interface": "HTMLCanvasElement",
+      "allowed_children": ["Transparent content"],
+      "special_notes": [
+        "2D context: getContext('2d')",
+        "WebGL context: getContext('webgl', 'webgl2')",
+        "Canvas bitmap serialized via toDataURL/toBlob"
+      ]
+    },
+
+    {
+      "tag": "caption",
+      "category": ["Table"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLTableCaptionElement",
+      "allowed_children": ["Flow content"],
+      "special_notes": ["Must be first child of <table>"]
+    },
+
+    {
+      "tag": "cite",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Represents title of a work"]
+    },
+
+    {
+      "tag": "code",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Represents code fragment"]
+    },
+
+    {
+      "tag": "col",
+      "category": ["Table"],
+      "void": true,
+      "attributes": ["span"],
+      "dom_interface": "HTMLTableColElement",
+      "special_notes": ["Affects column styling"]
+    },
+
+    {
+      "tag": "colgroup",
+      "category": ["Table"],
+      "void": false,
+      "attributes": ["span"],
+      "dom_interface": "HTMLTableColElement",
+      "allowed_children": ["col"],
+      "special_notes": ["Groups table columns"]
+    },
+
+    {
+      "tag": "center",
+      "category": ["Obsolete"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Deprecated; use CSS"]
+    },
+
+    {
+      "tag": "command",
+      "category": ["Obsolete"],
+      "void": false,
+      "attributes": ["checked", "disabled", "icon", "label", "radiogroup", "type"],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Deprecated context menu element"]
+    },
+
+    {
+      "tag": "content",
+      "category": ["Obsolete (Shadow DOM v0)"],
+      "void": false,
+      "attributes": ["select"],
+      "dom_interface": "HTMLContentElement",
+      "special_notes": [
+        "Shadow DOM v0 placeholder (deprecated)",
+        "Replaced by <slot> in v1"
+      ]
+    },
+
+    {
+      "tag": "data",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": ["value"],
+      "dom_interface": "HTMLDataElement",
+      "special_notes": ["Links content with machine-readable value"]
+    },
+
+    {
+      "tag": "datalist",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLDataListElement",
+      "allowed_children": ["option"],
+      "special_notes": ["Provides autocomplete list for <input>"]
+    },
+
+    {
+      "tag": "dd",
+      "category": ["List element"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "allowed_children": ["Flow content"],
+      "special_notes": ["Definition description"]
+    },
+
+    {
+      "tag": "del",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": ["cite", "datetime"],
+      "dom_interface": "HTMLModElement",
+      "special_notes": ["Represents deleted text"]
+    },
+
+    {
+      "tag": "details",
+      "category": ["Interactive", "Flow"],
+      "void": false,
+      "attributes": ["open"],
+      "dom_interface": "HTMLDetailsElement",
+      "allowed_children": ["summary", "flow content"],
+      "special_notes": [
+        "Toggleable disclosure widget",
+        "summary defines title"
+      ]
+    },
+
+    {
+      "tag": "dfn",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Represents term being defined"]
+    },
+
+    {
+      "tag": "dialog",
+      "category": ["Interactive"],
+      "void": false,
+      "attributes": ["open"],
+      "dom_interface": "HTMLDialogElement",
+      "events": ["close", "cancel"],
+      "special_notes": [
+        "Modal dialog support",
+        "show() / showModal()"
+      ]
+    },
+
+    {
+      "tag": "div",
+      "category": ["Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLDivElement",
+      "allowed_children": ["Flow content"],
+      "special_notes": ["General container element"]
+    },
+
+    {
+      "tag": "dl",
+      "category": ["Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLDListElement",
+      "allowed_children": ["dt", "dd"],
+      "special_notes": ["Definition list"]
+    },
+
+    {
+      "tag": "dt",
+      "category": ["List element"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Definition term"]
+    },
+
+    {
+      "tag": "em",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Represents emphasis"]
+    }
+  ]
+}
+{
+  "HTML_Elements_E": [
+
+    {
+      "tag": "em",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "allowed_children": ["phrasing content"],
+      "special_notes": ["Represents emphasized text"]
+    },
+
+    {
+      "tag": "embed",
+      "category": ["Embedded", "Interactive"],
+      "void": true,
+      "attributes": ["src", "type", "width", "height"],
+      "dom_interface": "HTMLEmbedElement",
+      "special_notes": [
+        "Used to embed external applications",
+        "Replaced by <object> or <iframe> in many cases"
+      ]
+    },
+
+    {
+      "tag": "element",
+      "category": ["Web Components"],
+      "void": false,
+      "attributes": ["name", "extends"],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "Deprecated early Web Components v0 syntax",
+        "Replaced by customElements.define()"
+      ]
+    },
+
+    {
+      "tag": "fieldset",
+      "category": ["Flow", "Form-associated"],
+      "void": false,
+      "attributes": ["disabled", "form", "name"],
+      "dom_interface": "HTMLFieldSetElement",
+      "allowed_children": ["legend", "flow content"],
+      "special_notes": [
+        "Disabling fieldset disables all descendant controls except first legend"
+      ]
+    },
+
+    {
+      "tag": "figcaption",
+      "category": ["Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Caption for <figure> element"]
+    },
+
+    {
+      "tag": "figure",
+      "category": ["Flow", "Sectioning root"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "allowed_children": ["figcaption", "flow content"],
+      "special_notes": [
+        "Self-contained content",
+        "figcaption optional but encouraged"
+      ]
+    },
+
+    {
+      "tag": "font",
+      "category": ["Obsolete"],
+      "void": false,
+      "attributes": ["size", "color", "face"],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Deprecated; replaced by CSS"]
+    },
+
+    {
+      "tag": "footer",
+      "category": ["Flow", "Sectioning"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "allowed_children": ["flow content"],
+      "special_notes": [
+        "Represents the footer of nearest sectioning root",
+        "Commonly used for metadata, links, copyright"
+      ]
+    },
+
+    {
+      "tag": "form",
+      "category": ["Flow"],
+      "void": false,
+      "attributes": [
+        "action", "method", "enctype", "autocomplete",
+        "name", "target", "novalidate", "rel", "accept-charset"
+      ],
+      "dom_interface": "HTMLFormElement",
+      "events": ["submit", "reset", "formdata"],
+      "allowed_children": ["flow content"],
+      "special_notes": [
+        "Form submission participates in navigation",
+        "Supports FormData API"
+      ]
+    },
+
+    {
+      "tag": "frame",
+      "category": ["Obsolete"],
+      "void": true,
+      "attributes": [
+        "src", "name", "frameborder", "scrolling",
+        "noresize", "marginwidth", "marginheight"
+      ],
+      "dom_interface": "HTMLFrameElement",
+      "special_notes": ["Deprecated; part of frameset model"]
+    },
+
+    {
+      "tag": "frameset",
+      "category": ["Obsolete"],
+      "void": false,
+      "attributes": ["rows", "cols"],
+      "dom_interface": "HTMLFrameSetElement",
+      "allowed_children": ["frame"],
+      "special_notes": ["Completely removed from HTML5"]
+    },
+
+    {
+      "tag": "h1",
+      "category": ["Flow", "Heading"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLHeadingElement",
+      "special_notes": ["Top-level heading"]
+    },
+
+    {
+      "tag": "h2",
+      "category": ["Flow", "Heading"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLHeadingElement"
+    },
+
+    {
+      "tag": "h3",
+      "category": ["Flow", "Heading"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLHeadingElement"
+    },
+
+    {
+      "tag": "h4",
+      "category": ["Flow", "Heading"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLHeadingElement"
+    },
+
+    {
+      "tag": "h5",
+      "category": ["Flow", "Heading"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLHeadingElement"
+    },
+
+    {
+      "tag": "h6",
+      "category": ["Flow", "Heading"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLHeadingElement"
+    },
+
+    {
+      "tag": "head",
+      "category": ["Metadata"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLHeadElement",
+      "allowed_children": [
+        "meta", "link", "title", "style", "script", "base"
+      ]
+    },
+
+    {
+      "tag": "header",
+      "category": ["Flow", "Sectioning"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "allowed_children": ["flow content"],
+      "special_notes": [
+        "Header for nearest sectioning root",
+        "Often contains navigation + logo"
+      ]
+    },
+
+    {
+      "tag": "hr",
+      "category": ["Flow"],
+      "void": true,
+      "attributes": [],
+      "dom_interface": "HTMLHRElement",
+      "special_notes": ["Represents thematic break"]
+    },
+
+    {
+      "tag": "html",
+      "category": ["Root"],
+      "void": false,
+      "attributes": ["lang", "xmlns"],
+      "dom_interface": "HTMLHtmlElement",
+      "allowed_children": ["head", "body"],
+      "special_notes": [
+        "Root of the document",
+        "lang attribute strongly recommended"
+      ]
+    }
+  ]
+}
+{
+  "HTML_Elements_IJK": [
+
+    {
+      "tag": "i",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "Represents idiomatic text, technical terms, taxonomic text",
+        "No italic requirement; styling done via CSS"
+      ]
+    },
+
+    {
+      "tag": "iframe",
+      "category": ["Embedded", "Interactive"],
+      "void": false,
+      "attributes": [
+        "src", "srcdoc", "name", "width", "height",
+        "allow", "allowfullscreen", "loading",
+        "referrerpolicy", "sandbox"
+      ],
+      "dom_interface": "HTMLIFrameElement",
+      "allowed_children": ["Text alternative for fallback"],
+      "special_notes": [
+        "Creates nested browsing context",
+        "sandbox attribute controls capabilities",
+        "CORS + COOP + COEP influence isolation"
+      ]
+    },
+
+    {
+      "tag": "img",
+      "category": ["Embedded", "Phrasing"],
+      "void": true,
+      "attributes": [
+        "src", "alt", "width", "height", "loading", "decoding",
+        "srcset", "sizes", "crossorigin", "referrerpolicy", "usemap",
+        "importance", "ismap"
+      ],
+      "dom_interface": "HTMLImageElement",
+      "special_notes": [
+        "Lazy load via loading=lazy",
+        "Auto-decoded off-main-thread",
+        "Participates in responsive images (srcset/sizes)",
+        "Can generate image decode promise"
+      ]
+    },
+
+    {
+      "tag": "input",
+      "category": ["Form-associated", "Phrasing"],
+      "void": true,
+      "attributes": [
+        "type", "name", "value", "placeholder",
+        "min", "max", "step", "pattern",
+        "checked", "multiple", "disabled",
+        "readonly", "required", "autofocus",
+        "form", "formaction", "formenctype",
+        "formmethod", "formnovalidate", "formtarget",
+        "accept", "alt", "src", "height", "width",
+        "autocomplete", "capture"
+      ],
+      "dom_interface": "HTMLInputElement",
+      "special_notes": [
+        "Supports 20+ input types",
+        "Constraint Validation API applies",
+        "File inputs cannot set value via script"
+      ]
+    },
+
+    {
+      "tag": "ins",
+      "category": ["Flow", "Phrasing"],
+      "void": false,
+      "attributes": ["cite", "datetime"],
+      "dom_interface": "HTMLModElement",
+      "special_notes": ["Represents inserted content"]
+    },
+
+    {
+      "tag": "kbd",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "Represents user input (keyboard, voice commands)",
+        "Often styled with monospace"
+      ]
+    },
+
+    {
+      "tag": "keygen",
+      "category": ["Obsolete"],
+      "void": true,
+      "attributes": ["autofocus", "challenge", "disabled", "form", "keytype", "name"],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "Obsolete cryptographic key generator",
+        "Removed from modern browsers"
+      ]
+    },
+
+    {
+      "tag": "label",
+      "category": ["Form-associated", "Interactive"],
+      "void": false,
+      "attributes": ["for", "form"],
+      "dom_interface": "HTMLLabelElement",
+      "allowed_children": ["phrasing content"],
+      "special_notes": [
+        "Clicking label focuses associated input",
+        "Supports nesting input inside label"
+      ]
+    },
+
+    {
+      "tag": "legend",
+      "category": ["Form"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLLegendElement",
+      "special_notes": ["Caption for fieldset"]
+    },
+
+    {
+      "tag": "li",
+      "category": ["List element"],
+      "void": false,
+      "attributes": ["value"],
+      "dom_interface": "HTMLLIElement",
+      "allowed_children": ["flow content"],
+      "special_notes": [
+        "Must be inside <ul>, <ol>, or <menu>"
+      ]
+    },
+
+    {
+      "tag": "link",
+      "category": ["Metadata"],
+      "void": true,
+      "attributes": [
+        "rel", "href", "crossorigin", "media",
+        "referrerpolicy", "type", "sizes",
+        "imagesizes", "imagesrcset", "as",
+        "integrity", "disabled"
+      ],
+      "dom_interface": "HTMLLinkElement",
+      "special_notes": [
+        "Used for stylesheets, icons, preloads, DNS-prefetch",
+        "modulepreload influences JS module graph"
+      ]
+    },
+
+    {
+      "tag": "main",
+      "category": ["Flow", "Sectioning"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "Only one <main> allowed per document",
+        "Represents main content of document"
+      ]
+    },
+
+    {
+      "tag": "map",
+      "category": ["Flow"],
+      "void": false,
+      "attributes": ["name"],
+      "dom_interface": "HTMLMapElement",
+      "allowed_children": ["area", "phrasing content"],
+      "special_notes": [
+        "Defines image map",
+        "<area> defines clickable regions"
+      ]
+    }
+  ]
+}
+{
+  "HTML_Elements_LMN": [
+
+    {
+      "tag": "link",
+      "category": ["Metadata"],
+      "void": true,
+      "attributes": [
+        "rel", "href", "as", "crossorigin", "integrity",
+        "media", "referrerpolicy", "type", "sizes",
+        "imagesizes", "imagesrcset", "disabled"
+      ],
+      "dom_interface": "HTMLLinkElement",
+      "special_notes": [
+        "Used for: stylesheet, preload, prefetch, dns-prefetch",
+        "modulepreload participates in module graph loading"
+      ]
+    },
+
+    {
+      "tag": "menu",
+      "category": ["Flow", "Obsolete in HTML5"],
+      "void": false,
+      "attributes": ["type", "label"],
+      "dom_interface": "HTMLMenuElement",
+      "allowed_children": ["li", "script", "template"],
+      "special_notes": ["Legacy context menus; deprecated"]
+    },
+
+    {
+      "tag": "meta",
+      "category": ["Metadata"],
+      "void": true,
+      "attributes": [
+        "charset", "name", "http-equiv",
+        "content", "media"
+      ],
+      "dom_interface": "HTMLMetaElement",
+      "special_notes": [
+        "Controls charset, viewport, SEO, caching, security",
+        "http-equiv supports CSP, refresh, X-UA-Compatible"
+      ]
+    },
+
+    {
+      "tag": "meter",
+      "category": ["Form-associated", "Phrasing"],
+      "void": false,
+      "attributes": [
+        "value", "min", "max",
+        "low", "high", "optimum"
+      ],
+      "dom_interface": "HTMLMeterElement",
+      "special_notes": [
+        "Represents scalar measurement",
+        "Not a progress bar"
+      ]
+    },
+
+    {
+      "tag": "nav",
+      "category": ["Flow", "Sectioning"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "Represents navigation links",
+        "Assistive tech uses this for landmarks"
+      ]
+    },
+
+    {
+      "tag": "noscript",
+      "category": ["Metadata", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "Content shown when scripts disabled",
+        "Inside <head>, only metadata allowed"
+      ]
+    },
+
+    {
+      "tag": "object",
+      "category": ["Embedded"],
+      "void": false,
+      "attributes": [
+        "data", "type", "name",
+        "form", "width", "height",
+        "usemap"
+      ],
+      "dom_interface": "HTMLObjectElement",
+      "events": ["load", "error"],
+      "special_notes": [
+        "Embeds external resources",
+        "Fallback content allowed",
+        "Acts as form control if type recognized"
+      ]
+    },
+
+    {
+      "tag": "ol",
+      "category": ["Flow"],
+      "void": false,
+      "attributes": ["reversed", "start", "type"],
+      "dom_interface": "HTMLOListElement",
+      "allowed_children": ["li"],
+      "special_notes": ["Ordered list"]
+    },
+
+    {
+      "tag": "optgroup",
+      "category": ["Form"],
+      "void": false,
+      "attributes": ["disabled", "label"],
+      "dom_interface": "HTMLOptGroupElement",
+      "allowed_children": ["option"]
+    },
+
+    {
+      "tag": "option",
+      "category": ["Form"],
+      "void": false,
+      "attributes": ["disabled", "label", "selected", "value"],
+      "dom_interface": "HTMLOptionElement",
+      "special_notes": ["Used inside <select> or <datalist>"]
+    },
+
+    {
+      "tag": "output",
+      "category": ["Form-associated", "Phrasing"],
+      "void": false,
+      "attributes": ["for", "form", "name"],
+      "dom_interface": "HTMLOutputElement",
+      "special_notes": ["Displays calculation results"]
+    },
+
+    {
+      "tag": "p",
+      "category": ["Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLParagraphElement",
+      "special_notes": [
+        "Paragraph element",
+        "Cannot contain block-level elements",
+        "Auto-closes when encountering block elements"
+      ]
+    },
+
+    {
+      "tag": "param",
+      "category": ["Embedded"],
+      "void": true,
+      "attributes": ["name", "value"],
+      "dom_interface": "HTMLParamElement",
+      "special_notes": ["Parameters for <object>"]
+    },
+
+    {
+      "tag": "picture",
+      "category": ["Embedded"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLPictureElement",
+      "allowed_children": ["source", "img"],
+      "special_notes": [
+        "Used for art direction",
+        "Supports AVIF/WebP fallback switching",
+        "Works with responsive images"
+      ]
+    },
+
+    {
+      "tag": "pre",
+      "category": ["Flow"],
+      "void": false,
+      "attributes": ["width"],
+      "dom_interface": "HTMLPreElement",
+      "special_notes": [
+        "Preserves whitespace and line breaks",
+        "Often used for code blocks"
+      ]
+    },
+
+    {
+      "tag": "progress",
+      "category": ["Form-associated", "Phrasing"],
+      "void": false,
+      "attributes": ["max", "value"],
+      "dom_interface": "HTMLProgressElement",
+      "special_notes": [
+        "Represents task completion",
+        "value attribute optional"
+      ]
+    }
+  ]
+}
+{
+  "HTML_Elements_OPQR": [
+
+    {
+      "tag": "q",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": ["cite"],
+      "dom_interface": "HTMLQuoteElement",
+      "special_notes": ["Inline quotation element, user agent inserts quotes"]
+    },
+
+    {
+      "tag": "rp",
+      "category": ["Phrasing"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "Used inside ruby annotation",
+        "Fallback parentheses for browsers without ruby support"
+      ]
+    },
+
+    {
+      "tag": "rt",
+      "category": ["Phrasing"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "Represents ruby text",
+        "Used for phonetic annotation"
+      ]
+    },
+
+    {
+      "tag": "ruby",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "allowed_children": ["phrasing content", "rt", "rp"],
+      "special_notes": [
+        "Ruby annotations (Asian typography)"
+      ]
+    },
+
+    {
+      "tag": "s",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "Represents content that is no longer accurate or relevant"
+      ]
+    },
+
+    {
+      "tag": "samp",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "Represents sample output (e.g. console output)"
+      ]
+    },
+
+    {
+      "tag": "script",
+      "category": ["Metadata", "Flow"],
+      "void": false,
+      "attributes": [
+        "src", "type", "async", "defer", "crossorigin",
+        "integrity", "referrerpolicy", "nomodule",
+        "nonce", "blocking"
+      ],
+      "dom_interface": "HTMLScriptElement",
+      "special_notes": [
+        "Classic & Module scripts",
+        "modulepreload participates in module graph",
+        "nomodule for legacy support",
+        "Inline scripts require correct CSP nonce"
+      ]
+    },
+
+    {
+      "tag": "section",
+      "category": ["Sectioning", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "allowed_children": ["flow content"],
+      "special_notes": ["Defines standalone document section"]
+    },
+
+    {
+      "tag": "select",
+      "category": ["Form-associated"],
+      "void": false,
+      "attributes": ["multiple", "size", "name", "disabled", "required", "autocomplete"],
+      "dom_interface": "HTMLSelectElement",
+      "allowed_children": ["option", "optgroup"],
+      "special_notes": [
+        "Supports single/multiple select modes",
+        "Participates in form submission",
+        "Has selectedIndex and value API"
+      ]
+    },
+
+    {
+      "tag": "slot",
+      "category": ["Shadow DOM"],
+      "void": false,
+      "attributes": ["name"],
+      "dom_interface": "HTMLSlotElement",
+      "special_notes": [
+        "Shadow DOM content projection",
+        "Default slot supported",
+        "slotchange event fires when assigned nodes change"
+      ]
+    },
+
+    {
+      "tag": "small",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Represents side comments or legal disclaimers"]
+    },
+
+    {
+      "tag": "source",
+      "category": ["Media"],
+      "void": true,
+      "attributes": [
+        "src", "type", "srcset", "sizes",
+        "media"
+      ],
+      "dom_interface": "HTMLSourceElement",
+      "special_notes": [
+        "Used inside <video>, <audio>, <picture>",
+        "Media switching & responsive images"
+      ]
+    },
+
+    {
+      "tag": "span",
+      "category": ["Phrasing"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLSpanElement",
+      "special_notes": ["General-purpose phrasing container"]
+    },
+
+    {
+      "tag": "strong",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "Represents strong importance",
+        "Nesting increases importance"
+      ]
+    },
+
+    {
+      "tag": "style",
+      "category": ["Metadata"],
+      "void": false,
+      "attributes": [
+        "media", "nonce", "type", "scoped"
+      ],
+      "dom_interface": "HTMLStyleElement",
+      "special_notes": [
+        "Contains CSS",
+        "CSP may block inline CSS unless nonce provided"
+      ]
+    },
+
+    {
+      "tag": "sub",
+      "category": ["Phrasing"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Subscript text"]
+    },
+
+    {
+      "tag": "summary",
+      "category": ["Interactive"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Used as visible label for <details>"]
+    },
+
+    {
+      "tag": "sup",
+      "category": ["Phrasing"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Superscript text"]
+    }
+  ]
+}
+{
+  "HTML_Elements_S_to_Z": [
+
+    {
+      "tag": "table",
+      "category": ["Flow"],
+      "void": false,
+      "attributes": ["border"],
+      "dom_interface": "HTMLTableElement",
+      "allowed_children": ["caption", "colgroup", "thead", "tbody", "tfoot", "tr"],
+      "special_notes": ["Represents tabular data"]
+    },
+
+    {
+      "tag": "tbody",
+      "category": ["Table"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLTableSectionElement",
+      "allowed_children": ["tr"]
+    },
+
+    {
+      "tag": "td",
+      "category": ["Table cell"],
+      "void": false,
+      "attributes": ["colspan", "rowspan", "headers"],
+      "dom_interface": "HTMLTableCellElement",
+      "allowed_children": ["flow content"]
+    },
+
+    {
+      "tag": "template",
+      "category": ["Metadata", "Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLTemplateElement",
+      "special_notes": [
+        "Content stored in .content DocumentFragment",
+        "Not rendered until inserted"
+      ]
+    },
+
+    {
+      "tag": "textarea",
+      "category": ["Form-associated"],
+      "void": false,
+      "attributes": [
+        "name", "placeholder", "maxlength", "minlength",
+        "readonly", "disabled", "required", "rows", "cols",
+        "wrap", "autocomplete"
+      ],
+      "dom_interface": "HTMLTextAreaElement",
+      "special_notes": [
+        "Preserves default newlines",
+        "value is text content"
+      ]
+    },
+
+    {
+      "tag": "tfoot",
+      "category": ["Table"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLTableSectionElement",
+      "allowed_children": ["tr"],
+      "special_notes": ["Rendered before tbody for incremental layout"]
+    },
+
+    {
+      "tag": "th",
+      "category": ["Table cell"],
+      "void": false,
+      "attributes": ["colspan", "rowspan", "headers", "scope"],
+      "dom_interface": "HTMLTableCellElement",
+      "special_notes": ["Header cell"]
+    },
+
+    {
+      "tag": "thead",
+      "category": ["Table"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLTableSectionElement",
+      "allowed_children": ["tr"]
+    },
+
+    {
+      "tag": "time",
+      "category": ["Phrasing", "Flow"],
+      "void": false,
+      "attributes": ["datetime"],
+      "dom_interface": "HTMLTimeElement"
+    },
+
+    {
+      "tag": "title",
+      "category": ["Metadata"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLTitleElement",
+      "allowed_children": ["text"],
+      "special_notes": [
+        "Document title",
+        "Required in <head>"
+      ]
+    },
+
+    {
+      "tag": "tr",
+      "category": ["Table row"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLTableRowElement",
+      "allowed_children": ["td", "th"]
+    },
+
+    {
+      "tag": "track",
+      "category": ["Media"],
+      "void": true,
+      "attributes": [
+        "default", "kind", "label", "src", "srclang"
+      ],
+      "dom_interface": "HTMLTrackElement",
+      "special_notes": [
+        "Captions/subtitles for <video>/<audio>",
+        "kind supports: subtitles/captions/descriptions/chapters/metadata"
+      ]
+    },
+
+    {
+      "tag": "u",
+      "category": ["Phrasing"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Represents non-textual annotation (e.g. misspelling)"]
+    },
+
+    {
+      "tag": "ul",
+      "category": ["Flow"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLUListElement",
+      "allowed_children": ["li"],
+      "special_notes": ["Unordered list"]
+    },
+
+    {
+      "tag": "var",
+      "category": ["Phrasing"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Represents variable name or placeholder"]
+    },
+
+    {
+      "tag": "video",
+      "category": ["Embedded", "Interactive"],
+      "void": false,
+      "attributes": [
+        "src", "controls", "autoplay", "muted", "loop",
+        "poster", "preload", "width", "height", "crossorigin",
+        "playsinline"
+      ],
+      "dom_interface": "HTMLVideoElement",
+      "allowed_children": ["source", "track", "transparent content"],
+      "special_notes": [
+        "Provides video playback",
+        "Hardware decoding supported",
+        "Participates in fullscreen API"
+      ]
+    },
+
+    {
+      "tag": "wbr",
+      "category": ["Phrasing"],
+      "void": true,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": ["Word break opportunity"]
+    },
+
+    {
+      "tag": "xmp",
+      "category": ["Obsolete"],
+      "void": false,
+      "attributes": [],
+      "dom_interface": "HTMLElement",
+      "special_notes": [
+        "Legacy raw text element",
+        "Deprecated; use <pre> instead"
+      ]
+    }
+  ]
+}
