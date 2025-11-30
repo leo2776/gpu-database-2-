@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "Intel_Core_i9": [
     "Core i9-14900KS",
@@ -3363,3 +3364,3370 @@
     "Airoha AN8055"
   ]
 }
+=======
+{
+  "Intel_Core_i9": [
+    "Core i9-14900KS",
+    "Core i9-14900K",
+    "Core i9-14900KF",
+    "Core i9-14900",
+    "Core i9-14900F",
+
+    "Core i9-14950HX",
+    "Core i9-14900HX",
+    "Core i9-14900H",
+
+    "Core i9-13980HX",
+    "Core i9-13950HX",
+    "Core i9-13900HX",
+    "Core i9-13905H",
+    "Core i9-13900H",
+    "Core i9-13900HK",
+
+    "Core i9-13900KS",
+    "Core i9-13900K",
+    "Core i9-13900KF",
+    "Core i9-13900",
+    "Core i9-13900F",
+
+    "Core i9-12950HX",
+    "Core i9-12900HX",
+    "Core i9-12900H",
+    "Core i9-12900HK",
+
+    "Core i9-12900KS",
+    "Core i9-12900K",
+    "Core i9-12900KF",
+    "Core i9-12900",
+    "Core i9-12900F",
+
+    "Core i9-11980HK",
+    "Core i9-11950H",
+    "Core i9-11900H",
+
+    "Core i9-11900K",
+    "Core i9-11900KF",
+    "Core i9-11900",
+    "Core i9-11900F",
+
+    "Core i9-10980HK",
+    "Core i9-10990XE",
+    "Core i9-10980XE",
+    "Core i9-10940X",
+    "Core i9-10920X",
+    "Core i9-10900X",
+
+    "Core i9-10900K",
+    "Core i9-10900KF",
+    "Core i9-10900",
+    "Core i9-10900F",
+    "Core i9-10900T",
+
+    "Core i9-9980HK",
+
+    "Core i9-9980XE",
+    "Core i9-9960X",
+    "Core i9-9940X",
+    "Core i9-9920X",
+    "Core i9-9900X",
+
+    "Core i9-9900KS",
+    "Core i9-9900K",
+    "Core i9-9900KF",
+    "Core i9-9900",
+    "Core i9-9900F",
+    "Core i9-9900T",
+
+    "Core i9-9880H",
+
+    "Core i9-8950HK",
+
+    "Core i9-7980XE",
+    "Core i9-7960X",
+    "Core i9-7940X",
+    "Core i9-7920X",
+    "Core i9-7900X"
+  ]
+}
+{
+  "Intel_Core_i7": [
+    "Core i7-14700K",
+    "Core i7-14700KF",
+    "Core i7-14700",
+    "Core i7-14700F",
+
+    "Core i7-14750HX",
+    "Core i7-14700HX",
+    "Core i7-14700H",
+    "Core i7-14700HE",
+
+    "Core i7-13700K",
+    "Core i7-13700KF",
+    "Core i7-13700",
+    "Core i7-13700F",
+
+    "Core i7-13700HX",
+    "Core i7-13705H",
+    "Core i7-13700H",
+    "Core i7-13700HE",
+
+    "Core i7-12700K",
+    "Core i7-12700KF",
+    "Core i7-12700",
+    "Core i7-12700F",
+    "Core i7-12700T",
+
+    "Core i7-12800HX",
+    "Core i7-12850HX",
+    "Core i7-12700HX",
+    "Core i7-12700H",
+    "Core i7-12700HE",
+
+    "Core i7-11800H",
+    "Core i7-11850H",
+    "Core i7-1185G7",
+    "Core i7-1165G7",
+    "Core i7-11375H",
+    "Core i7-11370H",
+    "Core i7-1160G7",
+    "Core i7-1195G7",
+
+    "Core i7-11700K",
+    "Core i7-11700KF",
+    "Core i7-11700",
+    "Core i7-11700F",
+    "Core i7-11700T",
+
+    "Core i7-10700K",
+    "Core i7-10700KF",
+    "Core i7-10700",
+    "Core i7-10700F",
+    "Core i7-10700T",
+
+    "Core i7-10875H",
+    "Core i7-10870H",
+    "Core i7-10850H",
+    "Core i7-1068NG7",
+    "Core i7-1065G7",
+    "Core i7-10510U",
+    "Core i7-10810U",
+
+    "Core i7-9700K",
+    "Core i7-9700KF",
+    "Core i7-9700",
+    "Core i7-9700F",
+    "Core i7-9700T",
+
+    "Core i7-9850H",
+    "Core i7-9750H",
+    "Core i7-9700H",
+
+    "Core i7-8700K",
+    "Core i7-8700",
+    "Core i7-8700T",
+
+    "Core i7-8650U",
+    "Core i7-8559U",
+    "Core i7-8550U",
+    "Core i7-8565U",
+    "Core i7-8665U",
+
+    "Core i7-8809G",
+    "Core i7-8706G",
+    "Core i7-8705G",
+    "Core i7-8709G",
+
+    "Core i7-7820HK",
+    "Core i7-7820HQ",
+    "Core i7-7700K",
+    "Core i7-7700",
+    "Core i7-7700T",
+
+    "Core i7-7600U",
+    "Core i7-7500U",
+
+    "Core i7-6950X",
+    "Core i7-6900K",
+    "Core i7-6850K",
+    "Core i7-6800K",
+
+    "Core i7-5930K",
+    "Core i7-5960X",
+
+    "Core i7-4960X",
+    "Core i7-4930K",
+    "Core i7-4820K",
+
+    "Core i7-3970X",
+    "Core i7-3960X",
+    "Core i7-3930K",
+    "Core i7-3820"
+  ]
+}
+{
+  "Intel_Core_i5": [
+    "Core i5-14600K",
+    "Core i5-14600KF",
+    "Core i5-14600",
+    "Core i5-14600F",
+
+    "Core i5-14500",
+    "Core i5-14500T",
+    "Core i5-14400",
+    "Core i5-14400F",
+    "Core i5-14400T",
+
+    "Core i5-14500HX",
+    "Core i5-14450HX",
+    "Core i5-14400H",
+    "Core i5-14400HE",
+
+    "Core i5-13600K",
+    "Core i5-13600KF",
+    "Core i5-13600",
+    "Core i5-13600T",
+
+    "Core i5-13500",
+    "Core i5-13500T",
+    "Core i5-13400",
+    "Core i5-13400F",
+    "Core i5-13400T",
+
+    "Core i5-13600HX",
+    "Core i5-13505H",
+    "Core i5-13500H",
+    "Core i5-13500HE",
+
+    "Core i5-12600K",
+    "Core i5-12600KF",
+    "Core i5-12600",
+    "Core i5-12600T",
+
+    "Core i5-12500",
+    "Core i5-12500T",
+    "Core i5-12400",
+    "Core i5-12400F",
+    "Core i5-12400T",
+
+    "Core i5-12500H",
+    "Core i5-12450H",
+    "Core i5-1240P",
+    "Core i5-1235U",
+    "Core i5-1230U",
+    "Core i5-1245U",
+
+    "Core i5-11600K",
+    "Core i5-11600KF",
+    "Core i5-11600",
+    "Core i5-11600T",
+
+    "Core i5-11500",
+    "Core i5-11500T",
+    "Core i5-11400",
+    "Core i5-11400F",
+    "Core i5-11400T",
+
+    "Core i5-1155G7",
+    "Core i5-1145G7",
+    "Core i5-1135G7",
+    "Core i5-1130G7",
+    "Core i5-11400H",
+    "Core i5-11260H",
+
+    "Core i5-10600K",
+    "Core i5-10600KF",
+    "Core i5-10600",
+    "Core i5-10600T",
+
+    "Core i5-10500",
+    "Core i5-10500T",
+    "Core i5-10400",
+    "Core i5-10400F",
+    "Core i5-10400T",
+
+    "Core i5-10300H",
+    "Core i5-10200H",
+    "Core i5-1035G7",
+    "Core i5-1035G4",
+    "Core i5-1035G1",
+    "Core i5-1030G7",
+    "Core i5-10210U",
+
+    "Core i5-9600K",
+    "Core i5-9600KF",
+    "Core i5-9600",
+    "Core i5-9600T",
+
+    "Core i5-9500",
+    "Core i5-9500F",
+    "Core i5-9500T",
+    "Core i5-9400",
+    "Core i5-9400F",
+    "Core i5-9400T",
+
+    "Core i5-9300H",
+    "Core i5-9300HF",
+    "Core i5-9400H",
+
+    "Core i5-8600K",
+    "Core i5-8600",
+    "Core i5-8600T",
+
+    "Core i5-8500",
+    "Core i5-8500T",
+    "Core i5-8400",
+    "Core i5-8400T",
+
+    "Core i5-8259U",
+    "Core i5-8269U",
+    "Core i5-8250U",
+    "Core i5-8265U",
+    "Core i5-8279U",
+    "Core i5-8350U",
+
+    "Core i5-7600K",
+    "Core i5-7600",
+    "Core i5-7600T",
+    "Core i5-7500",
+    "Core i5-7500T",
+    "Core i5-7400",
+    "Core i5-7400T",
+
+    "Core i5-7300HQ",
+    "Core i5-7300U",
+    "Core i5-7200U",
+
+    "Core i5-6600K",
+    "Core i5-6600",
+    "Core i5-6600T",
+    "Core i5-6500",
+    "Core i5-6500T",
+    "Core i5-6400",
+    "Core i5-6400T",
+
+    "Core i5-6300HQ",
+    "Core i5-6300U",
+    "Core i5-6200U"
+  ]
+}
+{
+  "Intel_Core_i3": [
+    "Core i3-14300",
+    "Core i3-14300T",
+    "Core i3-14100",
+    "Core i3-14100F",
+    "Core i3-14100T",
+
+    "Core i3-13100",
+    "Core i3-13100F",
+    "Core i3-13100T",
+    "Core i3-13200",
+    "Core i3-13200T",
+
+    "Core i3-12300",
+    "Core i3-12300T",
+    "Core i3-12100",
+    "Core i3-12100F",
+    "Core i3-12100T",
+
+    "Core i3-1220P",
+    "Core i3-1215U",
+    "Core i3-1210U",
+
+    "Core i3-1125G4",
+    "Core i3-1120G4",
+    "Core i3-1115G4",
+    "Core i3-1110G4",
+
+    "Core i3-10320",
+    "Core i3-10300",
+    "Core i3-10300T",
+    "Core i3-10100",
+    "Core i3-10100F",
+    "Core i3-10100T",
+
+    "Core i3-1005G1",
+    "Core i3-1000G4",
+    "Core i3-1000G1",
+    "Core i3-10110U",
+    "Core i3-10210U",
+
+    "Core i3-9350K",
+    "Core i3-9320",
+    "Core i3-9300",
+    "Core i3-9300T",
+    "Core i3-9100",
+    "Core i3-9100F",
+    "Core i3-9100T",
+
+    "Core i3-9020",
+    "Core i3-9020T",
+
+    "Core i3-8130U",
+    "Core i3-8145U",
+    "Core i3-8100",
+    "Core i3-8100T",
+    "Core i3-8300",
+    "Core i3-8300T",
+
+    "Core i3-7100",
+    "Core i3-7100T",
+    "Core i3-7300",
+    "Core i3-7300T",
+    "Core i3-7350K",
+
+    "Core i3-7020U",
+    "Core i3-7100U",
+
+    "Core i3-6100",
+    "Core i3-6100T",
+    "Core i3-6300",
+    "Core i3-6300T",
+    "Core i3-6320",
+
+    "Core i3-6006U",
+    "Core i3-6100U",
+
+    "Core i3-5010U",
+    "Core i3-5020U",
+    "Core i3-5157U",
+    "Core i3-5300U",
+
+    "Core i3-4370",
+    "Core i3-4360",
+    "Core i3-4350",
+    "Core i3-4340",
+    "Core i3-4330",
+    "Core i3-4320",
+    "Core i3-4160",
+    "Core i3-4150",
+    "Core i3-4130",
+
+    "Core i3-4100M",
+    "Core i3-4010U",
+    "Core i3-4020Y",
+    "Core i3-4030U",
+
+    "Core i3-3250",
+    "Core i3-3240",
+    "Core i3-3220",
+    "Core i3-3210",
+    "Core i3-3225",
+    "Core i3-3245",
+
+    "Core i3-3110M",
+    "Core i3-3120M",
+    "Core i3-3227U",
+    "Core i3-3217U",
+
+    "Core i3-2100",
+    "Core i3-2120",
+    "Core i3-2130",
+    "Core i3-2105",
+    "Core i3-2125",
+    "Core i3-2100T",
+
+    "Core i3-2310M",
+    "Core i3-2330M",
+    "Core i3-2350M",
+    "Core i3-2370M"
+  ]
+}
+{
+  "Intel_Core_Ultra_and_NewGen": [
+    "Core Ultra 9 185H",
+    "Core Ultra 9 185U",
+    "Core Ultra 9 195H",
+    "Core Ultra 9 198V",
+
+    "Core Ultra 7 165H",
+    "Core Ultra 7 165U",
+    "Core Ultra 7 155H",
+    "Core Ultra 7 155U",
+    "Core Ultra 7 164U",
+    "Core Ultra 7 158V",
+
+    "Core Ultra 5 135H",
+    "Core Ultra 5 135U",
+    "Core Ultra 5 125H",
+    "Core Ultra 5 125U",
+    "Core Ultra 5 124V",
+    "Core Ultra 5 115U",
+    "Core Ultra 5 116V",
+
+    "Core Ultra 3 115U",
+    "Core Ultra 3 112U",
+    "Core Ultra 3 114V",
+
+    "Core 7 150U",
+    "Core 7 155U",
+    "Core 7 165U",
+    "Core 7 120U",
+    "Core 7 115U",
+
+    "Core 5 120U",
+    "Core 5 125U",
+    "Core 5 135U",
+    "Core 5 110U",
+    "Core 5 113U",
+
+    "Core 3 100U",
+    "Core 3 102U",
+    "Core 3 111U",
+
+    "Core Ultra 7 256V",
+    "Core Ultra 5 236V",
+    "Core Ultra 5 226V",
+    "Core Ultra 3 214V",
+
+    "Core Ultra 9 285H",
+    "Core Ultra 7 275H",
+    "Core Ultra 5 255H",
+    "Core Ultra 5 245H",
+
+    "Core Ultra 7 268V",
+    "Core Ultra 5 228V",
+    "Core Ultra 3 218V",
+
+    "Core Ultra 7 266U",
+    "Core Ultra 7 268U",
+    "Core Ultra 5 246U",
+    "Core Ultra 5 236U",
+    "Core Ultra 3 216U",
+
+    "Core Ultra 9 197U",
+    "Core Ultra 7 167U",
+    "Core Ultra 5 147U",
+    "Core Ultra 3 117U",
+
+    "Core Ultra 7 257V",
+    "Core Ultra 5 237V",
+    "Core Ultra 3 217V",
+
+    "Core 7 170U",
+    "Core 7 180U",
+    "Core 7 190U",
+
+    "Core 5 140U",
+    "Core 5 150U",
+    "Core 5 160U",
+
+    "Core 3 120U",
+    "Core 3 130U",
+
+    "Core Ultra 7 155S",
+    "Core Ultra 5 135S",
+    "Core Ultra 3 115S",
+
+    "Core 7 250",
+    "Core 5 230",
+    "Core 3 210",
+
+    "Core 7 256NV",
+    "Core 5 236NV",
+    "Core 3 216NV"
+  ]
+}
+{
+  "Intel_Pentium_Celeron": [
+
+    "Pentium Gold G7400",
+    "Pentium Gold G7400T",
+    "Pentium Gold G6405",
+    "Pentium Gold G6405T",
+    "Pentium Gold G6505",
+    "Pentium Gold G6505T",
+    "Pentium Gold G6605",
+    "Pentium Gold G6605T",
+
+    "Pentium Gold G5620",
+    "Pentium Gold G5600",
+    "Pentium Gold G5600T",
+    "Pentium Gold G5420",
+    "Pentium Gold G5420T",
+    "Pentium Gold G5400",
+    "Pentium Gold G5400T",
+    "Pentium Gold G5500",
+    "Pentium Gold G5500T",
+
+    "Pentium Silver N6005",
+    "Pentium Silver N6000",
+    "Pentium Silver N5030",
+    "Pentium Silver N5000",
+    "Pentium Silver J5040",
+    "Pentium Silver J5005",
+
+    "Pentium N6415",
+    "Pentium N6405",
+    "Pentium 8505",
+    "Pentium 7505",
+
+    "Pentium 4415Y",
+    "Pentium 4417U",
+    "Pentium 4410Y",
+    "Pentium 5405U",
+    "Pentium 6500Y",
+    "Pentium 6600Y",
+
+    "Pentium G4620",
+    "Pentium G4600",
+    "Pentium G4560",
+    "Pentium G4550",
+
+    "Celeron N5105",
+    "Celeron N5095",
+    "Celeron N4500",
+    "Celeron N4020",
+    "Celeron N4000",
+    "Celeron N4100",
+
+    "Celeron J4125",
+    "Celeron J4105",
+    "Celeron J4005",
+
+    "Celeron G5925",
+    "Celeron G5905",
+    "Celeron G5900",
+    "Celeron G5900T",
+    "Celeron G5920",
+    "Celeron G4930",
+    "Celeron G4930T",
+    "Celeron G4920",
+    "Celeron G4900",
+    "Celeron G4900T",
+
+    "Celeron 7305",
+    "Celeron 6305",
+    "Celeron 5205U",
+    "Celeron 4205U",
+    "Celeron 3867U",
+    "Celeron 3855U",
+
+    "Celeron 1037U",
+    "Celeron 1005M",
+    "Celeron 1017U",
+    "Celeron 2955U",
+    "Celeron 2970M",
+    "Celeron 2980U",
+
+    "Celeron 3205U",
+    "Celeron 3215U",
+    "Celeron 3765U",
+    "Celeron 3955U",
+
+    "Pentium 4415U",
+    "Pentium 4410U",
+    "Pentium 5405U",
+    "Pentium 6405U",
+
+    "Pentium Silver A1020",
+    "Celeron A1019",
+    "Celeron A1020",
+
+    "Celeron N3350",
+    "Celeron N3450",
+    "Celeron N3060",
+    "Celeron N3160",
+
+    "Pentium N3710",
+    "Pentium N3540",
+    "Pentium N3520",
+    "Pentium N3700",
+
+    "Celeron N2830",
+    "Celeron N2840",
+    "Celeron N2920",
+    "Celeron N2930",
+
+    "Pentium J3710",
+    "Pentium J2900",
+    "Celeron J1800",
+    "Celeron J1900",
+
+    "Celeron 847",
+    "Celeron 867",
+    "Celeron 3855U",
+    "Celeron 3865U",
+
+    "Pentium G2130",
+    "Pentium G2030",
+    "Pentium G2010",
+    "Pentium G2020",
+    "Pentium G3220",
+    "Pentium G3250",
+    "Pentium G3260",
+
+    "Celeron G1620",
+    "Celeron G1630",
+    "Celeron G1820",
+    "Celeron G1840",
+    "Celeron G1850",
+
+    "Pentium 5400",
+    "Pentium 4425Y",
+    "Pentium 6500",
+    "Pentium 7500",
+
+    "Celeron N3050",
+    "Celeron N3000",
+    "Celeron N3060",
+    "Celeron N3160",
+    "Celeron N4000A",
+
+    "Celeron 2970U",
+    "Celeron 2981U",
+    "Celeron 2990C",
+
+    "Celeron 4305UE",
+    "Celeron 4305U",
+    "Celeron 4205E",
+    "Celeron 3865E",
+
+    "Pentium Silver J3710",
+    "Pentium Silver J5005",
+    "Pentium Silver J5050",
+
+    "Celeron 3950U",
+    "Celeron 3867U",
+    "Celeron 3865U",
+
+    "Pentium Gold 7505",
+    "Pentium Gold 8505",
+
+    "Celeron 7300",
+    "Celeron 6300"
+  ]
+}
+{
+  "Intel_Atom": [
+
+    "Atom x7-Z8750",
+    "Atom x7-Z8700",
+    "Atom x7-Z8550",
+    "Atom x7-Z8500",
+
+    "Atom x5-Z8550",
+    "Atom x5-Z8500",
+    "Atom x5-Z8350",
+    "Atom x5-Z8330",
+    "Atom x5-Z8300",
+
+    "Atom Z3795",
+    "Atom Z3790",
+    "Atom Z3775",
+    "Atom Z3770",
+    "Atom Z3765",
+    "Atom Z3745",
+    "Atom Z3740",
+    "Atom Z3735F",
+    "Atom Z3735G",
+    "Atom Z3736F",
+    "Atom Z3736G",
+    "Atom Z3725F",
+    "Atom Z3725G",
+
+    "Atom Z2760",
+    "Atom Z2580",
+    "Atom Z2560",
+    "Atom Z2520",
+    "Atom Z2480",
+    "Atom Z2460",
+
+    "Atom N2800",
+    "Atom N2810",
+    "Atom N2830",
+    "Atom N2840",
+    "Atom N2850",
+    "Atom N2910",
+    "Atom N2920",
+    "Atom N2930",
+    "Atom N2940",
+    "Atom N2950",
+
+    "Atom N330",
+    "Atom N270",
+    "Atom N2600",
+    "Atom N2800",
+
+    "Atom D525",
+    "Atom D510",
+    "Atom D425",
+    "Atom D410",
+    "Atom D2550",
+    "Atom D2500",
+
+    "Atom C2758",
+    "Atom C2750",
+    "Atom C2738",
+    "Atom C2538",
+    "Atom C2558",
+    "Atom C2358",
+    "Atom C2338",
+
+    "Atom C3338R",
+    "Atom C3558",
+    "Atom C3758",
+    "Atom C3858",
+
+    "Atom E3826",
+    "Atom E3825",
+    "Atom E3815",
+    "Atom E3845",
+    "Atom E3827",
+    "Atom E3930",
+    "Atom E3940",
+    "Atom E3950",
+
+    "Atom x6200FE",
+    "Atom x6211E",
+    "Atom x6413E",
+    "Atom x6425E",
+    "Atom x6427FE",
+
+    "Atom x3-C3230RK",
+    "Atom x3-C3440",
+    "Atom x3-C3200",
+    "Atom x3-Z3530",
+    "Atom x3-Z3500",
+
+    "Atom 330",
+    "Atom 230",
+    "Atom 455",
+    "Atom 450",
+    "Atom 470",
+    "Atom 425",
+    "Atom 435",
+
+    "Atom N4100",
+    "Atom N4120",
+    "Atom N5000",
+    "Atom N5100",
+    "Atom N6000",
+    "Atom N6005",
+
+    "Atom X5-Z8500",
+    "Atom X5-Z8550",
+    "Atom X5-Z8330",
+    "Atom X5-Z8360",
+
+    "Atom A110",
+    "Atom A120",
+    "Atom A100",
+    "Atom A121",
+
+    "Atom E660",
+    "Atom E680",
+    "Atom E620",
+    "Atom E640",
+
+    "Atom C6208",
+    "Atom C6210",
+    "Atom C6230",
+    "Atom C6258",
+    "Atom C6278",
+
+    "Atom E660T",
+    "Atom E3818",
+    "Atom E3820",
+    "Atom E3805",
+
+    "Atom Z550",
+    "Atom Z540",
+    "Atom Z530",
+    "Atom Z520",
+    "Atom Z510",
+
+    "Atom D2700",
+    "Atom D2560",
+    "Atom D2701",
+
+    "Atom N570",
+    "Atom N560",
+    "Atom N550",
+    "Atom N530",
+
+    "Atom 3300",
+    "Atom 2300",
+    "Atom C2000",
+    "Atom C2100"
+  ]
+}
+{
+  "Intel_Xeon": [
+
+    "Xeon Platinum 8490H",
+    "Xeon Platinum 8480+",
+    "Xeon Platinum 8470N",
+    "Xeon Platinum 8460Y+",
+    "Xeon Platinum 8468",
+    "Xeon Platinum 8452Y",
+    "Xeon Platinum 8480H",
+    "Xeon Platinum 8460H",
+    "Xeon Platinum 8458P",
+
+    "Xeon Gold 6430",
+    "Xeon Gold 6421N",
+    "Xeon Gold 6426",
+    "Xeon Gold 6428N",
+    "Xeon Gold 6418N",
+    "Xeon Gold 6414U",
+    "Xeon Gold 5412U",
+    "Xeon Gold 5416S",
+    "Xeon Gold 5418Y",
+
+    "Xeon Silver 4416+",
+    "Xeon Silver 4410T",
+    "Xeon Silver 4410Y",
+    "Xeon Silver 4414Y",
+    "Xeon Silver 4309Y",
+    "Xeon Silver 4314",
+    "Xeon Silver 4310",
+    "Xeon Silver 4216",
+    "Xeon Silver 4214R",
+    "Xeon Silver 4210R",
+
+    "Xeon Bronze 3408U",
+    "Xeon Bronze 3204",
+    "Xeon Bronze 3206R",
+    "Xeon Bronze 3104",
+    "Xeon Bronze 3106",
+
+    "Xeon W-3375",
+    "Xeon W-3365",
+    "Xeon W-3345",
+    "Xeon W-3335",
+    "Xeon W-3323",
+
+    "Xeon W-2295",
+    "Xeon W-2275",
+    "Xeon W-2265",
+    "Xeon W-2255",
+    "Xeon W-2245",
+    "Xeon W-2235",
+    "Xeon W-2225",
+    "Xeon W-2155",
+    "Xeon W-2145",
+
+    "Xeon W-1290P",
+    "Xeon W-1290",
+    "Xeon W-1270P",
+    "Xeon W-1270",
+    "Xeon W-1250",
+    "Xeon W-1230",
+    "Xeon W-1290E",
+    "Xeon W-1270E",
+
+    "Xeon E-2388G",
+    "Xeon E-2378G",
+    "Xeon E-2374G",
+    "Xeon E-2378",
+    "Xeon E-2376G",
+    "Xeon E-2356G",
+    "Xeon E-2336",
+    "Xeon E-2334",
+
+    "Xeon E-2288G",
+    "Xeon E-2286G",
+    "Xeon E-2286M",
+    "Xeon E-2278G",
+    "Xeon E-2276G",
+    "Xeon E-2274G",
+    "Xeon E-2278GE",
+    "Xeon E-2246G",
+    "Xeon E-2236",
+    "Xeon E-2226G",
+    "Xeon E-2200 Series",
+
+    "Xeon E3-1285 v6",
+    "Xeon E3-1280 v6",
+    "Xeon E3-1275 v6",
+    "Xeon E3-1270 v6",
+    "Xeon E3-1245 v6",
+    "Xeon E3-1240 v6",
+    "Xeon E3-1230 v6",
+    "Xeon E3-1225 v6",
+    "Xeon E3-1220 v6",
+
+    "Xeon E5-2699 v4",
+    "Xeon E5-2698 v4",
+    "Xeon E5-2697A v4",
+    "Xeon E5-2697 v4",
+    "Xeon E5-2695 v4",
+    "Xeon E5-2680 v4",
+    "Xeon E5-2678 v4",
+    "Xeon E5-2667 v4",
+
+    "Xeon E5-2699 v3",
+    "Xeon E5-2698 v3",
+    "Xeon E5-2697 v3",
+    "Xeon E5-2680 v3",
+    "Xeon E5-2678 v3",
+    "Xeon E5-2667 v3",
+
+    "Xeon E7-8894 v4",
+    "Xeon E7-8893 v4",
+    "Xeon E7-8891 v4",
+    "Xeon E7-8890 v4",
+    "Xeon E7-8880 v4",
+
+    "Xeon D-2183IT",
+    "Xeon D-2166NT",
+    "Xeon D-2146NT",
+    "Xeon D-2141I",
+    "Xeon D-2123IT"
+  ]
+}
+{
+  "Intel_Xeon_Classic": [
+
+    "Xeon E5-2699 v2",
+    "Xeon E5-2698 v2",
+    "Xeon E5-2697 v2",
+    "Xeon E5-2695 v2",
+    "Xeon E5-2690 v2",
+    "Xeon E5-2687W v2",
+    "Xeon E5-2680 v2",
+    "Xeon E5-2678 v2",
+    "Xeon E5-2670 v2",
+    "Xeon E5-2667 v2",
+    "Xeon E5-2660 v2",
+    "Xeon E5-2658 v2",
+    "Xeon E5-2650 v2",
+    "Xeon E5-2648L v2",
+    "Xeon E5-2643 v2",
+    "Xeon E5-2640 v2",
+    "Xeon E5-2637 v2",
+    "Xeon E5-2630 v2",
+    "Xeon E5-2628L v2",
+    "Xeon E5-2620 v2",
+    "Xeon E5-2609 v2",
+
+    "Xeon E5-2699",
+    "Xeon E5-2698",
+    "Xeon E5-2697",
+    "Xeon E5-2695",
+    "Xeon E5-2690",
+    "Xeon E5-2687W",
+    "Xeon E5-2680",
+    "Xeon E5-2678",
+    "Xeon E5-2676",
+    "Xeon E5-2670",
+    "Xeon E5-2667",
+    "Xeon E5-2665",
+    "Xeon E5-2660",
+    "Xeon E5-2658",
+    "Xeon E5-2650",
+    "Xeon E5-2648L",
+    "Xeon E5-2643",
+    "Xeon E5-2640",
+    "Xeon E5-2630",
+    "Xeon E5-2628L",
+    "Xeon E5-2620",
+    "Xeon E5-2609",
+
+    "Xeon E7-8890 v3",
+    "Xeon E7-8880 v3",
+    "Xeon E7-8870 v3",
+    "Xeon E7-8867 v3",
+    "Xeon E7-8857 v3",
+    "Xeon E7-8891 v3",
+
+    "Xeon E7-8890 v2",
+    "Xeon E7-8880 v2",
+    "Xeon E7-8870 v2",
+    "Xeon E7-8860 v2",
+    "Xeon E7-8850 v2",
+
+    "Xeon E7-8890",
+    "Xeon E7-8880",
+    "Xeon E7-8870",
+    "Xeon E7-8860",
+    "Xeon E7-8850",
+
+    "Xeon X5690",
+    "Xeon X5687",
+    "Xeon X5680",
+    "Xeon X5675",
+    "Xeon X5672",
+    "Xeon X5670",
+    "Xeon X5660",
+    "Xeon X5650",
+
+    "Xeon W3690",
+    "Xeon W3680",
+    "Xeon W3670",
+
+    "Xeon E5649",
+    "Xeon E5645",
+    "Xeon E5640",
+    "Xeon E5630",
+    "Xeon E5620",
+    "Xeon E5607",
+
+    "Xeon L5640",
+    "Xeon L5630",
+    "Xeon L5609",
+
+    "Xeon X5570",
+    "Xeon X5560",
+    "Xeon X5550",
+    "Xeon X5540",
+
+    "Xeon E5540",
+    "Xeon E5530",
+    "Xeon E5520",
+    "Xeon E5506",
+    "Xeon E5504",
+
+    "Xeon L5520",
+    "Xeon L5506",
+
+    "Xeon X5492",
+    "Xeon X5482",
+    "Xeon X5470",
+    "Xeon X5460",
+    "Xeon X5450",
+    "Xeon X5440",
+    "Xeon X5430",
+    "Xeon X5420",
+    "Xeon X5410",
+
+    "Xeon E5450",
+    "Xeon E5440",
+    "Xeon E5430",
+    "Xeon E5420",
+    "Xeon E5410",
+
+    "Xeon L5430",
+    "Xeon L5420",
+    "Xeon L5410",
+
+    "Xeon X5365",
+    "Xeon X5355",
+    "Xeon X5345",
+    "Xeon X5335",
+
+    "Xeon E5345",
+    "Xeon E5335",
+    "Xeon E5320",
+    "Xeon E5310",
+
+    "Xeon LV 5148",
+    "Xeon LV 5138",
+
+    "Xeon 5160",
+    "Xeon 5150",
+    "Xeon 5140",
+    "Xeon 5130",
+    "Xeon 5120",
+
+    "Xeon 5080",
+    "Xeon 5063",
+    "Xeon 5060",
+    "Xeon 5050",
+
+    "Xeon 3.8GHz",
+    "Xeon 3.6GHz",
+    "Xeon 3.4GHz",
+
+    "Xeon 7120M",
+    "Xeon 7120N",
+    "Xeon 7120X",
+
+    "Xeon 7110M",
+    "Xeon 7110N",
+
+    "Xeon 5080",
+    "Xeon 5063",
+    "Xeon 5050",
+
+    "Xeon MP 9150",
+    "Xeon MP 7140",
+    "Xeon MP 7130",
+    "Xeon MP 7120",
+    "Xeon MP 7110"
+  ]
+}
+{
+  "Intel_Xeon_D": [
+
+    "Xeon D-2796NT",
+    "Xeon D-2776NT",
+    "Xeon D-2753NT",
+    "Xeon D-2746NT",
+    "Xeon D-2733NT",
+    "Xeon D-2723NT",
+    "Xeon D-2775N",
+    "Xeon D-2752N",
+    "Xeon D-2749N",
+    "Xeon D-2732N",
+    "Xeon D-2712N",
+
+    "Xeon D-2183IT",
+    "Xeon D-2166NT",
+    "Xeon D-2146NT",
+    "Xeon D-2141I",
+    "Xeon D-2123IT",
+    "Xeon D-2163IT",
+    "Xeon D-2142IT",
+
+    "Xeon D-1577",
+    "Xeon D-1571",
+    "Xeon D-1567",
+    "Xeon D-1559",
+    "Xeon D-1557",
+    "Xeon D-1548",
+    "Xeon D-1541",
+    "Xeon D-1537",
+    "Xeon D-1531",
+
+    "Xeon D-1528",
+    "Xeon D-1527",
+    "Xeon D-1521",
+    "Xeon D-1518",
+    "Xeon D-1517",
+
+    "Xeon D-1508",
+    "Xeon D-1507",
+    "Xeon D-1503",
+    "Xeon D-1500N",
+
+    "Xeon D-1602",
+    "Xeon D-1612",
+    "Xeon D-1622",
+    "Xeon D-1632",
+
+    "Xeon D-2146N",
+    "Xeon D-2161T",
+    "Xeon D-2187NT",
+
+    "Xeon D-2766NT",
+    "Xeon D-2769N",
+    "Xeon D-2751N",
+    "Xeon D-2758NT",
+    "Xeon D-2768NT",
+
+    "Xeon D-1529",
+    "Xeon D-1539",
+    "Xeon D-1549",
+    "Xeon D-1569",
+
+    "Xeon D-2102I",
+    "Xeon D-2112IT",
+    "Xeon D-2120T",
+    "Xeon D-2133IT",
+
+    "Xeon D-1702",
+    "Xeon D-1708",
+    "Xeon D-1710",
+    "Xeon D-1712",
+    "Xeon D-1718",
+    "Xeon D-1726NT",
+    "Xeon D-1732NT",
+
+    "Xeon D-2728",
+    "Xeon D-2730",
+    "Xeon D-2740",
+    "Xeon D-2760",
+    "Xeon D-2770",
+
+    "Xeon D-1618",
+    "Xeon D-1553N",
+    "Xeon D-1540N",
+    "Xeon D-1530N",
+
+    "Xeon D-2152IT",
+    "Xeon D-2180NT",
+    "Xeon D-2144NT",
+
+    "Xeon D-2145NT",
+    "Xeon D-2187T",
+    "Xeon D-2127NT",
+
+    "Xeon D-2149NT",
+    "Xeon D-2136NT",
+    "Xeon D-2116NT"
+  ]
+}
+{
+  "Intel_Xeon_Phi": [
+
+    "Xeon Phi 7290",
+    "Xeon Phi 7290F",
+    "Xeon Phi 7290P",
+
+    "Xeon Phi 7250",
+    "Xeon Phi 7250F",
+    "Xeon Phi 7250P",
+
+    "Xeon Phi 7235",
+    "Xeon Phi 7230",
+    "Xeon Phi 7230F",
+    "Xeon Phi 7230P",
+
+    "Xeon Phi 7210",
+    "Xeon Phi 7210F",
+    "Xeon Phi 7210P",
+
+    "Xeon Phi 7120P",
+    "Xeon Phi 7120X",
+    "Xeon Phi 7120A",
+
+    "Xeon Phi 7110P",
+    "Xeon Phi 7110X",
+    "Xeon Phi 7110A",
+
+    "Xeon Phi 3120P",
+    "Xeon Phi 3120A",
+    "Xeon Phi 3120X",
+
+    "Xeon Phi 5110P",
+    "Xeon Phi 5110X",
+
+    "Xeon Phi 5120D",
+    "Xeon Phi 5120P",
+    "Xeon Phi 5120Q",
+
+    "Xeon Phi 3130A",
+    "Xeon Phi 3140A",
+
+    "Xeon Phi 3150A",
+    "Xeon Phi 3160A",
+
+    "Xeon Phi x100",
+    "Xeon Phi x200",
+
+    "Knights Landing 7210",
+    "Knights Landing 7230",
+    "Knights Landing 7250",
+    "Knights Landing 7290",
+
+    "Knights Mill 7295",
+    "Knights Mill 7285",
+    "Knights Mill 7265",
+
+    "Xeon Phi SE10P",
+    "Xeon Phi SE10X",
+    "Xeon Phi C0-3000 Series",
+
+    "Knights Corner 5110P",
+    "Knights Corner 5110X",
+    "Knights Corner 5100 Series",
+
+    "Xeon Phi 200 Coprocessor Series",
+    "Xeon Phi 300 Coprocessor Series",
+
+    "Xeon Phi 7000 Processor Series"
+  ]
+}
+{
+  "Intel_Early_Core_and_Pentium": [
+
+    "Core 2 Extreme QX9775",
+    "Core 2 Extreme QX9770",
+    "Core 2 Extreme QX9650",
+    "Core 2 Extreme QX6850",
+    "Core 2 Extreme QX6800",
+    "Core 2 Extreme QX6700",
+
+    "Core 2 Quad Q9650",
+    "Core 2 Quad Q9550",
+    "Core 2 Quad Q9450",
+    "Core 2 Quad Q9400",
+    "Core 2 Quad Q9300",
+    "Core 2 Quad Q8400",
+    "Core 2 Quad Q8300",
+    "Core 2 Quad Q8200",
+
+    "Core 2 Quad Q6600",
+    "Core 2 Quad Q6700",
+
+    "Core 2 Duo E8600",
+    "Core 2 Duo E8500",
+    "Core 2 Duo E8400",
+    "Core 2 Duo E8300",
+    "Core 2 Duo E8200",
+
+    "Core 2 Duo E7600",
+    "Core 2 Duo E7500",
+    "Core 2 Duo E7400",
+    "Core 2 Duo E7300",
+    "Core 2 Duo E7200",
+
+    "Core 2 Duo E6850",
+    "Core 2 Duo E6750",
+    "Core 2 Duo E6700",
+    "Core 2 Duo E6600",
+    "Core 2 Duo E6550",
+    "Core 2 Duo E6540",
+    "Core 2 Duo E6420",
+    "Core 2 Duo E6400",
+    "Core 2 Duo E6320",
+    "Core 2 Duo E6300",
+
+    "Core 2 Duo T9600",
+    "Core 2 Duo T9500",
+    "Core 2 Duo T9400",
+    "Core 2 Duo T9300",
+    "Core 2 Duo T8300",
+    "Core 2 Duo T8100",
+
+    "Core 2 Duo T7800",
+    "Core 2 Duo T7700",
+    "Core 2 Duo T7600",
+    "Core 2 Duo T7500",
+    "Core 2 Duo T7400",
+    "Core 2 Duo T7300",
+
+    "Core 2 Duo P9700",
+    "Core 2 Duo P9600",
+    "Core 2 Duo P9500",
+    "Core 2 Duo P8600",
+    "Core 2 Duo P8400",
+    "Core 2 Duo P7350",
+
+    "Core Duo T2700",
+    "Core Duo T2600",
+    "Core Duo T2500",
+    "Core Duo T2400",
+    "Core Duo T2300",
+
+    "Core Solo T1500",
+    "Core Solo T1400",
+    "Core Solo T1300",
+
+    "Pentium D 960",
+    "Pentium D 950",
+    "Pentium D 945",
+    "Pentium D 940",
+    "Pentium D 930",
+    "Pentium D 925",
+    "Pentium D 920",
+    "Pentium D 915",
+
+    "Pentium D 840",
+    "Pentium D 830",
+    "Pentium D 820",
+    "Pentium D 805",
+
+    "Pentium Extreme Edition 965",
+    "Pentium Extreme Edition 955",
+    "Pentium Extreme Edition 840",
+
+    "Pentium 4 672",
+    "Pentium 4 671",
+    "Pentium 4 670",
+    "Pentium 4 660",
+    "Pentium 4 651",
+    "Pentium 4 650",
+    "Pentium 4 641",
+    "Pentium 4 640",
+    "Pentium 4 631",
+    "Pentium 4 630",
+
+    "Pentium 4 571",
+    "Pentium 4 570",
+    "Pentium 4 561",
+    "Pentium 4 560",
+    "Pentium 4 551",
+    "Pentium 4 550",
+    "Pentium 4 541",
+    "Pentium 4 540",
+    "Pentium 4 531",
+    "Pentium 4 530",
+
+    "Pentium 4 3.8GHz",
+    "Pentium 4 3.6GHz",
+    "Pentium 4 3.4GHz",
+    "Pentium 4 3.2GHz",
+    "Pentium 4 3.0GHz",
+    "Pentium 4 2.8GHz",
+
+    "Pentium M 780",
+    "Pentium M 770",
+    "Pentium M 760",
+    "Pentium M 750",
+    "Pentium M 745",
+    "Pentium M 740",
+    "Pentium M 735",
+    "Pentium M 730",
+
+    "Pentium M 725",
+    "Pentium M 715",
+    "Pentium M 705",
+
+    "Celeron M 410",
+    "Celeron M 400",
+    "Celeron M 390",
+    "Celeron M 380",
+    "Celeron M 370",
+    "Celeron M 360",
+    "Celeron M 350",
+    "Celeron M 340",
+
+    "Pentium E6800",
+    "Pentium E6700",
+    "Pentium E6600",
+    "Pentium E6500",
+    "Pentium E6300",
+    "Pentium E5800",
+    "Pentium E5700",
+    "Pentium E5500",
+    "Pentium E5400",
+    "Pentium E5300",
+
+    "Pentium E5200",
+    "Pentium E5200",
+    "Pentium E2220",
+    "Pentium E2200",
+    "Pentium E2180",
+    "Pentium E2160",
+    "Pentium E2140",
+
+    "Celeron E3500",
+    "Celeron E3400",
+    "Celeron E3300",
+    "Celeron E3200",
+    "Celeron E1600",
+    "Celeron E1500",
+    "Celeron E1400",
+    "Celeron E1200"
+  ]
+}
+{
+  "Intel_Historic_x86": [
+
+    "Intel 8086",
+    "Intel 8088",
+    "Intel 80186",
+    "Intel 80188",
+
+    "Intel 80286-6",
+    "Intel 80286-8",
+    "Intel 80286-10",
+    "Intel 80286-12",
+    "Intel 80286-16",
+    "Intel 80286-20",
+
+    "Intel 80386SX-16",
+    "Intel 80386SX-20",
+    "Intel 80386SX-25",
+    "Intel 80386SX-33",
+    "Intel 80386SX-40",
+
+    "Intel 80386DX-16",
+    "Intel 80386DX-20",
+    "Intel 80386DX-25",
+    "Intel 80386DX-33",
+    "Intel 80386DX-40",
+
+    "Intel 80386SL-20",
+    "Intel 80386SL-25",
+    "Intel 80386SL-33",
+
+    "Intel 80486SX-16",
+    "Intel 80486SX-20",
+    "Intel 80486SX-25",
+    "Intel 80486SX-33",
+
+    "Intel 80486DX-25",
+    "Intel 80486DX-33",
+    "Intel 80486DX-40",
+    "Intel 80486DX-50",
+    "Intel 80486DX-66",
+
+    "Intel 80486DX2-50",
+    "Intel 804486DX2-66",
+    "Intel 80486DX2-80",
+
+    "Intel 80486DX4-75",
+    "Intel 80486DX4-100",
+
+    "Intel 80486SL-25",
+    "Intel 80486SL-33",
+    "Intel 80486SL-50",
+
+    "Intel Pentium 60",
+    "Intel Pentium 66",
+
+    "Intel Pentium 75",
+    "Intel Pentium 90",
+    "Intel Pentium 100",
+    "Intel Pentium 120",
+    "Intel Pentium 133",
+    "Intel Pentium 150",
+    "Intel Pentium 166",
+    "Intel Pentium 200",
+
+    "Intel Pentium MMX 166",
+    "Intel Pentium MMX 200",
+    "Intel Pentium MMX 233",
+
+    "Intel Pentium OverDrive 63",
+    "Intel Pentium OverDrive 83",
+
+    "Intel Pentium Pro 150",
+    "Intel Pentium Pro 166",
+    "Intel Pentium Pro 180",
+    "Intel Pentium Pro 200",
+
+    "Intel Pentium II 233",
+    "Intel Pentium II 266",
+    "Intel Pentium II 300",
+    "Intel Pentium II 333",
+    "Intel Pentium II 350",
+    "Intel Pentium II 400",
+    "Intel Pentium II 450",
+
+    "Intel Pentium II OverDrive 333",
+
+    "Intel Pentium III 450",
+    "Intel Pentium III 500",
+    "Intel Pentium III 550",
+    "Intel Pentium III 600",
+    "Intel Pentium III 650",
+    "Intel Pentium III 667",
+    "Intel Pentium III 700",
+    "Intel Pentium III 733",
+    "Intel Pentium III 750",
+    "Intel Pentium III 800",
+    "Intel Pentium III 850",
+    "Intel Pentium III 933",
+    "Intel Pentium III 1.0GHz",
+
+    "Intel Pentium III-S 1.13GHz",
+    "Intel Pentium III-S 1.26GHz",
+    "Intel Pentium III-S 1.40GHz",
+
+    "Intel Pentium 4 Willamette 1.3GHz",
+    "Intel Pentium 4 Willamette 1.4GHz",
+    "Intel Pentium 4 Willamette 1.5GHz",
+    "Intel Pentium 4 Willamette 1.6GHz",
+    "Intel Pentium 4 Willamette 1.7GHz",
+    "Intel Pentium 4 Willamette 1.8GHz",
+
+    "Intel Pentium 4 Northwood 1.6A",
+    "Intel Pentium 4 Northwood 1.8A",
+    "Intel Pentium 4 Northwood 2.0A",
+    "Intel Pentium 4 Northwood 2.2",
+    "Intel Pentium 4 Northwood 2.4",
+    "Intel Pentium 4 Northwood 2.53",
+    "Intel Pentium 4 Northwood 2.66",
+    "Intel Pentium 4 Northwood 2.8",
+    "Intel Pentium 4 Northwood 3.06",
+
+    "Intel Pentium 4 Prescott 2.4A",
+    "Intel Pentium 4 Prescott 2.8E",
+    "Intel Pentium 4 Prescott 3.0E",
+    "Intel Pentium 4 Prescott 3.2E",
+    "Intel Pentium 4 Prescott 3.4E"
+  ]
+}
+{
+  "Qualcomm_Snapdragon": [
+
+    "Snapdragon 8 Gen 3",
+    "Snapdragon 8 Gen 2",
+    "Snapdragon 8+ Gen 1",
+    "Snapdragon 8 Gen 1",
+
+    "Snapdragon 7+ Gen 2",
+    "Snapdragon 7 Gen 1",
+
+    "Snapdragon 888+",
+    "Snapdragon 888",
+    "Snapdragon 870",
+    "Snapdragon 865+",
+    "Snapdragon 865",
+    "Snapdragon 860",
+    "Snapdragon 855+",
+    "Snapdragon 855",
+    "Snapdragon 845",
+    "Snapdragon 835",
+    "Snapdragon 821",
+    "Snapdragon 820",
+    "Snapdragon 810",
+    "Snapdragon 808",
+    "Snapdragon 805",
+    "Snapdragon 801",
+    "Snapdragon 800",
+
+    "Snapdragon 7s Gen 2",
+    "Snapdragon 782G",
+    "Snapdragon 780G",
+    "Snapdragon 778G+",
+    "Snapdragon 778G",
+    "Snapdragon 768G",
+    "Snapdragon 765G",
+    "Snapdragon 765",
+    "Snapdragon 750G",
+    "Snapdragon 732G",
+    "Snapdragon 730G",
+    "Snapdragon 730",
+    "Snapdragon 720G",
+
+    "Snapdragon 6 Gen 1",
+    "Snapdragon 695",
+    "Snapdragon 690",
+    "Snapdragon 680",
+    "Snapdragon 675",
+    "Snapdragon 670",
+    "Snapdragon 665",
+    "Snapdragon 662",
+    "Snapdragon 660",
+
+    "Snapdragon 480+",
+    "Snapdragon 480",
+    "Snapdragon 460",
+    "Snapdragon 450",
+    "Snapdragon 439",
+    "Snapdragon 435",
+    "Snapdragon 430",
+
+    "Snapdragon S4 Pro",
+    "Snapdragon S4 Plus",
+    "Snapdragon S4 Play",
+    "Snapdragon S4 Prime"
+  ]
+}
+{
+  "Qualcomm_Snapdragon_Expanded": [
+
+    "Snapdragon 690",
+    "Snapdragon 675",
+    "Snapdragon 670",
+    "Snapdragon 668",
+    "Snapdragon 665",
+    "Snapdragon 662",
+    "Snapdragon 660",
+    "Snapdragon 653",
+    "Snapdragon 652",
+    "Snapdragon 650",
+    "Snapdragon 649",
+    "Snapdragon 648",
+    "Snapdragon 636",
+    "Snapdragon 632",
+    "Snapdragon 630",
+    "Snapdragon 626",
+    "Snapdragon 625",
+    "Snapdragon 618",
+    "Snapdragon 617",
+    "Snapdragon 616",
+    "Snapdragon 615",
+    "Snapdragon 610",
+    "Snapdragon 608",
+    "Snapdragon 605",
+    "Snapdragon 600",
+
+    "Snapdragon 460",
+    "Snapdragon 450",
+    "Snapdragon 439",
+    "Snapdragon 435",
+    "Snapdragon 430",
+    "Snapdragon 429",
+    "Snapdragon 427",
+    "Snapdragon 425",
+    "Snapdragon 412",
+    "Snapdragon 410",
+    "Snapdragon 405",
+    "Snapdragon 400",
+
+    "Snapdragon 250",
+    "Snapdragon 245",
+    "Snapdragon 240",
+    "Snapdragon 238",
+    "Snapdragon 235",
+    "Snapdragon 220",
+    "Snapdragon 212",
+    "Snapdragon 210",
+    "Snapdragon 208",
+    "Snapdragon 205",
+    "Snapdragon 203",
+    "Snapdragon 200",
+
+    "Snapdragon S1 MSM7225",
+    "Snapdragon S1 MSM7227",
+    "Snapdragon S1 MSM7627",
+    "Snapdragon S1 MSM7625",
+
+    "Snapdragon S2 MSM8255",
+    "Snapdragon S2 MSM8655",
+    "Snapdragon S2 MSM7230",
+
+    "Snapdragon S3 MSM8260",
+    "Snapdragon S3 MSM8660",
+    "Snapdragon S3 MSM8630",
+    "Snapdragon S3 APQ8060",
+
+    "Snapdragon MSM8226",
+    "Snapdragon MSM8926",
+    "Snapdragon MSM8916",
+    "Snapdragon MSM8939",
+    "Snapdragon MSM8952",
+    "Snapdragon MSM8976",
+
+    "Snapdragon 4 Gen 1",
+    "Snapdragon 6 Gen 1",
+    "Snapdragon 7 Gen 3"
+  ]
+}
+{
+  "Samsung_Exynos": [
+
+    "Exynos 2400",
+    "Exynos 2200",
+    "Exynos 2100",
+    "Exynos 1080",
+    "Exynos 1380",
+    "Exynos 1330",
+    "Exynos 1280",
+    "Exynos 850",
+
+    "Exynos 990",
+    "Exynos 9825",
+    "Exynos 9820",
+    "Exynos 9815",
+    "Exynos 9810",
+    "Exynos 8895",
+    "Exynos 8890",
+    "Exynos 7885",
+    "Exynos 7872",
+
+    "Exynos 7420",
+    "Exynos 7570",
+    "Exynos 7580",
+    "Exynos 5433",
+    "Exynos 5422",
+    "Exynos 5420",
+    "Exynos 5410",
+
+    "Exynos 5800",
+    "Exynos 5430",
+    "Exynos 5260",
+    "Exynos 5429",
+
+    "Exynos 4412",
+    "Exynos 4415",
+    "Exynos 4212",
+    "Exynos 4210",
+
+    "Exynos 3470",
+    "Exynos 3475",
+    "Exynos 3250",
+    "Exynos 3120",
+
+    "Exynos 7870",
+    "Exynos 7880",
+    "Exynos 7904",
+    "Exynos 9610",
+    "Exynos 9609",
+    "Exynos 9611",
+
+    "Exynos W920",
+    "Exynos W930",
+    "Exynos W980",
+
+    "Exynos 7270",
+    "Exynos 7578",
+
+    "Exynos Modem 5100",
+    "Exynos Modem 5300",
+
+    "Exynos 9818",
+    "Exynos 9820M",
+    "Exynos 8890M"
+  ]
+}
+{
+  "Samsung_Exynos_Expanded": [
+
+    "Exynos 3470",
+    "Exynos 3475",
+    "Exynos 3250",
+    "Exynos 3210",
+    "Exynos 3110",
+    "Exynos 4410",
+    "Exynos 4412",
+    "Exynos 4210",
+    "Exynos 4212",
+    "Exynos 4415",
+
+    "Exynos 5260",
+    "Exynos 5250",
+    "Exynos 5410",
+    "Exynos 5420",
+    "Exynos 5422",
+    "Exynos 5430",
+    "Exynos 5433",
+    "Exynos 5800",
+
+    "Exynos 4212 Rev B",
+    "Exynos 4212 Rev C",
+    "Exynos 4412 Prime",
+    
+    "Exynos 3475 Quad",
+    "Exynos 7870 Octa",
+    "Exynos 7580 Octa",
+    "Exynos 7570 Quad",
+
+    "Exynos 5260 Hexa",
+    "Exynos 5433 Octa",
+    "Exynos 5422 Octa",
+    "Exynos 5420 Octa",
+    "Exynos 5410 Octa",
+
+    "Exynos 7420 Octa",
+    "Exynos 5430 Octa",
+
+    "Exynos 3110 Hummingbird",
+    "Exynos 4210 Orion",
+    "Exynos 4412 Exynos4 Quad",
+    "Exynos 5250 Exynos5 Dual",
+    "Exynos 5420 Exynos5 Octa",
+
+    "Exynos 3475 ARMv7",
+    "Exynos 4210 ARM Cortex-A9",
+    "Exynos 4412 ARM Cortex-A9 Quad",
+    "Exynos 5250 ARM Cortex-A15 Dual",
+    "Exynos 5410 big.LITTLE",
+    
+    "Exynos 4210 Dual",
+    "Exynos 4212 Dual",
+    "Exynos 4410 Dual",
+    "Exynos 3110 Single",
+
+    "Exynos 7870 14nm",
+    "Exynos 7580 28nm",
+    "Exynos 7570 14nm",
+    "Exynos 7420 14nm",
+
+    "Exynos 3470 Galaxy S5 Mini",
+    "Exynos 4412 Galaxy S3",
+    "Exynos 4412 Galaxy Note 2",
+    "Exynos 4210 Galaxy S2",
+    "Exynos 4210 Galaxy Note",
+    "Exynos 5250 Chromebook",
+    "Exynos 5420 Galaxy Note 3",
+    "Exynos 5433 Galaxy Note 4",
+    "Exynos 5800 Chromebook 2",
+
+    "Exynos 7580 Galaxy A8",
+    "Exynos 7870 Galaxy A3/A6/A10",
+    "Exynos 9609 Galaxy A50s",
+
+    "Exynos Modem 303",
+    "Exynos Modem 347",
+    "Exynos Modem 5100",
+    "Exynos Modem 5300",
+
+    "Exynos 5440",
+    "Exynos 5440 Quad",
+    "Exynos 5430 Prime",
+
+    "Exynos 3472",
+    "Exynos 3473",
+
+    "Exynos 7580A",
+    "Exynos 7580E",
+    "Exynos 7870E",
+
+    "Exynos 3110 Prime",
+    "Exynos 4210 Plus",
+    "Exynos 4412 Plus",
+
+    "Exynos Auto V7",
+    "Exynos Auto V9"
+  ]
+}
+{
+  "Huawei_Kirin": [
+
+    "Kirin 9000",
+    "Kirin 9000 5G",
+    "Kirin 9000E",
+    "Kirin 9000E 5G",
+    "Kirin 9000L",
+    "Kirin 9000SL",
+    "Kirin 9000S",
+    "Kirin 9000S 5G",
+
+    "Kirin 990",
+    "Kirin 990 5G",
+    "Kirin 990E",
+    "Kirin 985",
+    "Kirin 980",
+    "Kirin 970",
+    "Kirin 960",
+    "Kirin 955",
+    "Kirin 950",
+
+    "Kirin 820",
+    "Kirin 820E",
+    "Kirin 810",
+    "Kirin 805",
+    "Kirin 8020",
+
+    "Kirin 710",
+    "Kirin 710A",
+    "Kirin 710F",
+    "Kirin 720",
+
+    "Kirin 659",
+    "Kirin 658",
+    "Kirin 657",
+    "Kirin 655",
+    "Kirin 654",
+
+    "Kirin 650",
+    "Kirin 649",
+    "Kirin 620",
+    "Kirin 610",
+    "Kirin 620T",
+
+    "Kirin 935",
+    "Kirin 930",
+    "Kirin 928",
+    "Kirin 925",
+    "Kirin 920",
+
+    "Kirin 918",
+    "Kirin 916",
+    "Kirin 915",
+    "Kirin 912",
+    "Kirin 910",
+
+    "Kirin 900",
+    "Kirin 910T",
+    "Kirin 920T",
+
+    "Kirin 710S",
+    "Kirin 985G",
+    "Kirin 990 Lite",
+
+    "HiSilicon K3V2",
+    "HiSilicon K3V3",
+    "HiSilicon K3V3E",
+
+    "HiSilicon Balong 5000",
+    "HiSilicon Balong 765",
+    "HiSilicon Balong 710"
+  ]
+}
+{
+  "Huawei_Ascend": [
+
+    "Ascend 910",
+    "Ascend 910B",
+    "Ascend 910C",
+    "Ascend 910 Pro",
+    "Ascend 910 Max",
+
+    "Ascend 310",
+    "Ascend 310B",
+    "Ascend 310P",
+    "Ascend 310 Lite",
+
+    "Ascend 610",
+    "Ascend 620",
+    "Ascend 630",
+
+    "Ascend 200",
+    "Ascend 200 Lite",
+    "Ascend 200 Pro",
+
+    "Ascend 100",
+    "Ascend 100 Lite",
+
+    "Ascend CANN 1.0",
+    "Ascend CANN 2.0",
+    "Ascend CANN 3.0",
+    "Ascend CANN 5.0",
+
+    "Ascend NPU v1",
+    "Ascend NPU v2",
+    "Ascend NPU v3",
+    "Ascend NPU v4",
+
+    "Atlas 200 AI Processor",
+    "Atlas 300 AI Processor",
+    "Atlas 300I Pro",
+    "Atlas 500 Edge AI Processor",
+    "Atlas 800 Server Processor",
+
+    "Huawei Kunpeng NPU Variant",
+    "HiSilicon AI Core 3.0",
+    "HiSilicon AI Core 2.0",
+    "HiSilicon AI Core 1.0",
+
+    "Ascend 910A",
+    "Ascend 910X",
+    "Ascend 310X",
+
+    "Ascend Mini 150",
+    "Ascend Mini 200",
+    "Ascend Mini 300",
+
+    "Ascend HPC A1",
+    "Ascend HPC A2",
+    "Ascend HPC A3",
+
+    "Ascend 340",
+    "Ascend 350",
+    "Ascend 360",
+
+    "Ascend 920",
+    "Ascend 930",
+
+    "HiSilicon DCU 1000",
+    "HiSilicon DCU 2000",
+
+    "Atlas 900 AI Cluster Processor",
+    "Atlas 800 Inference Processor"
+  ]
+}
+{
+  "MediaTek_Dimensity": [
+
+    "Dimensity 9300",
+    "Dimensity 9300+",
+    "Dimensity 9200",
+    "Dimensity 9200+",
+    "Dimensity 9200A",
+    "Dimensity 9000",
+    "Dimensity 9000+",
+    "Dimensity 9000S",
+
+    "Dimensity 8300",
+    "Dimensity 8300 Ultra",
+    "Dimensity 8200",
+    "Dimensity 8200 Ultra",
+    "Dimensity 8100",
+    "Dimensity 8100 Max",
+    "Dimensity 8100 Ultra",
+    "Dimensity 8000",
+    "Dimensity 8000 Max",
+
+    "Dimensity 8050",
+    "Dimensity 8020",
+    "Dimensity 8010",
+
+    "Dimensity 7200",
+    "Dimensity 7200 Ultra",
+    "Dimensity 7200 Max",
+    "Dimensity 720",
+    "Dimensity 720U",
+    "Dimensity 7030",
+    "Dimensity 7020",
+    "Dimensity 7025",
+
+    "Dimensity 7000",
+    "Dimensity 7050",
+    "Dimensity 7050 5G",
+
+    "Dimensity 1000",
+    "Dimensity 1000L",
+    "Dimensity 1000C",
+    "Dimensity 1000+",
+
+    "Dimensity 1100",
+    "Dimensity 1200",
+    "Dimensity 1200 Max",
+    "Dimensity 1200 Ultra",
+
+    "Dimensity 900",
+    "Dimensity 930",
+    "Dimensity 920",
+    "Dimensity 920 5G",
+    "Dimensity 820",
+    "Dimensity 810",
+
+    "Dimensity 700",
+    "Dimensity 702",
+    "Dimensity 720",
+    "Dimensity 730",
+    "Dimensity 740",
+
+    "Dimensity 6100",
+    "Dimensity 6100+",
+    "Dimensity 6020",
+    "Dimensity 6025",
+
+    "Dimensity 6080",
+    "Dimensity 6080 5G",
+
+    "Dimensity 5300",
+    "Dimensity 5100",
+    "Dimensity 5000",
+
+    "Dimensity 930U",
+    "Dimensity 8025",
+    "Dimensity 8020U"
+  ]
+}
+{
+  "MediaTek_Helio": [
+
+    "Helio G99",
+    "Helio G96",
+    "Helio G95",
+    "Helio G90T",
+    "Helio G90",
+    "Helio G88",
+    "Helio G87",
+    "Helio G85",
+    "Helio G83",
+    "Helio G82",
+    "Helio G80",
+    "Helio G70",
+    "Helio G57",
+    "Helio G53",
+    "Helio G35",
+    "Helio G37",
+    "Helio G36",
+    "Helio G25",
+
+    "Helio P95",
+    "Helio P90",
+    "Helio P80",
+    "Helio P70",
+    "Helio P65",
+    "Helio P60",
+    "Helio P59",
+    "Helio P55",
+    "Helio P50",
+    "Helio P40",
+    "Helio P30",
+    "Helio P25",
+    "Helio P23",
+    "Helio P22",
+    "Helio P18",
+    "Helio P17",
+
+    "Helio X30",
+    "Helio X27",
+    "Helio X25",
+    "Helio X23",
+    "Helio X22",
+    "Helio X21",
+    "Helio X20",
+
+    "Helio A25",
+    "Helio A22",
+    "Helio A20",
+
+    "MT6799",
+    "MT6797X",
+    "MT6797",
+    "MT6795T",
+    "MT6795",
+    "MT6793",
+    "MT6785",
+    "MT6781",
+
+    "MT6769",
+    "MT6768",
+    "MT6765",
+    "MT6763",
+    "MT6762",
+    "MT6761",
+
+    "MT6757",
+    "MT6755",
+    "MT6753",
+    "MT6752",
+    "MT6750",
+    "MT6750T",
+
+    "MT6739",
+    "MT6737",
+    "MT6735",
+    "MT6732",
+    "MT6731",
+
+    "MT6595",
+    "MT6592T",
+    "MT6592",
+    "MT6589T",
+    "MT6589",
+    "MT6582",
+    "MT6580",
+
+    "MT6577",
+    "MT6575",
+    "MT6572"
+  ]
+}
+{
+  "MediaTek_MT_Classic": [
+
+    "MT6599",
+    "MT6598",
+    "MT6597",
+    "MT6590",
+
+    "MT6588",
+    "MT6585",
+    "MT6583",
+    "MT6581",
+
+    "MT6577T",
+    "MT6577",
+    "MT6575T",
+    "MT6575",
+    "MT6573",
+    "MT6572A",
+    "MT6572M",
+    "MT6571",
+
+    "MT6568",
+    "MT6567",
+    "MT6566",
+    "MT6565",
+
+    "MT6516",
+    "MT6515",
+    "MT6513",
+    "MT6511",
+
+    "MT6505",
+    "MT6503",
+    "MT6502",
+
+    "MT6280",
+    "MT6276",
+    "MT6273",
+    "MT6268",
+    "MT6260",
+    "MT6255",
+    "MT6253",
+    "MT6252",
+    "MT6250",
+
+    "MT6236",
+    "MT6235",
+    "MT6235B",
+    "MT6236B",
+    "MT6238",
+
+    "MT6229",
+    "MT6228",
+    "MT6227",
+    "MT6226",
+    "MT6225",
+    "MT6223",
+    "MT6220",
+
+    "MT6219",
+    "MT6218",
+    "MT6217",
+    "MT6216",
+
+    "MT6208",
+    "MT6205",
+    "MT6202",
+
+    "MT3318",
+    "MT3328",
+    "MT3332",
+    "MT3333",
+
+    "MT7125",
+    "MT7105",
+    "MT7103",
+
+    "MT6239",
+    "MT6256",
+    "MT6251",
+    "MT6254",
+
+    "MT6579",
+    "MT6578",
+    "MT6593",
+    "MT6587"
+  ]
+}
+{
+  "MediaTek_Others": [
+
+    "MT8788",
+    "MT8786",
+    "MT8768",
+    "MT8766",
+    "MT8735B",
+    "MT8735",
+    "MT8725",
+    "MT8715",
+
+    "MT8168",
+    "MT8167",
+    "MT8163",
+    "MT8161",
+    "MT8127",
+    "MT8125",
+    "MT8113",
+    "MT8110",
+
+    "MT8695",
+    "MT8685",
+    "MT8666",
+    "MT8653",
+    "MT9638",
+    "MT9632",
+    "MT9611",
+    "MT9602",
+    "MT8581",
+    "MT8521P",
+
+    "MT7621A",
+    "MT7621N",
+    "MT7622",
+    "MT7623",
+    "MT7628AN",
+    "MT7628K",
+    "MT7615",
+    "MT7612",
+    "MT7603",
+
+    "MT7688",
+    "MT7682",
+    "MT7686",
+    "MT7687F",
+
+    "Filogic 830",
+    "Filogic 630",
+    "Filogic 330",
+    "Filogic 380",
+    "Filogic 360",
+
+    "MT7915",
+    "MT7916",
+    "MT7902",
+
+    "MT2712",
+    "MT8675",
+    "MT2701",
+    "MT2601",
+    "MT2602",
+    "MT2703",
+
+    "MT2502",
+    "MT2503",
+    "MT2523",
+    "MT2621",
+    "MT2625",
+
+    "MT5505",
+    "MT5507",
+    "MT5396",
+    "MT5398",
+    "MT5389",
+    "MT5310",
+
+    "MT3326",
+    "MT3336",
+    "MT3339",
+
+    "MT6305",
+    "MT6303",
+    "MT6311",
+    "MT6315",
+    "MT6325",
+    "MT6331",
+    "MT6332",
+
+    "MT6750S",
+    "MT6738",
+    "MT6736",
+
+    "MT9669",
+    "MT9672",
+    "MT8690",
+
+    "MT8580",
+    "MT9970",
+    "MT9950"
+  ]
+}
+{
+  "Qualcomm_Special_SoC": [
+
+    "Snapdragon Wear 5100",
+    "Snapdragon Wear 5100+",
+    "Snapdragon Wear 4100",
+    "Snapdragon Wear 4100+",
+    "Snapdragon Wear 3100",
+    "Snapdragon Wear 3000",
+    "Snapdragon Wear 2500",
+    "Snapdragon Wear 2100",
+
+    "Snapdragon XR2 Gen 2",
+    "Snapdragon XR2",
+    "Snapdragon XR1",
+    "Snapdragon XR1 AR Smart Viewer",
+
+    "Snapdragon AR1 Gen 1",
+    "Snapdragon AR2 Gen 1",
+
+    "Snapdragon 8cx Gen 4",
+    "Snapdragon 8cx Gen 3",
+    "Snapdragon 8cx Gen 2",
+    "Snapdragon 8cx",
+    "Snapdragon 8c",
+    "Snapdragon 7c Gen 2",
+    "Snapdragon 7c",
+    "Snapdragon 7c+ Gen 3",
+    "Snapdragon 6c",
+    "Snapdragon Compute SC8280XP",
+    "Snapdragon Compute SC8180X",
+
+    "Snapdragon 820A",
+    "Snapdragon 8155P",
+    "Snapdragon 8255P",
+    "Snapdragon 6125 Automotive",
+    "Snapdragon 602A",
+    "Snapdragon 6155P",
+    "Snapdragon Cockpit SA8155",
+    "Snapdragon Cockpit SA8155P",
+
+    "QCM6490",
+    "QCM5430",
+    "QCM6125",
+    "QCM2290",
+    "QCS8550",
+    "QCS6490",
+    "QCS5430",
+    "QCS610",
+    "QCS605",
+    "QCS404",
+    "QCS410",
+    "QCS6125",
+    "QCS8250",
+
+    "IPQ9574",
+    "IPQ8074",
+    "IPQ8072",
+    "IPQ6018",
+    "IPQ4019",
+    "IPQ4018",
+
+    "Qualcomm SDA660",
+    "Qualcomm SDA845",
+    "Qualcomm SDA660E",
+    "Qualcomm SDA800",
+    "Qualcomm SDA778",
+
+    "Qualcomm SDM660 IoT",
+    "Qualcomm SDM450 IoT",
+    "Qualcomm SDM439 IoT",
+
+    "Qualcomm MDM9206",
+    "Qualcomm MDM9205",
+    "Qualcomm MDM9650",
+    "Qualcomm MDM9207",
+    "Qualcomm MDM9628",
+
+    "Snapdragon Fly QCA6574",
+    "Snapdragon Flight RB5",
+    "Snapdragon Flight Pro",
+
+    "Snapdragon Industrial QCS2290",
+    "Snapdragon Industrial QCS6490",
+
+    "Snapdragon Robotics RB1",
+    "Snapdragon Robotics RB2",
+    "Snapdragon Robotics RB3",
+    "Snapdragon Robotics RB5",
+    "Snapdragon Robotics RB6"
+  ]
+}
+{
+  "NVIDIA_Tegra_Jetson": [
+
+    "Tegra APX 2500",
+    "Tegra 600",
+    "Tegra 650",
+
+    "Tegra 2 T20",
+    "Tegra 2 T25",
+    "Tegra 2 AP20H",
+
+    "Tegra 3 T30",
+    "Tegra 3 T30L",
+    "Tegra 3 T33",
+    "Tegra 3 AP37",
+
+    "Tegra 4 T40",
+    "Tegra 4 T41",
+    "Tegra 4i T43",
+
+    "Tegra K1 32-bit",
+    "Tegra K1 64-bit",
+    "Tegra K1 Denver",
+    "Tegra K1 T124",
+    "Tegra K1 T132",
+
+    "Tegra X1 T210",
+    "Tegra X1 T214",
+    "Tegra X1+ T210B01",  
+    "Tegra X2",          
+    "Tegra Parker",      
+
+    "Jetson Nano",
+    "Jetson Nano 2GB",
+    "Jetson Nano B01",
+
+    "Jetson TX1",
+    "Jetson TX2",
+    "Jetson TX2i",
+    "Jetson TX2 NX",
+
+    "Jetson Xavier NX",
+    "Jetson Xavier AGX",
+    "Jetson Xavier AGX 32GB",
+    "Jetson Xavier Industrial",
+
+    "NVIDIA Carmel CPU",
+    "NVIDIA Denver CPU",
+
+    "Jetson Orin Nano",
+    "Jetson Orin Nano 8GB",
+    "Jetson Orin Nano 4GB",
+
+    "Jetson Orin NX 8GB",
+    "Jetson Orin NX 16GB",
+
+    "Jetson AGX Orin 32GB",
+    "Jetson AGX Orin 64GB",
+    "Jetson AGX Orin 128GB",
+
+    "NVIDIA Orin SoC",
+    "NVIDIA Orin-NX SoC",
+    "NVIDIA Orin-Nano SoC",
+
+    "NVIDIA Xavier SoC",
+    "NVIDIA Xavier-NX SoC",
+
+    "NVIDIA Parker SoC",
+    "NVIDIA Logan SoC",
+
+    "NVIDIA Drive PX Pegasus",
+    "NVIDIA Drive PX2",
+    "NVIDIA Drive Xavier",
+    "NVIDIA Drive Orin",
+
+    "Switch SoC Tegra X1",
+    "Switch Lite SoC Tegra X1",
+    "Switch OLED SoC Tegra X1+",
+
+    "Shield TV Tegra X1",
+    "Shield Tablet Tegra K1",
+
+    "NVIDIA Jetson TK1",
+    "NVIDIA Jetson TX1 Developer Kit",
+    "NVIDIA Jetson AGX Orin Developer Kit"
+  ]
+}
+{
+  "Rockchip_RK": [
+
+    "RK3588",
+    "RK3588S",
+    "RK3576",
+    "RK3568",
+    "RK3566",
+
+    "RK3399",
+    "RK3399Pro",
+    "RK3399K",
+    "RK3399-T",
+
+    "RK3368",
+    "RK3366",
+    "RK3328",
+    "RK3308",
+    "RK3308B",
+    "RK3308H",
+
+    "RK3288",
+    "RK3288W",
+    "RK3288C",
+
+    "RK3128",
+    "RK3126",
+    "RK3126C",
+    "RK3122",
+
+    "RK3066",
+    "RK3068",
+    "RK3026",
+    "RK3028A",
+    "RK3028",
+
+    "RK2918",
+    "RK2928",
+
+    "RK1808",
+    "RK1806",
+
+    "RK2206",
+    "RK2226",
+
+    "RK3562",
+    "RK3568J"
+  ]
+}
+{
+  "Allwinner_SoC": [
+
+    "Allwinner A100",
+    "Allwinner A133",
+    "Allwinner A136",
+    "Allwinner A200",
+    "Allwinner A300",
+    "Allwinner A523",
+    "Allwinner A527",
+
+    "Allwinner A64",
+    "Allwinner A63",
+    "Allwinner A83T",
+    "Allwinner A80",
+    "Allwinner A50",
+    "Allwinner A31",
+    "Allwinner A31s",
+    "Allwinner A20",
+    "Allwinner A13",
+    "Allwinner A10s",
+    "Allwinner A10",
+
+    "Allwinner H616",
+    "Allwinner H618",
+    "Allwinner H614",
+    "Allwinner H6",
+    "Allwinner H5",
+    "Allwinner H3",
+    "Allwinner H2+",
+    "Allwinner H8",
+    "Allwinner H9",
+
+    "Allwinner V3",
+    "Allwinner V3s",
+    "Allwinner V5",
+    "Allwinner V316",
+    "Allwinner V536",
+
+    "Allwinner R40",
+    "Allwinner R18",
+    "Allwinner R16",
+    "Allwinner R328",
+
+    "Allwinner F1C100s",
+    "Allwinner F1C200s",
+
+    "Allwinner T507",
+    "Allwinner T3",
+    "Allwinner T5",
+    "Allwinner T7",
+    "Allwinner T8",
+
+    "Allwinner XR871",
+    "Allwinner XR806",
+
+    "Allwinner S3",
+    "Allwinner S3L",
+    "Allwinner S3H"
+  ]
+}
+{
+  "Broadcom_BCM": [
+
+    "BCM2835",
+    "BCM2836",
+    "BCM2837",
+    "BCM2837B0",
+    "BCM2838",
+    "BCM2711",
+    "BCM2712",
+    "BCM2713",
+
+    "BCM21553",
+    "BCM21664",
+    "BCM21664T",
+    "BCM28145",
+    "BCM28155",
+    "BCM2820",
+    "BCM2830",
+
+    "BCM4708",
+    "BCM4709",
+    "BCM47189",
+    "BCM4908",
+    "BCM4906",
+    "BCM4909",
+
+    "BCM53573",
+    "BCM5357",
+    "BCM5356",
+    "BCM5354",
+    "BCM5352",
+
+    "BCM3383",
+    "BCM3384",
+    "BCM3385",
+    "BCM33843",
+    "BCM33850",
+
+    "BCM7425",
+    "BCM7435",
+    "BCM7445",
+    "BCM7444",
+    "BCM7448",
+    "BCM7450",
+    "BCM7563",
+    "BCM7584",
+
+    "BCM7250",
+    "BCM7251",
+    "BCM7252S",
+    "BCM7260",
+    "BCM7268",
+    "BCM7271",
+    "BCM7278",
+
+    "BCM63138",
+    "BCM63148",
+    "BCM63158",
+    "BCM63178",
+    "BCM63268",
+    "BCM6328",
+    "BCM6338",
+    "BCM6362",
+    "BCM6368",
+    "BCM6816",
+    "BCM6858",
+
+    "BCM58622",
+    "BCM58625",
+    "BCM58630",
+    "BCM58712",
+    "BCM58713",
+
+    "BCM74352",
+    "BCM74371",
+    "BCM74381",
+    "BCM74431",
+    "BCM74455",
+
+    "VideoCore IV",
+    "VideoCore VI",
+    "VideoCore VII",
+
+    "BCM2835A1",
+    "BCM2836A0",
+    "BCM2837A1",
+    "BCM2838C0",
+
+    "BCM2711C0",
+    "BCM2712B0",
+
+    "BCM3560",
+    "BCM3563",
+    "BCM3570",
+
+    "BCM7255",
+    "BCM72700",
+    "BCM7590"
+  ]
+}
+{
+  "Texas_Instruments_OMAP_and_Sitara": [
+
+    "OMAP5432",
+    "OMAP5430",
+    "OMAP4470",
+    "OMAP4460",
+    "OMAP4430",
+
+    "OMAP3622",
+    "OMAP3630",
+    "OMAP3621",
+    "OMAP3517",
+    "OMAP3505",
+    "OMAP3503",
+
+    "OMAP3430",
+    "OMAP3420",
+    "OMAP2420",
+    "OMAP2410",
+    "OMAP2430",
+
+    "OMAP1710",
+    "OMAP1611",
+    "OMAP1610",
+    "OMAP1510",
+    "OMAP850",
+
+    "DM3730",
+    "DM3725",
+    "DM365",
+    "DM368",
+    "DM355",
+    "DM357",
+    "DM6446",
+    "DM6467T",
+    "DM648",
+    "DM6437",
+    "DM642",
+
+    "Sitara AM1808",
+    "Sitara AM1707",
+    "Sitara AM3352",
+    "Sitara AM3354",
+    "Sitara AM3356",
+    "Sitara AM3357",
+    "Sitara AM3358",
+    "Sitara AM3359",
+
+    "Sitara AM4376",
+    "Sitara AM4377",
+    "Sitara AM4378",
+    "Sitara AM4379",
+
+    "Sitara AM5716",
+    "Sitara AM5726",
+    "Sitara AM5746",
+    "Sitara AM5728",
+
+    "TMS320DM365",
+    "TMS320DM320",
+    "TMS320DM355",
+    "TMS320DM6467",
+
+    "TI Jacinto 6",
+    "TI Jacinto 7",
+    "Jacinto DRA71x",
+    "Jacinto DRA72x",
+    "Jacinto DRA75x",
+
+    "TI AM625",
+    "TI AM623",
+    "TI AM62x",
+    "TI AM65x",
+    "TI AM64x",
+
+    "TI OMAP SmartReflex",
+    "TI OMAP IVA2",
+    "TI OMAP IVA3",
+    "TI OMAP IVA4"
+  ]
+}
+{
+  "Unisoc_SoC": [
+
+    "Unisoc T820",
+    "Unisoc T770",
+    "Unisoc T740",
+    "Unisoc T750",
+    "Unisoc T760",
+
+    "Unisoc T616",
+    "Unisoc T618",
+    "Unisoc T610",
+    "Unisoc T612",
+    "Unisoc T606",
+    "Unisoc T605",
+    "Unisoc T700",
+
+    "Unisoc Tiger T7150",
+    "Unisoc Tiger T710",
+
+    "Unisoc SC9863A",
+    "Unisoc SC9863A1",
+    "Unisoc SC9863E",
+
+    "Unisoc SC9853I",
+    "Unisoc SC9832E",
+    "Unisoc SC9832A",
+    "Unisoc SC9832",
+    "Unisoc SC9830",
+    "Unisoc SC9820E",
+
+    "Unisoc SC7731E",
+    "Unisoc SC7731C",
+    "Unisoc SC7731",
+    "Unisoc SC7730",
+    "Unisoc SC7721C",
+    "Unisoc SC7715A",
+    "Unisoc SC7713A",
+
+    "Unisoc SC9838",
+    "Unisoc SC9860",
+    "Unisoc SC9850",
+    "Unisoc SC9818",
+    "Unisoc SC9813",
+
+    "Unisoc SC8800G",
+    "Unisoc SC8825",
+    "Unisoc SC8830",
+    "Unisoc SC8810",
+
+    "Unisoc UMS512 (T618 Variant)",
+    "Unisoc UMS312",
+    "Unisoc UMS911",
+    "Unisoc UMS9230",
+
+    "Unisoc V8810",
+    "Unisoc V8110",
+    "Unisoc V8000",
+
+    "Unisoc W217",
+    "Unisoc W307",
+    "Unisoc W317",
+
+    "Unisoc IoT 8910DM",   
+    "Unisoc IoT 8910",     
+    "Unisoc IoT 8909A",    
+    "Unisoc IoT 8920",     
+
+    "Unisoc SC9865G",
+    "Unisoc SC9865H",
+
+    "Unisoc UIS7862",  
+    "Unisoc UIS8850",  
+    "Unisoc UIS9850",
+
+    "Unisoc SC9830i",
+    "Unisoc SC9822",
+    "Unisoc SC9822E"
+  ]
+}
+{
+  "Marvell_SoC": [
+
+    "Marvell Armada 3720",
+    "Marvell Armada 3700LP",
+    "Marvell Armada 385",
+    "Marvell Armada 3900",
+    "Marvell Armada 7040",
+    "Marvell Armada 8040",
+
+    "Marvell PXA1088",
+    "Marvell PXA1908",
+    "Marvell PXA1936",
+    "Marvell PXA986",
+    "Marvell PXA988",
+
+    "Marvell MV88DE3005",
+    "Marvell MV88DE3100",
+    "Marvell MV88DE6010",
+
+    "Marvell 88F6282",
+    "Marvell 88F6820",
+    "Marvell 88F6821",
+    "Marvell 88F6180",
+
+    "Marvell 88Q5050",
+    "Marvell 88Q5072"
+  ]
+}
+{
+  "SigmaStar_SoC": [
+
+    "SigmaStar SSD201",
+    "SigmaStar SSD202",
+    "SigmaStar SSD202D",
+    "SigmaStar SSD210",
+    "SigmaStar SSD212",
+
+    "SigmaStar MSC313E",
+    "SigmaStar MSC316",
+    "SigmaStar MSC325",
+    "SigmaStar MSC328",
+
+    "SigmaStar CV1810",
+    "SigmaStar CV1811",
+    "SigmaStar CV1835",
+    "SigmaStar CV1838",
+
+    "SigmaStar C388",
+    "SigmaStar C500",
+    "SigmaStar C700"
+  ]
+}
+{
+  "HiSilicon_SoC": [
+
+    "Kirin 9000S",
+    "Kirin 9000",
+    "Kirin 9000E",
+    "Kirin 990 5G",
+    "Kirin 990",
+    "Kirin 985",
+    "Kirin 980",
+    "Kirin 970",
+    "Kirin 960",
+    "Kirin 950",
+    "Kirin 955",
+    "Kirin 910",
+    "Kirin 920",
+    "Kirin 925",
+    "Kirin 930",
+    "Kirin 935",
+
+    "Kirin 710",
+    "Kirin 710A",
+    "Kirin 710F",
+    "Kirin 820",
+    "Kirin 810",
+    "Kirin 830",
+
+    "Kirin 650",
+    "Kirin 655",
+    "Kirin 658",
+    "Kirin 659",
+    "Kirin 660",
+    "Kirin 670",
+
+    "HiSilicon Balong 5000",
+    "HiSilicon Balong 765",
+    "HiSilicon Balong 750",
+
+    "Hi3516C",
+    "Hi3516CV300",
+    "Hi3516AV200",
+    "Hi3516DV300",
+    "Hi3516EV200",
+
+    "Hi3518EV300",
+    "Hi3518E",
+    "Hi3518CV200",
+    "Hi3518EV201",
+
+    "Hi3559A",
+    "Hi3556V200",
+    "Hi3559C",
+    "Hi3798MV200",
+    "Hi3798C V300",
+    "Hi3798M",
+    "Hi3881V100",
+    "Hi3751V100"
+  ]
+}
+{
+  "Samsung_Exynos": [
+
+    "Exynos 2400",
+    "Exynos 2200",
+    "Exynos 2100",
+
+    "Exynos 1080",
+    "Exynos 980",
+
+    "Exynos 990",
+    "Exynos 9825",
+    "Exynos 9820",
+    "Exynos 9810",
+    "Exynos 8895",
+    "Exynos 8890",
+
+    "Exynos 7885",
+    "Exynos 7870",
+    "Exynos 7570",
+    "Exynos 7420",
+    "Exynos 5433",
+    "Exynos 5422",
+    "Exynos 5420",
+    "Exynos 5410",
+
+    "Exynos 5260",
+    "Exynos 5250",
+    "Exynos 5412",
+    "Exynos 3475",
+    "Exynos 3470",
+    "Exynos 3250",
+    "Exynos 3110",
+
+    "Exynos W920",
+    "Exynos W930",
+    "Exynos W980"
+  ]
+}
+{
+  "NXP_iMX": [
+
+    "i.MX 1",
+    "i.MX 21",
+    "i.MX 25",
+    "i.MX 27",
+
+    "i.MX 28",
+
+    "i.MX 31",
+    "i.MX 35",
+    "i.MX 37",
+    "i.MX 38",
+
+    "i.MX 50",
+    "i.MX 51",
+    "i.MX 53",
+
+    "i.MX 6Solo",
+    "i.MX 6Dual",
+    "i.MX 6DualLite",
+    "i.MX 6Quad",
+    "i.MX 6QuadPlus",
+
+    "i.MX 7Solo",
+    "i.MX 7Dual",
+
+    "i.MX 8QuadMax",
+    "i.MX 8Quad",
+    "i.MX 8Dual",
+    "i.MX 8M",
+    "i.MX 8M Mini",
+    "i.MX 8M Nano",
+    "i.MX 8M Plus",
+
+    "i.MX 93",
+    "i.MX 91",
+    "i.MX 95",
+
+    "i.MX RT1010",
+    "i.MX RT1020",
+    "i.MX RT1050",
+    "i.MX RT1170",
+    "i.MX RT600"
+  ]
+}
+{
+  "WonderMedia_VIA": [
+
+    "WonderMedia WM8505",
+    "WonderMedia WM8650",
+    "WonderMedia WM8750",
+    "WonderMedia WM8850",
+
+    "VIA VT8500",
+    "VIA VT8430",
+    "VIA VT8650",
+
+    "WonderMedia WM8980",
+    "WonderMedia WM8990"
+  ]
+}
+{
+  "Actions_SoC": [
+
+    "ATM7029",
+    "ATM7021",
+    "ATM7039",
+    "ATM7019",
+    "ATM7037",
+
+    "ATJ2127",
+    "ATJ2139",
+    "ATJ2157",
+    "ATJ2259",
+    "ATJ3315",
+    "ATJ3316",
+    "ATJ3325",
+    "ATJ2051",
+
+    "Actions S900",
+    "Actions S500",
+    "Actions S700",
+
+    "ATM7059",
+    "ATM7055",
+    "ATM7053",
+    "ATM7051"
+  ]
+}
+{
+  "Ingenic_SoC": [
+
+    "Ingenic XBurst JZ4725B",
+    "Ingenic XBurst JZ4730",
+    "Ingenic XBurst JZ4740",
+    "Ingenic XBurst JZ4750",
+    "Ingenic XBurst JZ4760",
+
+    "Ingenic XBurst JZ4780",
+    "Ingenic XBurst JZ4770",
+    "Ingenic XBurst JZ4765",
+
+    "Ingenic T10",
+    "Ingenic T20",
+    "Ingenic T21",
+    "Ingenic T30",
+    "Ingenic T31",
+    "Ingenic T31L",
+    "Ingenic T31X",
+
+    "Ingenic M200",
+    "Ingenic M300",
+    "Ingenic M400",
+
+    "Ingenic X2000",
+    "Ingenic X2000E",
+    "Ingenic X2000 Pro",
+
+    "Ingenic X1830",
+    "Ingenic X1810"
+  ]
+}
+{
+  "Semidrive_SoC": [
+
+    "Semidrive X9",
+    "Semidrive X9H",
+    "Semidrive X9M",
+    "Semidrive X9L",
+
+    "Semidrive V9",
+    "Semidrive V9T",
+    "Semidrive V9S",
+
+    "Semidrive D9",
+    "Semidrive D9 Pro",
+    "Semidrive D9X",
+
+    "Semidrive G9",
+    "Semidrive G9S"
+  ]
+}
+{
+  "AutoChips_SoC": [
+
+    "AC8257",
+    "AC8259",
+    "AC8259J",
+    "AC8259P",
+    "AC8259H",
+
+    "AC8267",
+    "AC8369",
+    "AC8300",
+    "AC8310",
+    "AC8359"
+  ]
+}
+{
+  "Airoha_SoC": [
+
+    "Airoha AB1520",
+    "Airoha AB1522",
+    "Airoha AB1532",
+    "Airoha AB1535",
+    "Airoha AB1550",
+    "Airoha AB1552",
+    "Airoha AB1562A",
+    "Airoha AB1562",
+
+    "Airoha AB1611",
+    "Airoha AB1612",
+
+    "Airoha AN8600",
+    "Airoha AN8055"
+  ]
+}
+>>>>>>> f784136f3682aa7a001b1647ccbf3ee421452868
