@@ -1,0 +1,1618 @@
+{
+  "CSS_Layout_Properties": [
+
+    "display",
+    "position",
+    "top",
+    "bottom",
+    "left",
+    "right",
+    "z-index",
+
+    "float",
+    "clear",
+
+    "overflow",
+    "overflow-x",
+    "overflow-y",
+    "overflow-inline",
+    "overflow-block",
+
+    "visibility",
+    "opacity",
+    "isolation",
+
+    "box-sizing",
+    "contain",
+    "content-visibility",
+
+    "object-fit",
+    "object-position",
+
+    "aspect-ratio",
+
+    "resize",
+
+    "clip",
+    "clip-path",
+
+    "inset",
+    "inset-block",
+    "inset-block-start",
+    "inset-block-end",
+    "inset-inline",
+    "inset-inline-start",
+    "inset-inline-end",
+
+    "vertical-align",
+
+    "direction",
+    "unicode-bidi",
+    "writing-mode",
+
+    "page-break-after",
+    "page-break-before",
+    "page-break-inside",
+
+    "break-after",
+    "break-before",
+    "break-inside",
+
+    "columns",
+    "column-count",
+    "column-width",
+    "column-gap",
+    "column-rule",
+    "column-rule-width",
+    "column-rule-style",
+    "column-rule-color",
+    "column-fill",
+    "column-span",
+
+    "orphans",
+    "widows",
+
+    "zoom",
+
+    "flex",
+    "flex-grow",
+    "flex-shrink",
+    "flex-basis",
+
+    "flex-flow",
+    "flex-direction",
+    "flex-wrap",
+
+    "order",
+    "align-self",
+
+    "justify-content",
+    "align-items",
+    "align-content",
+    "place-content",
+    "place-items",
+    "place-self",
+
+    "gap",
+    "row-gap",
+    "column-gap",
+
+    "grid",
+    "grid-template",
+    "grid-template-rows",
+    "grid-template-columns",
+    "grid-template-areas",
+    "grid-auto-rows",
+    "grid-auto-columns",
+    "grid-auto-flow",
+
+    "grid-column",
+    "grid-column-start",
+    "grid-column-end",
+    "grid-row",
+    "grid-row-start",
+    "grid-row-end",
+    "grid-area"
+  ]
+}
+{
+  "CSS_BoxModel_Properties": [
+
+    "width",
+    "min-width",
+    "max-width",
+    "height",
+    "min-height",
+    "max-height",
+
+    "margin",
+    "margin-top",
+    "margin-right",
+    "margin-bottom",
+    "margin-left",
+    "margin-block",
+    "margin-block-start",
+    "margin-block-end",
+    "margin-inline",
+    "margin-inline-start",
+    "margin-inline-end",
+
+    "padding",
+    "padding-top",
+    "padding-right",
+    "padding-bottom",
+    "padding-left",
+    "padding-block",
+    "padding-block-start",
+    "padding-block-end",
+    "padding-inline",
+    "padding-inline-start",
+    "padding-inline-end",
+
+    "border",
+    "border-width",
+    "border-style",
+    "border-color",
+
+    "border-top",
+    "border-top-width",
+    "border-top-style",
+    "border-top-color",
+
+    "border-right",
+    "border-right-width",
+    "border-right-style",
+    "border-right-color",
+
+    "border-bottom",
+    "border-bottom-width",
+    "border-bottom-style",
+    "border-bottom-color",
+
+    "border-left",
+    "border-left-width",
+    "border-left-style",
+    "border-left-color",
+
+    "border-inline",
+    "border-inline-width",
+    "border-inline-style",
+    "border-inline-color",
+    "border-block",
+    "border-block-width",
+    "border-block-style",
+    "border-block-color",
+
+    "border-radius",
+    "border-top-left-radius",
+    "border-top-right-radius",
+    "border-bottom-left-radius",
+    "border-bottom-right-radius",
+    "border-start-start-radius",
+    "border-start-end-radius",
+    "border-end-start-radius",
+    "border-end-end-radius",
+
+    "border-image",
+    "border-image-source",
+    "border-image-slice",
+    "border-image-width",
+    "border-image-outset",
+    "border-image-repeat",
+
+    "outline",
+    "outline-width",
+    "outline-style",
+    "outline-color",
+    "outline-offset",
+
+    "box-shadow",
+    "box-decoration-break",
+    "background-clip",
+    "background-origin",
+
+    "overflow-clip-margin",
+    "overflow-clip-box",
+    "contain-intrinsic-size",
+    "contain-intrinsic-width",
+    "contain-intrinsic-height"
+  ]
+}
+{
+  "CSS_Typography_Properties": [
+
+    "font",
+    "font-family",
+    "font-size",
+    "font-weight",
+    "font-style",
+    "font-stretch",
+    "font-variant",
+    "font-variant-ligatures",
+    "font-variant-caps",
+    "font-variant-numeric",
+    "font-variant-east-asian",
+    "font-variant-position",
+    "font-synthesis",
+    "font-synthesis-small-caps",
+    "font-feature-settings",
+    "font-kerning",
+    "font-optical-sizing",
+    "font-palette",
+    "font-language-override",
+    "font-display",
+
+    "line-height",
+    "line-height-step",
+    "letter-spacing",
+    "word-spacing",
+
+    "text-align",
+    "text-align-last",
+    "text-justify",
+
+    "text-transform",
+    "text-indent",
+    "text-rendering",
+
+    "text-decoration",
+    "text-decoration-line",
+    "text-decoration-color",
+    "text-decoration-style",
+    "text-decoration-thickness",
+    "text-decoration-skip",
+    "text-decoration-skip-ink",
+
+    "text-emphasis",
+    "text-emphasis-color",
+    "text-emphasis-style",
+    "text-emphasis-position",
+
+    "text-orientation",
+    "writing-mode",
+    "direction",
+    "unicode-bidi",
+
+    "text-shadow",
+
+    "white-space",
+    "white-space-collapse",
+    "white-space-trim",
+
+    "word-break",
+    "overflow-wrap",
+    "hyphens",
+
+    "tab-size",
+
+    "text-wrap",
+    "text-wrap-style",
+    "text-wrap-mode",
+
+    "line-break",
+    "word-wrap",
+
+    "color", 
+    "text-size-adjust",
+
+    "quotes",
+    "hanging-punctuation",
+    "punctuation-trim",
+
+    "ruby-position",
+    "ruby-align",
+    "ruby-merge",
+
+    "orphans",
+    "widows"
+  ]
+}
+{
+  "CSS_Background_Border_Mask_Properties": [
+
+    "background",
+    "background-color",
+    "background-image",
+    "background-repeat",
+    "background-position",
+    "background-size",
+    "background-attachment",
+    "background-origin",
+    "background-clip",
+    "background-blend-mode",
+    "background-position-x",
+    "background-position-y",
+
+    "background-repeat-x",
+    "background-repeat-y",
+
+    "background-composite",
+
+    "background-layer",
+
+    "box-decoration-break",
+
+    "border",
+    "border-width",
+    "border-style",
+    "border-color",
+
+    "border-radius",
+    "border-top-left-radius",
+    "border-top-right-radius",
+    "border-bottom-left-radius",
+    "border-bottom-right-radius",
+    "border-start-start-radius",
+    "border-start-end-radius",
+    "border-end-start-radius",
+    "border-end-end-radius",
+
+    "border-spacing",
+    "border-collapse",
+
+    "border-image",
+    "border-image-source",
+    "border-image-slice",
+    "border-image-width",
+    "border-image-outset",
+    "border-image-repeat",
+
+    "mask",
+    "mask-image",
+    "mask-mode",
+    "mask-repeat",
+    "mask-position",
+    "mask-size",
+    "mask-origin",
+    "mask-clip",
+    "mask-type",
+    "mask-border",
+    "mask-border-width",
+    "mask-border-outset",
+    "mask-border-repeat",
+    "mask-border-slice",
+    "mask-border-source",
+
+    "clip-path",
+    "clip-rule",
+
+    "mix-blend-mode",
+    "isolation",
+
+    "filter",
+    "backdrop-filter",
+
+    "shape-outside",
+    "shape-margin",
+    "shape-image-threshold",
+
+    "object-fit",
+    "object-position",
+
+    "image-rendering",
+
+    "opacity"
+  ]
+}
+{
+  "CSS_Effects_Properties": [
+
+    /* ===============================
+       TRANSFORM / 變形
+    =============================== */
+
+    "transform",
+    "transform-origin",
+    "transform-box",
+    "transform-style",
+    "translate",
+    "rotate",
+    "scale",
+    "skew",
+    "skew-x",
+    "skew-y",
+    "perspective",
+    "perspective-origin",
+    "backface-visibility",
+
+    /* ===============================
+       TRANSITION / 過渡動畫
+    =============================== */
+
+    "transition",
+    "transition-property",
+    "transition-duration",
+    "transition-timing-function",
+    "transition-delay",
+
+    /* ===============================
+       ANIMATION / 關鍵影格動畫
+    =============================== */
+
+    "animation",
+    "animation-name",
+    "animation-duration",
+    "animation-delay",
+    "animation-direction",
+    "animation-timing-function",
+    "animation-fill-mode",
+    "animation-iteration-count",
+    "animation-play-state",
+    "animation-composition",
+    "animation-timeline",
+    "animation-range",
+    "animation-range-start",
+    "animation-range-end",
+
+    /* ===============================
+       @規則 - 動畫（屬性列表）
+    =============================== */
+    "@keyframes",
+    "@property", 
+
+    /* ===============================
+       FILTER / 濾鏡
+    =============================== */
+
+    "filter",
+    "backdrop-filter",
+
+    /* Filter functions */
+    "blur",
+    "brightness",
+    "contrast",
+    "drop-shadow",
+    "grayscale",
+    "hue-rotate",
+    "invert",
+    "opacity-filter",
+    "saturate",
+    "sepia",
+
+    /* ===============================
+       COMPOSITING / 混合
+    =============================== */
+
+    "mix-blend-mode",
+    "background-blend-mode",
+    "isolation",
+
+    /* ===============================
+       SCROLL EFFECTS / 滾動效果
+    =============================== */
+
+    "scroll-behavior",
+    "scroll-timeline",
+    "scroll-timeline-axis",
+    "scroll-timeline-name",
+
+    "view-timeline",
+    "view-timeline-name",
+    "view-timeline-axis",
+
+    "scroll-snap-type",
+    "scroll-snap-align",
+    "scroll-snap-stop",
+    "scroll-padding",
+    "scroll-padding-top",
+    "scroll-padding-right",
+    "scroll-padding-bottom",
+    "scroll-padding-left",
+    "scroll-margin",
+    "scroll-margin-top",
+    "scroll-margin-right",
+    "scroll-margin-bottom",
+    "scroll-margin-left",
+
+    /* ===============================
+       MOTION PATH / 路徑動畫
+    =============================== */
+
+    "offset",
+    "offset-path",
+    "offset-distance",
+    "offset-rotate",
+    "offset-anchor",
+
+    /* ===============================
+       VIEW / PAGE TRANSITION API
+    =============================== */
+
+    "view-transition-name",
+    "page-transition-tag"
+  ]
+}
+{
+  "CSS_Colors_and_Gradients": [
+
+    /* ===============================
+       COLOR SYNTAX / 顏色語法
+    =============================== */
+
+    "hex-color",
+    "rgb",
+    "rgba",
+    "hsl",
+    "hsla",
+
+    /* CSS Color Level 4+ */
+    "hwb",
+    "lab",
+    "lch",
+    "oklab",
+    "oklch",
+
+    "color",
+    "color-mix",
+    "color-contrast",
+
+    "system-color",
+    "currentColor",
+
+    "transparent",
+    "opacity-color",
+
+
+    /* ===============================
+       GRADIENTS / 漸層函式
+    =============================== */
+
+    "linear-gradient",
+    "repeating-linear-gradient",
+    "radial-gradient",
+    "repeating-radial-gradient",
+    "conic-gradient",
+    "repeating-conic-gradient",
+
+    /* 新色彩空間漸層 */
+    "lab-gradient",
+    "lch-gradient",
+    "oklab-gradient",
+    "oklch-gradient",
+
+
+    /* ===============================
+       IMAGE FUNCTIONS / 圖像函式
+    =============================== */
+
+    "image",
+    "image-set",
+
+    "cross-fade",
+    "element",
+
+    "paint",   /* CSS Houdini Paint API */
+
+
+    /* ===============================
+       BASIC PATTERNS / 基礎內建圖樣
+    =============================== */
+
+    "checkerboard",
+    "noise",
+    "grid-gradient",
+
+
+    /* ===============================
+       COLOR KEYWORDS / 顏色關鍵字
+    =============================== */
+
+    "aliceblue",
+    "antiquewhite",
+    "aqua",
+    "aquamarine",
+    "azure",
+    "beige",
+    "bisque",
+    "black",
+    "blanchedalmond",
+    "blue",
+    "blueviolet",
+    "brown",
+    "burlywood",
+    "cadetblue",
+    "chartreuse",
+    "chocolate",
+    "coral",
+    "cornflowerblue",
+    "cornsilk",
+    "crimson",
+    "cyan",
+    "darkblue",
+    "darkcyan",
+    "darkgoldenrod",
+    "darkgray",
+    "darkgreen",
+    "darkgrey",
+    "darkkhaki",
+    "darkmagenta",
+    "darkolivegreen",
+    "darkorange",
+    "darkorchid",
+    "darkred",
+    "darksalmon",
+    "darkseagreen",
+    "darkslateblue",
+    "darkslategray",
+    "darkslategrey",
+    "darkturquoise",
+    "darkviolet",
+    "deeppink",
+    "deepskyblue",
+    "dimgray",
+    "dimgrey",
+    "dodgerblue",
+    "firebrick",
+    "floralwhite",
+    "forestgreen",
+    "fuchsia",
+    "gainsboro",
+    "ghostwhite",
+    "gold",
+    "goldenrod",
+    "gray",
+    "green",
+    "greenyellow",
+    "grey",
+    "honeydew",
+    "hotpink",
+    "indianred",
+    "indigo",
+    "ivory",
+    "khaki",
+    "lavender",
+    "lavenderblush",
+    "lawngreen",
+    "lemonchiffon",
+    "lightblue",
+    "lightcoral",
+    "lightcyan",
+    "lightgoldenrodyellow",
+    "lightgray",
+    "lightgreen",
+    "lightgrey",
+    "lightpink",
+    "lightsalmon",
+    "lightseagreen",
+    "lightskyblue",
+    "lightslategray",
+    "lightslategrey",
+    "lightsteelblue",
+    "lightyellow",
+    "lime",
+    "limegreen",
+    "linen",
+    "magenta",
+    "maroon",
+    "mediumaquamarine",
+    "mediumblue",
+    "mediumorchid",
+    "mediumpurple",
+    "mediumseagreen",
+    "mediumslateblue",
+    "mediumspringgreen",
+    "mediumturquoise",
+    "mediumvioletred",
+    "midnightblue",
+    "mintcream",
+    "mistyrose",
+    "moccasin",
+    "navajowhite",
+    "navy",
+    "oldlace",
+    "olive",
+    "olivedrab",
+    "orange",
+    "orangered",
+    "orchid",
+    "palegoldenrod",
+    "palegreen",
+    "paleturquoise",
+    "palevioletred",
+    "papayawhip",
+    "peachpuff",
+    "peru",
+    "pink",
+    "plum",
+    "powderblue",
+    "purple",
+    "rebeccapurple",
+    "red",
+    "rosybrown",
+    "royalblue",
+    "saddlebrown",
+    "salmon",
+    "sandybrown",
+    "seagreen",
+    "seashell",
+    "sienna",
+    "silver",
+    "skyblue",
+    "slateblue",
+    "slategray",
+    "slategrey",
+    "snow",
+    "springgreen",
+    "steelblue",
+    "tan",
+    "teal",
+    "thistle",
+    "tomato",
+    "turquoise",
+    "violet",
+    "wheat",
+    "white",
+    "whitesmoke",
+    "yellow",
+    "yellowgreen"
+  ]
+}
+{
+  "CSS_Selectors": [
+
+    /* ===============================
+       BASIC SELECTORS / 基本選擇器
+    =============================== */
+
+    "*",
+    "element",
+    "element1 element2",
+    "#id",
+    ".class",
+    ".class1.class2",
+    "element.class",
+    "element#id",
+
+    /* ===============================
+       ATTRIBUTE SELECTORS / 屬性選擇器
+    =============================== */
+
+    "[attr]",
+    "[attr=value]",
+    "[attr~=value]",
+    "[attr|=value]",
+    "[attr^=value]",
+    "[attr$=value]",
+    "[attr*=value]",
+    "[attr=\"value\"]",
+    "[attr='value']",
+
+    /* ===============================
+       COMBINATORS / 組合器
+    =============================== */
+
+    "selector1 selector2",
+    "selector1 > selector2",
+    "selector1 + selector2",
+    "selector1 ~ selector2",
+    "selector1 || selector2",
+
+
+    /* ===============================
+       PSEUDO-CLASSES / 偽類
+    =============================== */
+
+    ":hover",
+    ":active",
+    ":focus",
+    ":focus-visible",
+    ":focus-within",
+
+    ":link",
+    ":visited",
+
+    ":checked",
+    ":indeterminate",
+    ":disabled",
+    ":enabled",
+    ":required",
+    ":optional",
+    ":read-only",
+    ":read-write",
+    ":placeholder-shown",
+
+    ":root",
+    ":empty",
+    ":target",
+
+    ":valid",
+    ":invalid",
+    ":in-range",
+    ":out-of-range",
+
+    ":default",
+    ":fullscreen",
+
+    ":scope",
+
+    ":not",
+    ":has",
+    ":is",
+    ":where",
+
+    ":dir",
+    ":lang",
+
+    ":nth-child",
+    ":nth-last-child",
+    ":nth-of-type",
+    ":nth-last-of-type",
+
+    ":first-child",
+    ":last-child",
+    ":only-child",
+
+    ":first-of-type",
+    ":last-of-type",
+    ":only-of-type",
+
+    ":nth-col",
+    ":nth-last-col",
+
+    ":user-invalid",
+    ":autofill",
+
+
+    /* ===============================
+       PSEUDO-ELEMENTS / 偽元素
+    =============================== */
+
+    "::before",
+    "::after",
+    "::first-letter",
+    "::first-line",
+
+    "::backdrop",
+    "::marker",
+    "::selection",
+
+    "::placeholder",
+    "::file-selector-button",
+    "::cue",
+    "::cue-region",
+
+    "::part",
+    "::slotted",
+
+    "::spelling-error",
+    "::grammar-error",
+
+
+    /* ===============================
+       SHADOW DOM SELECTORS
+    =============================== */
+
+    ":host",
+    ":host()",
+    ":host-context",
+    "::slotted(selector)",
+
+
+    /* ===============================
+       FULL SELECTOR LISTS
+    =============================== */
+
+    "selector1, selector2",
+
+
+    /* ===============================
+       LEVEL 4+ SELECTORS（新 CSS）
+    =============================== */
+
+    ":has(+ .class)",
+    ":has(> element)",
+    ":has(:checked)",
+    ":is(h1, h2, h3)",
+    ":where(article p)",
+    ":not(.disabled)",
+
+    ":nth-child(odd)",
+    ":nth-child(even)",
+    ":nth-child(An+B of selector)",
+    ":nth-of-type(An+B)",
+
+    ":focus-visible",
+    ":focus-within",
+
+    "::view-transition",
+    "::view-transition-group",
+    "::view-transition-image",
+    "::view-transition-old",
+    "::view-transition-new"
+  ]
+}
+{
+  "CSS_At_Rules": [
+
+    /* ===============================
+       BASIC @RULES
+    =============================== */
+
+    "@import",
+    "@charset",
+    "@namespace",
+
+
+    /* ===============================
+       MEDIA QUERIES
+    =============================== */
+
+    "@media",
+    "@media (min-width)",
+    "@media (max-width)",
+    "@media (prefers-color-scheme)",
+    "@media (prefers-reduced-motion)",
+    "@media (color-gamut)",
+
+
+    /* ===============================
+       SUPPORTS QUERIES
+    =============================== */
+
+    "@supports",
+    "@supports selector",
+    "@supports not",
+    "@supports (display: grid)",
+
+
+    /* ===============================
+       FONT RULES
+    =============================== */
+
+    "@font-face",
+    "@font-feature-values",
+    "@font-palette-values",
+    "@counter-style",
+
+
+    /* ===============================
+       ANIMATION RULES
+    =============================== */
+
+    "@keyframes",
+    "@keyframes from",
+    "@keyframes to",
+    "@keyframes percentage",
+
+
+    /* ===============================
+       PAGE / PRINT
+    =============================== */
+
+    "@page",
+    "@page :first",
+    "@page :left",
+    "@page :right",
+    "@page margin",
+    "@page size",
+
+
+    /* ===============================
+       LAYERING (CASCADE LAYERS)
+    =============================== */
+
+    "@layer",
+    "@layer base",
+    "@layer components",
+    "@layer utilities",
+
+
+    /* ===============================
+       CONTAINER QUERIES（最新）
+    =============================== */
+
+    "@container",
+    "@container (min-width)",
+    "@container style",
+    "@container size",
+
+
+    /* ===============================
+       SCOPE（CSS Scoping 新規格）
+    =============================== */
+
+    "@scope",
+    "@scope (:root)",
+    "@scope (.app)",
+    "@scope (.theme-light)",
+
+
+    /* ===============================
+       COLOR PROFILE（Color Module Level 4）
+    =============================== */
+
+    "@color-profile",
+    "@color-profile display-p3",
+    "@color-profile srgb",
+
+
+    /* ===============================
+       PROPERTY REGISTRATION
+    =============================== */
+
+    "@property",
+    "@property --custom-prop",
+    "@property syntax",
+    "@property inherits",
+    "@property initial-value",
+
+
+    /* ===============================
+       CONTAINER STYLE QUERIES
+    =============================== */
+
+    "@container style(--property)",
+    "@container inline-size",
+
+
+    /* ===============================
+       COUNTER STYLE
+    =============================== */
+
+    "@counter-style",
+    "@counter-style custom",
+    "@counter-style additive-symbols",
+    "@counter-style negative",
+    "@counter-style pad",
+
+
+    /* ===============================
+       VIEW TRANSITIONS
+    =============================== */
+
+    "@view-transition",
+    "@view-transition-group",
+
+
+    /* ===============================
+       MEDIA FEATURES（大量）
+    =============================== */
+
+    "@media (orientation: landscape)",
+    "@media (orientation: portrait)",
+    "@media (hover: none)",
+    "@media (pointer: coarse)",
+    "@media (prefers-contrast: more)",
+    "@media (prefers-reduced-transparency: reduce)",
+    "@media (forced-colors: active)",
+
+
+    /* ===============================
+       SUPPORTS FEATURES（例）
+    =============================== */
+
+    "@supports (scroll-timeline: auto)",
+    "@supports (container-type: inline-size)",
+    "@supports (view-transition-name: slide)",
+
+
+    /* ===============================
+       MATH / TYPES / HIGH-LEVEL
+    =============================== */
+
+    "@when",
+    "@else",
+
+
+    /* ===============================
+       SPEECH / AURAL CSS
+    =============================== */
+
+    "@voice",
+    "@voice-range",
+    "@voice-volume",
+
+
+    /* ===============================
+       KEYWORD-LEVEL (ALL ALLOWED)
+    =============================== */
+
+    "@document",       /* 已廢棄但真實存在 */
+    "@region",         /* 部分瀏覽器曾試驗 */
+    "@viewport",       /* 被廢棄但仍屬 CSS */
+    "@top-left",       /* print media extensions */
+    "@bottom-right"
+  ]
+}
+{
+  "CSS_Units": [
+
+    /* ===============================
+       ABSOLUTE LENGTH UNITS / 絕對長度單位
+    =============================== */
+
+    "px",
+    "cm",
+    "mm",
+    "Q",
+    "in",
+    "pt",
+    "pc",
+
+    /* ===============================
+       RELATIVE LENGTH UNITS / 相對長度單位
+    =============================== */
+
+    "em",
+    "rem",
+    "ex",
+    "ch",
+    "ic",
+    "rlh",
+    "lh",
+
+    /* ===============================
+       VIEWPORT UNITS / 視窗單位（舊）
+    =============================== */
+
+    "vw",
+    "vh",
+    "vmin",
+    "vmax",
+
+    /* ===============================
+       VIEWPORT UNITS — LEVEL 4（新）
+       小視窗 Small Viewport
+       大視窗 Large Viewport
+       動態視窗 Dynamic Viewport
+    =============================== */
+
+    "svw",
+    "svh",
+    "svmin",
+    "svmax",
+
+    "lvw",
+    "lvh",
+    "lvmin",
+    "lvmax",
+
+    "dvw",
+    "dvh",
+    "dvmin",
+    "dvmax",
+
+    /* ===============================
+       PERCENTAGE
+    =============================== */
+
+    "%",
+    
+    /* ===============================
+       ANGLE UNITS / 角度
+    =============================== */
+
+    "deg",
+    "rad",
+    "grad",
+    "turn",
+
+    /* ===============================
+       TIME UNITS / 時間
+    =============================== */
+
+    "s",
+    "ms",
+
+    /* ===============================
+       FREQUENCY UNITS / 頻率
+    =============================== */
+
+    "Hz",
+    "kHz",
+
+    /* ===============================
+       RESOLUTION / 解析度單位
+    =============================== */
+
+    "dpi",
+    "dpcm",
+    "dppx",
+    "x",
+
+    /* ===============================
+       FLEX / GRID UNITS
+    =============================== */
+
+    "fr",
+
+    /* ===============================
+       COLOR / OPACITY UNITS（邏輯）
+       （不是實際單位，但屬於值類型分類）
+    =============================== */
+
+    "number",
+    "percentage",
+
+    /* ===============================
+       CONTAINER QUERY UNITS（新）
+    =============================== */
+
+    "cqw",
+    "cqh",
+    "cqmin",
+    "cqmax",
+
+    /* ===============================
+       FONT / TYPOGRAPHY LOGICAL UNITS
+    =============================== */
+
+    "cap",
+    "rcap",
+    "lh",
+    "rlh",
+
+    /* ===============================
+       WEB ANIMATION / MOTION UNITS
+    =============================== */
+
+    "timeline-range",
+
+    /* ===============================
+       SPECIAL UNIT TYPES
+    =============================== */
+
+    "resolution",
+    "flex",
+    "angle",
+    "time",
+    "frequency"
+  ]
+}
+{
+  "CSS_Functions": [
+
+    /* ===============================
+       MATH FUNCTIONS / 計算函式
+    =============================== */
+
+    "calc()",
+    "min()",
+    "max()",
+    "clamp()",
+    "round()",
+    "mod()",
+    "rem()",
+    "sign()",
+    "pow()",
+    "sqrt()",
+
+    /* ===============================
+       COLOR FUNCTIONS
+    =============================== */
+
+    "rgb()",
+    "rgba()",
+    "hsl()",
+    "hsla()",
+    "hwb()",
+    "lab()",
+    "lch()",
+    "oklab()",
+    "oklch()",
+    "color()",
+    "color-mix()",
+    "color-contrast()",
+
+    /* ===============================
+       FILTER FUNCTIONS
+    =============================== */
+
+    "blur()",
+    "brightness()",
+    "contrast()",
+    "drop-shadow()",
+    "grayscale()",
+    "hue-rotate()",
+    "invert()",
+    "opacity()",
+    "saturate()",
+    "sepia()",
+
+    /* ===============================
+       TRANSFORM 2D / 3D FUNCTIONS
+    =============================== */
+
+    "matrix()",
+    "matrix3d()",
+    "translate()",
+    "translateX()",
+    "translateY()",
+    "translateZ()",
+    "translate3d()",
+    "scale()",
+    "scaleX()",
+    "scaleY()",
+    "scaleZ()",
+    "scale3d()",
+    "rotate()",
+    "rotateX()",
+    "rotateY()",
+    "rotateZ()",
+    "rotate3d()",
+    "skew()",
+    "skewX()",
+    "skewY()",
+    "perspective()",
+
+    /* ===============================
+       SHAPES & CLIP-PATH FUNCTIONS
+    =============================== */
+
+    "inset()",
+    "circle()",
+    "ellipse()",
+    "polygon()",
+    "path()",  
+    "ray()",    /* CSS Motion Path Level 1 */
+
+    /* ===============================
+       GRADIENT FUNCTIONS
+    =============================== */
+
+    "linear-gradient()",
+    "repeating-linear-gradient()",
+    "radial-gradient()",
+    "repeating-radial-gradient()",
+    "conic-gradient()",
+    "repeating-conic-gradient()",
+
+    /* ===============================
+       IMAGE / MEDIA FUNCTIONS
+    =============================== */
+
+    "url()",
+    "image()",
+    "image-set()",
+    "paint()",        /* CSS Houdini Paint API */
+    "cross-fade()",
+    "element()",
+
+    /* ===============================
+       COUNTERS & LISTS
+    =============================== */
+
+    "counter()",
+    "counters()",
+    "symbols()",
+
+    /* ===============================
+       VARIABLE FUNCTIONS
+    =============================== */
+
+    "var()",
+    "env()",
+    "attr()",
+
+    /* ===============================
+       TIMELINE / VIEW FUNCTIONS
+    =============================== */
+
+    "scroll-timeline()",
+    "view-timeline()",
+    "timeline-range()",
+
+    /* ===============================
+       X-PROPERTY / UNKNOWN EXTENSIONS
+       （實際 CSS 可使用 function 名稱）
+    =============================== */
+
+    "minmax()",
+    "repeat()",
+
+    /* ===============================
+       MISC
+    =============================== */
+
+    "local()",          /* font-face 相關 */
+    "format()",         /* 媒體格式 */
+    "supports()",       /* container / @supports 內使用 */
+    "device-cmyk()"     /* 印刷色彩 models */
+  ]
+}
+{
+  "CSS_Value_Types": [
+
+    /* ===============================
+       BASIC PRIMITIVE TYPES
+    =============================== */
+
+    "<number>",
+    "<integer>",
+    "<string>",
+    "<url>",
+    "<color>",
+    "<image>",
+    "<percentage>",
+    "<length>",
+    "<angle>",
+    "<time>",
+    "<resolution>",
+    "<flex>",
+    "<frequency>",
+    "<dimension>",
+
+    /* ===============================
+       COMPLEX VALUE TYPES
+    =============================== */
+
+    "<length-percentage>",
+    "<transform-function>",
+    "<transform-list>",
+    "<gradient>",
+    "<image-set>",
+    "<filter-function>",
+    "<shape>",
+    "<basic-shape>",
+    "<position>",
+    "<ratio>",
+    "<calc-sum>",
+    "<calc-product>",
+    "<calc-value>",
+    "<numeric>",
+    "<symbol>",
+    "<counter>",
+    "<counter-style>",
+    "<string-token>",
+    "<custom-ident>",
+    "<custom-property-name>",
+    "<timeline>",
+
+    /* ===============================
+       GENERIC FAMILY TYPES
+    =============================== */
+
+    "<font-family>",
+    "<font-feature-values>",
+    "<font-variant>",
+    "<line-style>",
+    "<border-style>",
+    "<border-width>",
+    "<radius>",
+
+    /* ===============================
+       GRID/FLEX TYPES
+    =============================== */
+
+    "<grid-template>",
+    "<grid-line>",
+    "<grid-area>",
+    "<grid-track-size>",
+    "<grid-auto>",
+    "<flex-basis>",
+    "<flex-grow>",
+    "<flex-shrink>",
+
+    /* ===============================
+       ANIMATION TYPES
+    =============================== */
+
+    "<animation-name>",
+    "<animation-duration>",
+    "<animation-timing-function>",
+    "<animation-iteration-count>",
+    "<animation-direction>",
+    "<animation-fill-mode>",
+    "<animation-range>",
+
+    /* ===============================
+       TIMELINE TYPES
+    =============================== */
+
+    "<view-timeline>",
+    "<scroll-timeline>",
+    "<timeline-range>",
+
+    /* ===============================
+       SHAPE TYPES
+    =============================== */
+
+    "<inset-rect>",
+    "<circle>",
+    "<ellipse>",
+    "<polygon>",
+    "<path>",
+
+    /* ===============================
+       SPECIAL KEYWORDS (CSS)
+    =============================== */
+
+    "auto",
+    "none",
+    "normal",
+    "min-content",
+    "max-content",
+    "fit-content",
+    "stretch",
+    "safe",
+    "unsafe",
+
+    /* ===============================
+       GLOBAL VALUES / 全域關鍵字
+    =============================== */
+
+    "inherit",
+    "initial",
+    "unset",
+    "revert",
+    "revert-layer",
+    "default",
+
+    /* ===============================
+       SYSTEM & ACCESSIBILITY
+    =============================== */
+
+    "system-ui",
+    "ui-serif",
+    "ui-sans-serif",
+    "ui-monospace",
+    "ui-rounded",
+
+    /* ===============================
+       COLOR-SPACE IDENTIFIERS
+    =============================== */
+
+    "srgb",
+    "srgb-linear",
+    "display-p3",
+    "a98-rgb",
+    "prophoto-rgb",
+    "rec2020",
+    "xyz",
+    "xyz-d50",
+    "xyz-d65"
+  ],
+
+
+  /* ===============================
+     CSS MODULES INDEX（全語法分類）
+  =============================== */
+
+  "CSS_Modules": [
+    "CSS Cascade & Inheritance",
+    "CSS Selectors Level 3/4",
+    "CSS Color Module Level 1–5",
+    "CSS Backgrounds & Borders",
+    "CSS Images Module",
+    "CSS Values & Units",
+    "CSS Display",
+    "CSS Box Model",
+    "CSS Positioning",
+    "CSS Flexbox",
+    "CSS Grid",
+    "CSS Multi-column Layout",
+    "CSS Table Layout",
+    "CSS Writing Modes",
+    "CSS Logical Properties",
+    "CSS Transforms",
+    "CSS Transitions",
+    "CSS Animations",
+    "CSS Scroll-Driven Animations",
+    "CSS View Transitions",
+    "CSS Containment",
+    "CSS Will-Change",
+    "CSS Filters",
+    "CSS Masking",
+    "CSS Shapes",
+    "CSS Motion Path",
+    "CSS Overflow",
+    "CSS Fragmentation",
+    "CSS Scroll Snap",
+    "CSS Speech Module",
+    "CSS Fonts Level 3/4",
+    "CSS UI Module",
+    "CSS Namespaces",
+    "CSS Paged Media",
+    "CSS Counter Styles",
+    "CSS Ruby Layout",
+    "CSS Houdini Specs",
+    "CSS Typed OM",
+    "CSS Painting API",
+    "CSS Property & Value API",
+    "CSS Layout API",
+    "CSS Containment Module",
+    "CSS Cascade Layers",
+    "CSS Container Queries",
+    "CSS Scoping"
+  ]
+}
